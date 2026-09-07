@@ -1,0 +1,3786 @@
+{
+  "schemaVersion": 2,
+  "kind": "wwm-inner-ways",
+  "innerWays": [
+    {
+      "name": "Wind Beneath Wings",
+      "tiers": [
+        [
+          {
+            "text": "Reduces the Endurance cost of Movement Mystic Skills [Skywalk Dash]'s dash while jumping by 10%. After landing, increases Movement Speed by 30% for 3 seconds. Restores bonus HP (1% Max HP +1,000) after defeating any enemy."
+          }
+        ],
+        [
+          {
+            "text": "Increases the Endurance cost reduction of Skywalk Dash to 40%."
+          }
+        ],
+        [
+          {
+            "text": "Increases Max HP based on Solo Mode Level.",
+            "soloLevelValues": [
+              {
+                "stat": "Max HP",
+                "formats": [
+                  "0f"
+                ],
+                "levels": [
+                  null,
+                  null,
+                  null,
+                  null,
+                  453,
+                  616,
+                  812,
+                  1029,
+                  1204,
+                  1204,
+                  1204,
+                  1429,
+                  1667,
+                  1941,
+                  2154,
+                  2261,
+                  2367
+                ]
+              }
+            ]
+          }
+        ],
+        [
+          {
+            "text": "Increases the dash speed of Skywalk Dash by 30%."
+          }
+        ],
+        [
+          {
+            "text": "Increases the Max HP restored after defeating an enemy to 2,400."
+          }
+        ],
+        [
+          {
+            "text": "Increases Physical DMG Reduction by 2.2%."
+          }
+        ],
+        [
+          {
+            "text": "Reduces Endurance cost by 30% for 3 seconds after [Skywalk Dash]'s dashing ends."
+          }
+        ]
+      ]
+    },
+    {
+      "name": "Evening Snow",
+      "tiers": [
+        [
+          {
+            "text": "Within 12 seconds upon entering combat, if HP falls below 60%, gain Snow Vision for 4 seconds, restoring 2% HP +600 HP per second. This effect can trigger once every 300 seconds."
+          }
+        ],
+        [
+          {
+            "text": "Increases the HP restored per second by Snow Vision to 3% +600."
+          }
+        ],
+        [
+          {
+            "text": "Increases Max HP based on Solo Mode Level.",
+            "soloLevelValues": [
+              {
+                "stat": "Max HP",
+                "formats": [
+                  "0f"
+                ],
+                "levels": [
+                  null,
+                  null,
+                  null,
+                  null,
+                  453,
+                  616,
+                  812,
+                  1029,
+                  1204,
+                  1204,
+                  1204,
+                  1429,
+                  1667,
+                  1941,
+                  2154,
+                  2261,
+                  2367
+                ]
+              }
+            ]
+          }
+        ],
+        [
+          {
+            "text": "While Snow Vision is present, restores HP equal to 10% of the damage dealt."
+          }
+        ],
+        [
+          {
+            "text": "Reduces the cooldown of Snow Vision by 50% (once every 150 seconds)."
+          }
+        ],
+        [
+          {
+            "text": "Increases Physical Resistance by 4.5."
+          }
+        ],
+        [
+          {
+            "text": "While Snow Vision is present, gain a bonus special effect: The next 2 skills are guaranteed to be Critical."
+          }
+        ]
+      ]
+    },
+    {
+      "name": "Steadfast Stance",
+      "tiers": [
+        [
+          {
+            "text": "Less likely to suffer stagger effect when attacked. Invalid when the attack comes from a boss or player."
+          }
+        ],
+        [
+          {
+            "text": "Higher resistance to stun effect when more enemy units are nearby. "
+          }
+        ],
+        [
+          {
+            "text": "Increases Physical Defense based on Solo Mode Level.",
+            "soloLevelValues": [
+              {
+                "stat": "Physical Defense",
+                "formats": [
+                  "1f"
+                ],
+                "levels": [
+                  null,
+                  null,
+                  null,
+                  null,
+                  6,
+                  8.1,
+                  10.7,
+                  13.5,
+                  15.8,
+                  15.8,
+                  15.8,
+                  18.8,
+                  21.9,
+                  25.5,
+                  28.3,
+                  29.7,
+                  31.2
+                ]
+              }
+            ]
+          }
+        ],
+        [
+          {
+            "text": "10% chance to increase Physical Defense by 2% for 5 seconds when attacked, stacking up to 5 times."
+          }
+        ],
+        [
+          {
+            "text": "The stun resistance also works against bosses."
+          }
+        ],
+        [
+          {
+            "text": "Increases Physical Resistance by 4.5."
+          }
+        ],
+        [
+          {
+            "text": "20% chance to gain Fiery Heart when attacked: Deal counterattack damage (0.2% of Max HP) to the attacker. This effect lasts 5 seconds and can only trigger once every 30 seconds."
+          }
+        ]
+      ]
+    },
+    {
+      "name": "Shadow Assault",
+      "tiers": [
+        [
+          {
+            "text": "Enhances Touch of Death, increasing its range by 1.5m and damage by 10%. Upon a successful hit, restores HP equal to 5% of the damage dealt."
+          }
+        ],
+        [
+          {
+            "text": "Increases the HP restored by ambush to 10% of the damage dealt."
+          }
+        ],
+        [
+          {
+            "text": "Increases Min Physical Attack based on Solo Mode Level.",
+            "soloLevelValues": [
+              {
+                "stat": "Min Physical Attack",
+                "formats": [
+                  "1f"
+                ],
+                "levels": [
+                  null,
+                  null,
+                  null,
+                  null,
+                  11.9,
+                  16.2,
+                  21.4,
+                  27.1,
+                  31.7,
+                  31.7,
+                  31.7,
+                  37.6,
+                  43.9,
+                  51.1,
+                  56.7,
+                  59.5,
+                  62.3
+                ]
+              }
+            ]
+          }
+        ],
+        [
+          {
+            "text": "After a successful ambush, there is a high chance to obtain loot from the target."
+          }
+        ],
+        [
+          {
+            "text": "Increases the max range of ambush to 2.5m."
+          }
+        ],
+        [
+          {
+            "text": "Increases Physical DMG Bonus by 2.2%."
+          }
+        ],
+        [
+          {
+            "text": "Upon a successful hit, immediately enters Stealth. This effect has a 20-second cooldown."
+          }
+        ]
+      ]
+    },
+    {
+      "name": "Fivefold Bleed",
+      "tiers": [
+        [
+          {
+            "text": "Dealing damage has a 10% chance to apply one stack of Weeping Blood for 5 seconds, damaging the target once per second (up to 5 stacks, duration refreshed upon stacking). At 5 stacks, Weeping Blood will be removed from the target and deal piercing damage once."
+          }
+        ],
+        [
+          {
+            "text": "Increases piercing damage by 100%."
+          }
+        ],
+        [
+          {
+            "text": "Increases Max Physical Attack based on Solo Mode Level.",
+            "soloLevelValues": [
+              {
+                "stat": "Max Physical Attack",
+                "formats": [
+                  "1f"
+                ],
+                "levels": [
+                  null,
+                  null,
+                  null,
+                  null,
+                  11.9,
+                  16.2,
+                  21.4,
+                  27.1,
+                  31.7,
+                  31.7,
+                  31.7,
+                  37.6,
+                  43.9,
+                  51.1,
+                  56.7,
+                  59.5,
+                  62.3
+                ]
+              }
+            ]
+          }
+        ],
+        [
+          {
+            "text": "If Weeping Blood fails to reach 5 stacks before expiry, there is still a 20% chance to deal piercing damage."
+          }
+        ],
+        [
+          {
+            "text": "Increases the chance to apply Weeping Blood to 15%."
+          }
+        ],
+        [
+          {
+            "text": "Increases Critical DMG Bonus by 3.5%."
+          }
+        ],
+        [
+          {
+            "text": "After dealing piercing damage and removing Weeping Blood, retains 1-2 stacks of Weeping Blood."
+          }
+        ]
+      ]
+    },
+    {
+      "name": "Carp Flow / Sandswirl Tail",
+      "tiers": [
+        [
+          {
+            "text": "After transforming into a carp using the movement Mystic Skill [Chasing the Moon], Sprint and Jump consume 50% less Endurance."
+          },
+          {
+            "text": "While transformed into a brocade carp via Moonleap Morph, sprinting and jumping consume 50% less Endurance."
+          }
+        ],
+        [
+          {
+            "text": "Leaving the Carp form generates an HP shield that absorbs up to 30% of Max HP, lasting up to 10 seconds. This effect can only trigger once every 30 seconds."
+          }
+        ],
+        [
+          {
+            "text": "Increases Physical Defense based on Solo Mode Level.",
+            "soloLevelValues": [
+              {
+                "stat": "Physical Defense",
+                "formats": [
+                  "1f"
+                ],
+                "levels": [
+                  null,
+                  null,
+                  null,
+                  null,
+                  6,
+                  8.1,
+                  10.7,
+                  13.5,
+                  15.8,
+                  15.8,
+                  15.8,
+                  18.8,
+                  21.9,
+                  25.5,
+                  28.3,
+                  29.7,
+                  31.2
+                ]
+              }
+            ]
+          }
+        ],
+        [
+          {
+            "text": "In the Carp form, HP and Vitality recover over time while you are out of combat. The recovered amount is increased by 100% if you are in a colorful quicksand environment."
+          }
+        ],
+        [
+          {
+            "text": "Sprint and Jump no longer consume Endurance in the Carp form."
+          }
+        ],
+        [
+          {
+            "text": "Increases Physical DMG Reduction by 2.2%."
+          }
+        ],
+        [
+          {
+            "text": "In the Carp form, there is a 30% chance to get double yields from gathering (Stacks with food effects)."
+          }
+        ]
+      ]
+    },
+    {
+      "name": "Invigorated Warrior / Envigorated Warrior",
+      "tiers": [
+        [
+          {
+            "text": "Increases all damage and healing done by 5%. This effect is disabled for 5 seconds after being hit. Taking a hit also grants a Cage effect, increasing all damage taken by 5%."
+          }
+        ],
+        [
+          {
+            "text": "Hearthbound: Now increases all damage taken by 3%."
+          }
+        ],
+        [
+          {
+            "text": "Increases Min Physical Attack based on Solo Mode Level.",
+            "soloLevelValues": [
+              {
+                "stat": "Min Physical Attack",
+                "formats": [
+                  "1f"
+                ],
+                "levels": [
+                  null,
+                  null,
+                  null,
+                  null,
+                  13.4,
+                  18.2,
+                  24,
+                  30.5,
+                  35.6,
+                  35.6,
+                  35.6,
+                  42.3,
+                  49.3,
+                  57.5,
+                  63.8,
+                  66.9,
+                  70.1
+                ]
+              }
+            ]
+          }
+        ],
+        [
+          {
+            "text": "The Hearthbound effect is disabled for 5 seconds after hitting any attack."
+          }
+        ],
+        [
+          {
+            "text": "Invigorated Warrior: Now increases all damage and healing by 8%."
+          },
+          {
+            "text": "Envigorated Warrior: Now increases all damage and healing by 8%."
+          }
+        ],
+        [
+          {
+            "text": "Increases Physical Penetration by 5.1."
+          }
+        ],
+        [
+          {
+            "text": "While Invigorated Warrior is active, landing an attack applies a mark to the target; when attacked by a marked target, Returning Warrior's effect is no longer disabled."
+          },
+          {
+            "text": "While Envigorated Warrior is active, landing an attack applies a mark to the target; when attacked by a marked target, Returning Warrior's effect is no longer disabled."
+          }
+        ]
+      ]
+    },
+    {
+      "name": "Bitter Seasons",
+      "tiers": [
+        [
+          {
+            "text": "When dealing damage, there is a 10% chance to apply a Poison effect for 5 seconds, dealing damage once per second. The Poison reduces target's Physical Defense by 0.6% for 10 seconds, stacking up to 5 times (duration refreshed upon stacking)."
+          }
+        ],
+        [
+          {
+            "text": "Increases the Physical Defense reduction of each Poison stack to 1.2%."
+          }
+        ],
+        [
+          {
+            "text": "Increases Precision Rate based on Solo Mode Level.",
+            "soloLevelValues": [
+              {
+                "stat": "Precision Rate",
+                "formats": [
+                  "1%"
+                ],
+                "levels": [
+                  null,
+                  null,
+                  null,
+                  null,
+                  0.014,
+                  0.019,
+                  0.025,
+                  0.031,
+                  0.037,
+                  0.037,
+                  0.037,
+                  0.043,
+                  0.051,
+                  0.059,
+                  0.065,
+                  0.069,
+                  0.072
+                ]
+              }
+            ]
+          }
+        ],
+        [
+          {
+            "text": "When attacked, there is a 10% chance to apply one stack of Poison to the attacker."
+          }
+        ],
+        [
+          {
+            "text": "Increases the chance to apply Poison when dealing damage to 15%."
+          }
+        ],
+        [
+          {
+            "text": "Increases Physical DMG Bonus by 2.5%."
+          }
+        ],
+        [
+          {
+            "text": "At 5 stacks, the Poison also reduces the target's Physical Resistance by 10."
+          }
+        ]
+      ]
+    },
+    {
+      "name": "Vital Leech",
+      "tiers": [
+        [
+          {
+            "text": "Casting Exhaustion Execution skill restores HP equal to 8% of the damage dealt."
+          }
+        ],
+        [
+          {
+            "text": "Increases the HP restored by Exhaustion Execution Skill to 12% of the damage dealt."
+          }
+        ],
+        [
+          {
+            "text": "Increases Max HP based on Solo Mode Level.",
+            "soloLevelValues": [
+              {
+                "stat": "Max HP",
+                "formats": [
+                  "0f"
+                ],
+                "levels": [
+                  null,
+                  null,
+                  null,
+                  null,
+                  510,
+                  693,
+                  913,
+                  1158,
+                  1354,
+                  1354,
+                  1354,
+                  1608,
+                  1875,
+                  2184,
+                  2423,
+                  2543,
+                  2663
+                ]
+              }
+            ]
+          }
+        ],
+        [
+          {
+            "text": "Casting Exhaustion Execution skill restores an additional 10 Qi."
+          }
+        ],
+        [
+          {
+            "text": "Increases the damage of Exhaustion Execution Skill by a further 5%."
+          }
+        ],
+        [
+          {
+            "text": "Increases Physical DMG Reduction by 2.5%."
+          }
+        ],
+        [
+          {
+            "text": "Attacking Exhausted targets with any skill other than Exhaustion Execution skill will restore HP equal to 30% of the damage dealt."
+          }
+        ]
+      ]
+    },
+    {
+      "name": "Fury Harvest",
+      "tiers": [
+        [
+          {
+            "text": "Vitality is required to cast Mystic Skills. Certain recovery actions have a 50% chance to grant 1 bonus Vitality. No bonus Vitality is rewarded when you gain Vitality by attacking, taking a hit, or successfully deflecting an attack."
+          }
+        ],
+        [
+          {
+            "text": "Guaranteed to receive 1 bonus Vitality when gaining Spirit Essence from defeating enemies, successful assassinations, Precision Dodges, or hitting an enemy's weakness with Bow and Arrow."
+          }
+        ],
+        [
+          {
+            "text": "Increases Physical Defense based on Solo Mode Level.",
+            "soloLevelValues": [
+              {
+                "stat": "Physical Defense",
+                "formats": [
+                  "1f"
+                ],
+                "levels": [
+                  null,
+                  null,
+                  null,
+                  null,
+                  6.7,
+                  9.1,
+                  12,
+                  15.2,
+                  17.8,
+                  17.8,
+                  17.8,
+                  21.2,
+                  24.7,
+                  28.7,
+                  31.9,
+                  33.5,
+                  35
+                ]
+              }
+            ]
+          }
+        ],
+        [
+          {
+            "text": "10% to gain 1 bonus Spirit Essence when gaining Vitality from attacking and taking an attack."
+          }
+        ],
+        [
+          {
+            "text": "Guaranteed to receive 1 bonus Vitality when gaining Spirit Essence from deflecting attacks."
+          }
+        ],
+        [
+          {
+            "text": "Increases Physical Resistance by 5.1."
+          }
+        ],
+        [
+          {
+            "text": "After casting a Mystic Skill, 30% of Vitality consumed within 5 seconds will be refunded (no more than 10 Vitality refunded per cast)."
+          }
+        ]
+      ]
+    },
+    {
+      "name": "Divine Roulette",
+      "tiers": [
+        [
+          {
+            "text": "Upon a successful deflection, gain one of the following effects: \n   Immortal Guidance: Increases the next skill's damage by 10%. \n   Immortal Heart: The next skill is guaranteed to be Critical. \n   Immortal Spirit: The next skill is guaranteed to be an Affinity hit. \nThe effect lasts 10 seconds and can only trigger once every 30 seconds. \nIt applies to Martial Art Skills, Perception Skills, Special Skills, Charged Skills, and Varied Combos."
+          }
+        ],
+        [
+          {
+            "text": "Each successful deflection restores 5 bonus Qi. This effect has no cooldown."
+          }
+        ],
+        [
+          {
+            "text": "Increases Max Physical Attack based on Solo Mode Level.",
+            "soloLevelValues": [
+              {
+                "stat": "Max Physical Attack",
+                "formats": [
+                  "1f"
+                ],
+                "levels": [
+                  null,
+                  null,
+                  null,
+                  null,
+                  13.4,
+                  18.2,
+                  24,
+                  30.5,
+                  35.6,
+                  35.6,
+                  35.6,
+                  42.3,
+                  49.3,
+                  57.5,
+                  63.8,
+                  66.9,
+                  70.1
+                ]
+              }
+            ]
+          }
+        ],
+        [
+          {
+            "text": "After a successful deflection, reduces the next damage taken within 5 seconds by 10%. This effect shares the same cooldown with the main effect."
+          }
+        ],
+        [
+          {
+            "text": "Reduces the cooldown by 20% (can only trigger once every 24 seconds)."
+          }
+        ],
+        [
+          {
+            "text": "Increases Physical Penetration by 5.1."
+          }
+        ],
+        [
+          {
+            "text": "After a successful deflection, there is a 10% chance to gain any two bonuses at the same time. If the deflected skill is a red skill, the chance to gain two bonuses is increased to 30%."
+          }
+        ]
+      ]
+    },
+    {
+      "name": "Evasive Charge",
+      "tiers": [
+        [
+          {
+            "text": "After a Perfect Dodge, there is a 50% chance to refund 100% of the Endurance consumed."
+          }
+        ],
+        [
+          {
+            "text": "Increases the chance to refund Endurance after dodging to 70%."
+          }
+        ],
+        [
+          {
+            "text": "Increases Precision Rate based on Solo Mode Level.",
+            "soloLevelValues": [
+              {
+                "stat": "Precision Rate",
+                "formats": [
+                  "1%"
+                ],
+                "levels": [
+                  null,
+                  null,
+                  null,
+                  null,
+                  0.014,
+                  0.019,
+                  0.025,
+                  0.031,
+                  0.037,
+                  0.037,
+                  0.037,
+                  0.043,
+                  0.051,
+                  0.059,
+                  0.065,
+                  0.069,
+                  0.072
+                ]
+              }
+            ]
+          }
+        ],
+        [
+          {
+            "text": "Reduces the Endurance cost of dodging by 20% and the damage taken during dodging by 20%."
+          }
+        ],
+        [
+          {
+            "text": "Restores 0.5% Max HP after a Perfect Dodge."
+          }
+        ],
+        [
+          {
+            "text": "Increases Physical DMG Reduction by 2.5%."
+          }
+        ],
+        [
+          {
+            "text": "Increases the duration of invincibility during dodging by 20%."
+          }
+        ]
+      ]
+    },
+    {
+      "name": "Light and Shadow Alike",
+      "tiers": [
+        [
+          {
+            "text": "With a rallying cry, the banner of Righteous Return is raised. Gain Righteous Return: Increases direct damage dealt by 3%, with an additional increase based on target's missing HP percentage (0.5% increase per 20% HP lost, up to 2%)."
+          }
+        ],
+        [
+          {
+            "text": "Through fierce battles, our resolve remains unshaken. Gain Relentless Combat: Reduces direct damage taken by 3% and increases healing done by 3%, with an additional increase based on your missing HP percentage (0.5% increase per 20% HP lost, up to 2%)."
+          }
+        ],
+        [
+          {
+            "text": "Increases Physical Attack based on Solo Mode Level.",
+            "soloLevelValues": [
+              {
+                "stat": "Physical Attack",
+                "formats": [
+                  "1f",
+                  "1f"
+                ],
+                "levels": [
+                  null,
+                  null,
+                  null,
+                  null,
+                  [
+                    4.5,
+                    8.9
+                  ],
+                  [
+                    6.1,
+                    12.1
+                  ],
+                  [
+                    8,
+                    16
+                  ],
+                  [
+                    10.1,
+                    20.3
+                  ],
+                  [
+                    11.9,
+                    23.7
+                  ],
+                  [
+                    11.9,
+                    23.7
+                  ],
+                  [
+                    11.9,
+                    23.7
+                  ],
+                  [
+                    14.1,
+                    28.3
+                  ],
+                  [
+                    16.5,
+                    32.9
+                  ],
+                  [
+                    19.1,
+                    38.3
+                  ],
+                  [
+                    21.3,
+                    42.5
+                  ],
+                  [
+                    22.3,
+                    44.7
+                  ],
+                  [
+                    23.3,
+                    46.7
+                  ]
+                ]
+              }
+            ]
+          }
+        ],
+        [
+          {
+            "text": "Blades soaked in blood, life is reborn amidst death. The HP loss interval to gain bonus Righteous Return and Relentless Combat stacks is changed from 20% to 15% (the max bonus remains the same)."
+          }
+        ],
+        [
+          {
+            "text": "When loyalty and betrayal clash, violence is the only answer. Under the Righteous Return banner, Light and Darkness intertwine; when one goes up, the other will go down. Both effects last 5 seconds and stack up to 5 times. \n   Light: The compassionate heart never yields. Gained when dealing direct damage, lost when taking direct damage. Each stack of Light increases the effect of Righteous Return by 10% (up to 50% in total). \n   Darkness: Self-interest takes control. Gained when taking direct damage, lost when dealing direct damage. Each stack of Darkness increases the effect of Relentless Combat by 10% (up to 50% in total)."
+          }
+        ],
+        [
+          {
+            "text": "Increases Physical Penetration by 5.1."
+          }
+        ],
+        [
+          {
+            "text": "With the banner lowered, no clear path remains. The only wish is to return home. Righteous Return no longer generates Light or Darkness; Righteous Return and Relentless Combat are enhanced. \n   Righteous Return: Increases direct damage dealt by 5%, with an additional increase based on target's missing HP percentage (1% increase per 15% HP lost, up to 4%). \n   Relentless Combat: Reduces direct damage taken by 5% and increases healing done by 5%, with an additional increase based on your missing HP percentage (1% increase per 15% HP lost, up to 4%)."
+          }
+        ]
+      ]
+    },
+    {
+      "name": "Heart of Fire",
+      "tiers": [
+        [
+          {
+            "text": "Triggers Vigilance effect when own Health falls below 30%, restoring 20% Health and reducing damage taken by 20% for 10 seconds. Triggers once every 120 seconds."
+          }
+        ],
+        [
+          {
+            "text": "Conspiracies grow, danger lurks. Vigilance's trigger interval is reduced to 90 seconds."
+          }
+        ],
+        [
+          {
+            "text": "Increases Max HP based on Solo Mode Level.",
+            "soloLevelValues": [
+              {
+                "stat": "Max HP",
+                "formats": [
+                  "0f"
+                ],
+                "levels": [
+                  null,
+                  null,
+                  null,
+                  null,
+                  510,
+                  693,
+                  913,
+                  1158,
+                  1354,
+                  1354,
+                  1354,
+                  1608,
+                  1875,
+                  2184,
+                  2423,
+                  2543,
+                  2663
+                ]
+              }
+            ]
+          }
+        ],
+        [
+          {
+            "text": "Thunder breaks silence, tension induces fear. Dealing or taking damage during Vigilance restores 2% HP; this healing effect can only trigger once per second."
+          }
+        ],
+        [
+          {
+            "text": "A blade at the throat—no one knows what comes next. Taking damage during Vigilance triggers Gouging DMG once to the source of damage. Gouging DMG can only trigger once per second and also applies Interrogation to the enemy: Reduces damage dealt to the applier of this effect by 1.5% for 5 seconds, stacking up to 5 times."
+          }
+        ],
+        [
+          {
+            "text": "Increases Physical DMG Reduction by 2.5%."
+          }
+        ],
+        [
+          {
+            "text": "When loyal hearts fade, truth can no longer be sought. Interrogation's DMG Reduction is increased from 1.5% to 3%; dealing damage during Vigilance also deals Gouging DMG and applies Interrogation. The trigger interval of Gouging remains the same."
+          }
+        ]
+      ]
+    },
+    {
+      "name": "Morale Chant",
+      "tiers": [
+        [
+          {
+            "text": "80% chance to gain one stack of Yi River when attacking or healing: Increases Physical Damage and healing by 1% for 8 seconds, stacking up to 5 times. The chance to gain Yi River is only calculated once every 2 seconds."
+          }
+        ],
+        [
+          {
+            "text": "Each stack of Yi River increases Physical Penetration by 2."
+          }
+        ],
+        [
+          {
+            "text": "Increases Physical Attack based on Solo Mode Level.",
+            "soloLevelValues": [
+              {
+                "stat": "Physical Attack",
+                "formats": [
+                  "1f",
+                  "1f"
+                ],
+                "levels": [
+                  null,
+                  null,
+                  null,
+                  null,
+                  [
+                    5,
+                    10
+                  ],
+                  [
+                    6.7,
+                    13.5
+                  ],
+                  [
+                    8.9,
+                    17.9
+                  ],
+                  [
+                    11.3,
+                    22.5
+                  ],
+                  [
+                    13.2,
+                    26.4
+                  ],
+                  [
+                    13.2,
+                    26.4
+                  ],
+                  [
+                    13.2,
+                    26.4
+                  ],
+                  [
+                    15.7,
+                    31.3
+                  ],
+                  [
+                    18.3,
+                    36.5
+                  ],
+                  [
+                    21.3,
+                    42.5
+                  ],
+                  [
+                    23.6,
+                    47.2
+                  ],
+                  [
+                    24.8,
+                    49.6
+                  ],
+                  [
+                    25.9,
+                    51.9
+                  ]
+                ]
+              }
+            ]
+          }
+        ],
+        [
+          {
+            "text": "When the target is controlled, doubles Yi River's effect (2% bonus damage and healing per stack) and number of stacks gained (two stacks each time)."
+          }
+        ],
+        [
+          {
+            "text": "Increases the chance to apply Yi River to 100% and its duration to 12 seconds."
+          }
+        ],
+        [
+          {
+            "text": "Increases Direct Critical Rate by 4.6%."
+          }
+        ],
+        [
+          {
+            "text": "At max stacks, Yi River additionally attacks or heals the target once (twice when the target is under control). This effect can only trigger once every 10 seconds."
+          }
+        ]
+      ]
+    },
+    {
+      "name": "Seasonal Edge",
+      "tiers": [
+        [
+          {
+            "text": "After casting a Dual-Weapon Skill, gain one of the following effects: \n   Heart of Four Seasons: Critical Rate +8% \n   Will of Four Seasons: Affinity Rate +4% \n   Wound of Four Seasons: Physical DMG Bonus +8% \n   Sound of Four Seasons: All Attribute Attack Bonuses +8% \n"
+          }
+        ],
+        [
+          {
+            "text": "Increases the duration of bonus attributes to 12 seconds."
+          }
+        ],
+        [
+          {
+            "text": "Increases Physical Attack based on Solo Mode Level.",
+            "soloLevelValues": [
+              {
+                "stat": "Physical Attack",
+                "formats": [
+                  "1f",
+                  "1f"
+                ],
+                "levels": [
+                  null,
+                  null,
+                  null,
+                  null,
+                  [
+                    5,
+                    10
+                  ],
+                  [
+                    6.7,
+                    13.5
+                  ],
+                  [
+                    8.9,
+                    17.9
+                  ],
+                  [
+                    11.3,
+                    22.5
+                  ],
+                  [
+                    13.2,
+                    26.4
+                  ],
+                  [
+                    13.2,
+                    26.4
+                  ],
+                  [
+                    13.2,
+                    26.4
+                  ],
+                  [
+                    15.7,
+                    31.3
+                  ],
+                  [
+                    18.3,
+                    36.5
+                  ],
+                  [
+                    21.3,
+                    42.5
+                  ],
+                  [
+                    23.6,
+                    47.2
+                  ],
+                  [
+                    24.8,
+                    49.6
+                  ],
+                  [
+                    25.9,
+                    51.9
+                  ]
+                ]
+              }
+            ]
+          }
+        ],
+        [
+          {
+            "text": "20% chance to gain two random bonuses."
+          }
+        ],
+        [
+          {
+            "text": "Reduces the cooldown by 5 seconds (can only trigger once every 25 seconds)."
+          }
+        ],
+        [
+          {
+            "text": "Physical Damage Bonus +2.8%."
+          }
+        ],
+        [
+          {
+            "text": "15% chance to gain three bonuses, 5% chance to gain all four."
+          }
+        ]
+      ]
+    },
+    {
+      "name": "Mountain's Might",
+      "tiers": [
+        [
+          {
+            "text": "Nameless Spear Martial Art Skill Mountain Sweep grants Endless Gale effect, increasing the Endurance cost reduction to 20% for 5 seconds."
+          }
+        ],
+        [
+          {
+            "text": "Increases the duration of Long Wind effect from Qiankun's Lock to 8 seconds. While Long Wind is active, reduces the Endurance cost of Sprint and Charged Skills by a further 10% (30% in total)."
+          }
+        ],
+        [
+          {
+            "text": "Increases Bellstrike Attack based on Solo Mode Level.",
+            "soloLevelValues": [
+              {
+                "stat": "Bellstrike Attack",
+                "formats": [
+                  "1f",
+                  "1f"
+                ],
+                "levels": [
+                  null,
+                  null,
+                  null,
+                  null,
+                  [
+                    2.5,
+                    5.1
+                  ],
+                  [
+                    3.5,
+                    6.9
+                  ],
+                  [
+                    4.5,
+                    9.1
+                  ],
+                  [
+                    5.7,
+                    11.5
+                  ],
+                  [
+                    6.7,
+                    13.5
+                  ],
+                  [
+                    6.7,
+                    13.5
+                  ],
+                  [
+                    6.7,
+                    13.5
+                  ],
+                  [
+                    8,
+                    16
+                  ],
+                  [
+                    9.3,
+                    18.7
+                  ],
+                  [
+                    10.9,
+                    21.7
+                  ],
+                  [
+                    12.1,
+                    24.1
+                  ],
+                  [
+                    12.7,
+                    25.3
+                  ],
+                  [
+                    13.3,
+                    26.5
+                  ]
+                ]
+              }
+            ]
+          }
+        ],
+        [
+          {
+            "text": "Increases the Endurance restored upon casting Qiankun's Lock by 100% (now restores 60 Endurance)."
+          }
+        ],
+        [
+          {
+            "text": "While Long Wind is active, increases Direct Affinity Rate by 1.5% and gains an additional 1.5% against boss targets."
+          }
+        ],
+        [
+          {
+            "text": "Increases Bellstrike Penetration by 6."
+          }
+        ],
+        [
+          {
+            "text": "Hitting a target with a Martial Art Skill applies a Moving Mountain mark for 12 seconds. Hitting the marked target restores 3 Endurance. This effect can only trigger once per second."
+          }
+        ]
+      ]
+    },
+    {
+      "name": "Wildfire Spark",
+      "tiers": [
+        [
+          {
+            "text": "Refunds 3.5% of the Endurance consumed."
+          }
+        ],
+        [
+          {
+            "text": "Increases the amount of Endurance refunded to 5% of Endurance consumed."
+          }
+        ],
+        [
+          {
+            "text": "Increases Physical Attack based on Solo Mode Level.",
+            "soloLevelValues": [
+              {
+                "stat": "Physical Attack",
+                "formats": [
+                  "1f",
+                  "1f"
+                ],
+                "levels": [
+                  null,
+                  null,
+                  null,
+                  null,
+                  [
+                    4.5,
+                    8.9
+                  ],
+                  [
+                    6.1,
+                    12.1
+                  ],
+                  [
+                    8,
+                    16
+                  ],
+                  [
+                    10.1,
+                    20.3
+                  ],
+                  [
+                    11.9,
+                    23.7
+                  ],
+                  [
+                    11.9,
+                    23.7
+                  ],
+                  [
+                    11.9,
+                    23.7
+                  ],
+                  [
+                    14.1,
+                    28.3
+                  ],
+                  [
+                    16.5,
+                    32.9
+                  ],
+                  [
+                    19.1,
+                    38.3
+                  ],
+                  [
+                    21.3,
+                    42.5
+                  ],
+                  [
+                    22.3,
+                    44.7
+                  ],
+                  [
+                    23.3,
+                    46.7
+                  ]
+                ]
+              }
+            ]
+          }
+        ],
+        [
+          {
+            "text": "Immediately refunds 10 Endurance after consuming a total of 50 Endurance. Can only trigger once every 30 seconds."
+          }
+        ],
+        [
+          {
+            "text": "Increases the amount of Endurance refunded to 7.0% of Endurance consumed."
+          }
+        ],
+        [
+          {
+            "text": "Increases Physical DMG Bonus by 2.5%."
+          }
+        ],
+        [
+          {
+            "text": "Gain one stack of Spark when Endurance changes by 10 or more in a single instance: Increases Endurance Recovery by 1% for 10 seconds, stacking up to 10 times."
+          }
+        ]
+      ]
+    },
+    {
+      "name": "Battle Anthem",
+      "tiers": [
+        [
+          {
+            "text": "Increases Charged Skills' damage against all bosses by 10%."
+          }
+        ],
+        [
+          {
+            "text": "Increases Charged Skills' damage against all enemies (including players with less than 60% Endurance) by 10%. "
+          }
+        ],
+        [
+          {
+            "text": "Increases Affinity Rate based on Solo Mode Level.",
+            "soloLevelValues": [
+              {
+                "stat": "Affinity Rate",
+                "formats": [
+                  "1%"
+                ],
+                "levels": [
+                  null,
+                  null,
+                  null,
+                  null,
+                  0.008,
+                  0.011,
+                  0.014,
+                  0.018,
+                  0.021,
+                  0.021,
+                  0.021,
+                  0.024,
+                  0.028,
+                  0.033,
+                  0.037,
+                  0.039,
+                  0.04
+                ]
+              }
+            ]
+          }
+        ],
+        [
+          {
+            "text": "When a Charged Skill is Critical or Affinity, if the target is a player, reduces their Endurance by 10; if the target is a boss, restores 10 Endurance. This effect can only trigger once per 20 seconds."
+          }
+        ],
+        [
+          {
+            "text": "Increases Charged Skills' damage against all enemies (including players with less than 60% Endurance) by 15% and increases their Endurance cost by 10%."
+          }
+        ],
+        [
+          {
+            "text": "Increases Affinity DMG Bonus by 5.2%."
+          }
+        ],
+        [
+          {
+            "text": "When dealing damage with a Charged Skill, if the target is a player, increases the damage by 1% for every 10 Endurance difference between you and the target, up to 10%; if the target is a boss, deals bonus damage based on the Endurance you have consumed: 1% bonus damage for every 10 Endurance consumed, up to 10%."
+          }
+        ]
+      ]
+    },
+    {
+      "name": "Sword Morph",
+      "tiers": [
+        [
+          {
+            "text": "When Nameless Sword's Charged Skill, Vagrant Sword is charged while the Qi shield is present, it unleashes multiple additional sword energy attacks at the 2nd charging stage. You can consume bonus Endurance to increase the sword energy's damage; each Endurance increases damage by 1%, up to 20%."
+          }
+        ],
+        [
+          {
+            "text": "You can charge and unleash multiple sword energy attacks without a Qi shield when you are not in combat or within 5 seconds after unleashing the sword energy of Shadow Step."
+          }
+        ],
+        [
+          {
+            "text": "Increases Max Physical Attack based on Solo Mode Level.",
+            "soloLevelValues": [
+              {
+                "stat": "Max Physical Attack",
+                "formats": [
+                  "1f"
+                ],
+                "levels": [
+                  null,
+                  null,
+                  null,
+                  null,
+                  14.9,
+                  20.3,
+                  26.7,
+                  33.8,
+                  39.6,
+                  39.6,
+                  39.6,
+                  47,
+                  54.8,
+                  63.9,
+                  70.9,
+                  74.4,
+                  77.9
+                ]
+              }
+            ]
+          }
+        ],
+        [
+          {
+            "text": "For 5 seconds after the sword energy hits a target, your sword energy deals 5% more damage to the target. Consecutive hits can stack this effect up to 15%. If the target is a non-player unit, while they are Exhausted, each stack of sword energy damage bonus is increased to 8%, up to 24% bonus at three stacks."
+          }
+        ],
+        [
+          {
+            "text": "Within 5 seconds after unleashing Vagrant Sword's multiple sword energy attacks, charge again to continue unleashing multiple sword energy attacks."
+          }
+        ],
+        [
+          {
+            "text": "Increases Direct Affinity Rate by 2.3%."
+          }
+        ],
+        [
+          {
+            "text": "Gain Energy Surge after unleashing multiple sword energy attacks: You immediately recover 20 Endurance, and can unleash multiple sword energy attacks once again without charging within 5 seconds. Energy Surge has an initial cooldown of 20 seconds. Each time a sword energy attack hits a boss unit for the first time, this cooldown is reduced by 1 second, up to a max reduction of 8 seconds."
+          }
+        ]
+      ]
+    },
+    {
+      "name": "Wolfchaser's Art",
+      "tiers": [
+        [
+          {
+            "text": "For the Nine-Bend Spirit-Startling Spear Martial Skill Sorrow Without Wine, the Combo count required to grant buff effects is reduced from 5/10 to 4/8. Each time Sorrow Without Wine hits any target afflicted with your own Bleed effect, based on the number of Bleed stacks, there is a 60%/70%/80%/90%/100% chance to add 1 extra Combo count."
+          },
+          {
+            "text": "Reduces the required combo number to gain the buff of Heavenquaker Spear's Martial Art Skill, Sober Sorrow from 5/10 to 4/8. When Sober Sorrow hits a unit with Bleed effect from you, there is a 60%/70%/80%/90%/100% chance to increase the combo count by 1 based on the number of Bleed stacks."
+          }
+        ],
+        [
+          {
+            "text": "Increases the duration of the buff from Sober Sorrow combo to 15 seconds."
+          }
+        ],
+        [
+          {
+            "text": "Increases Affinity Rate based on Solo Mode Level.",
+            "soloLevelValues": [
+              {
+                "stat": "Affinity Rate",
+                "formats": [
+                  "1%"
+                ],
+                "levels": [
+                  null,
+                  null,
+                  null,
+                  null,
+                  0.008,
+                  0.011,
+                  0.014,
+                  0.018,
+                  0.021,
+                  0.021,
+                  0.021,
+                  0.024,
+                  0.028,
+                  0.033,
+                  0.037,
+                  0.039,
+                  0.04
+                ]
+              }
+            ]
+          }
+        ],
+        [
+          {
+            "text": "Increases the damage of Sober Sorrow by 10%. While casting this skill, gain 60% DMG Reduction and high interruption resistance."
+          }
+        ],
+        [
+          {
+            "text": "When the combo count of Sober Sorrow reaches 10, gain the Potent Flowing River effect: Damage increases by 25%, and Special Skill Sweep All restores HP equal to 20% of the damage dealt. "
+          }
+        ],
+        [
+          {
+            "text": "Increases Affinity DMG Bonus by 5.2%."
+          }
+        ],
+        [
+          {
+            "text": "When Sober Sorrow hits a target affected by Soul-Shaken, it applies another stack of Soul-Shaken; when it hits the same target 5 times within 3 seconds, it applies 15 seconds of Wine Gu: Increases all damage taken from the source of the effect by 5%."
+          }
+        ]
+      ]
+    },
+    {
+      "name": "Adaptive Steel",
+      "tiers": [
+        [
+          {
+            "text": "Gain a Weapon Mastery effect based on your current Blade Weapon: \n     Sword: 100% chance to apply one stack of Bleed to the target when dealing Affinity DMG. \n     Spear: Attacks ignore 12.5% of target's Physical Defense. \n     Dual Blades: After a Perfect Dodge, increases the next Martial Art Skill damage within 8 seconds by 25%. \n     Mo Blade: Increases the Critical DMG of Charged Skills and Parry Counter Skills by 20%. \n     Horizontal Blade: After a deflection, increases the damage of Light/Heavy Attack Varied Combo by 5% for 5 seconds. \nThe above Weapon Mastery effects have the following cooldowns: Sword - 6 seconds, Dual Blades - 10 seconds, Horizontal Blade - 20 seconds."
+          },
+          {
+            "text": "Gain a Weapon Mastery effect based on your current Blade Weapon: \n     Sword: 100% chance to apply one stack of Bleed to the target when dealing Affinity DMG. \n     Spear: Attacks ignore 12.5% of target's Physical Defense. \n     Dual Blades: After a Perfect Dodge, increases the next Martial Art Skill damage within 8 seconds by 25%. \n     Mo Blade: Increases the Critical DMG of Charged Skills and Parry Counter Skills by 20%. \n     Heng Blade: After a deflection, increases the damage of Light/Heavy Attack Varied Combo by 5% for 5 seconds. \nThe above Weapon Mastery effects have the following cooldowns: Sword - 6 seconds, Dual Blades - 10 seconds, Heng Blade - 20 seconds."
+          }
+        ],
+        [
+          {
+            "text": "Dual-Weapon Skill damage increases by 30%."
+          }
+        ],
+        [
+          {
+            "text": "Increases Max Bellstrike Attack based on Solo Mode Level.",
+            "soloLevelValues": [
+              {
+                "stat": "Max Bellstrike Attack",
+                "formats": [
+                  "1f"
+                ],
+                "levels": [
+                  null,
+                  null,
+                  null,
+                  null,
+                  7.6,
+                  10.3,
+                  13.6,
+                  17.3,
+                  20.2,
+                  20.2,
+                  20.2,
+                  24,
+                  28,
+                  32.6,
+                  36.2,
+                  38,
+                  39.8
+                ]
+              }
+            ]
+          }
+        ],
+        [
+          {
+            "text": "Casting a Dual-Weapon Skill increases your Movement Speed by 20%. If it hits a target, reduces their Movement Speed by 20%. Both speed increase and decrease effects last 5 seconds."
+          }
+        ],
+        [
+          {
+            "text": "Casting a Dual-Weapon Skill restores 10 Endurance."
+          }
+        ],
+        [
+          {
+            "text": "Increases Bellstrike DMG Bonus by 3%."
+          }
+        ],
+        [
+          {
+            "text": "After casting a Dual-Weapon Skill, the previous Weapon Mastery effect will remain for 10 seconds."
+          }
+        ]
+      ]
+    },
+    {
+      "name": "Insightful Strike",
+      "tiers": [
+        [
+          {
+            "text": "Dealing Affinity DMG generates Focus. When Focus is full, enter the Concentration state for 10 seconds.\nConcentration: Increases Affinity DMG by 10%. Upon hit, there is a 5% chance to reduce damage taken by 40%."
+          }
+        ],
+        [
+          {
+            "text": "Recover HP equal to 1.5% of damage dealt while in Concentration state."
+          }
+        ],
+        [
+          {
+            "text": "Increases Bellstrike Attack based on Solo Mode Level.",
+            "soloLevelValues": [
+              {
+                "stat": "Bellstrike Attack",
+                "formats": [
+                  "1f",
+                  "1f"
+                ],
+                "levels": [
+                  null,
+                  null,
+                  null,
+                  null,
+                  [
+                    2.5,
+                    5.1
+                  ],
+                  [
+                    3.5,
+                    6.9
+                  ],
+                  [
+                    4.5,
+                    9.1
+                  ],
+                  [
+                    5.7,
+                    11.5
+                  ],
+                  [
+                    6.7,
+                    13.5
+                  ],
+                  [
+                    6.7,
+                    13.5
+                  ],
+                  [
+                    6.7,
+                    13.5
+                  ],
+                  [
+                    8,
+                    16
+                  ],
+                  [
+                    9.3,
+                    18.7
+                  ],
+                  [
+                    10.9,
+                    21.7
+                  ],
+                  [
+                    12.1,
+                    24.1
+                  ],
+                  [
+                    12.7,
+                    25.3
+                  ],
+                  [
+                    13.3,
+                    26.5
+                  ]
+                ]
+              }
+            ]
+          }
+        ],
+        [
+          {
+            "text": "Increases Affinity Rate by 3% while in Concentration state."
+          }
+        ],
+        [
+          {
+            "text": "Focus accumulates 50% faster."
+          }
+        ],
+        [
+          {
+            "text": "Increases Bellstrike Penetration by 6."
+          }
+        ],
+        [
+          {
+            "text": "Concentration increases Dot by 20%.  "
+          }
+        ]
+      ]
+    },
+    {
+      "name": "Sword Horizon",
+      "tiers": [
+        [
+          {
+            "text": "After casting Strategic Sword's Martial Art Skill, Special Skill, or Charged Skill, press the skill button at the perfect timing during the ending phase to cast Crisscrossing Swords and unleash follow-up attacks. If the target has 5 stacks of Bleed, remove all Bleed stacks and deal high Bleed damage once."
+          }
+        ],
+        [
+          {
+            "text": "Casting Crosswind Blade restores 8 Endurance."
+          }
+        ],
+        [
+          {
+            "text": "Increases Max Physical Attack based on Solo Mode Level.",
+            "soloLevelValues": [
+              {
+                "stat": "Max Physical Attack",
+                "formats": [
+                  "1f"
+                ],
+                "levels": [
+                  null,
+                  null,
+                  null,
+                  null,
+                  14.9,
+                  20.3,
+                  26.7,
+                  33.8,
+                  39.6,
+                  39.6,
+                  39.6,
+                  47,
+                  54.8,
+                  63.9,
+                  70.9,
+                  74.4,
+                  77.9
+                ]
+              }
+            ]
+          }
+        ],
+        [
+          {
+            "text": "Dealing high Bleed damage accumulates Crosswind Blade Spirit; once full, the next Crosswind Blade is guaranteed to be an Affinity hit."
+          }
+        ],
+        [
+          {
+            "text": "When Zenith Sword Spirit is not empty, the high Bleed damage is increased by a further 15%."
+          }
+        ],
+        [
+          {
+            "text": "Increases Direct Affinity Rate by 2.3%."
+          }
+        ],
+        [
+          {
+            "text": "When Zenith Sword Spirit is not empty, dealing high Bleed damage retains 2 stacks of Bleed. When triggering an Affinity Zenith Sword at full Zenith Sword Spirit, 20 Zenith Sword Spirit will be retained."
+          }
+        ]
+      ]
+    },
+    {
+      "name": "Flying Gourds / Gourd Toss",
+      "tiers": [
+        [
+          {
+            "text": "Grants 2 charges to Inkwell Fan's Peak's Springless Silence, but increases its cooldown by 3 seconds."
+          }
+        ],
+        [
+          {
+            "text": "During Special Skill Peak's Springless Silence, returning to the original location via Water Entity reduces the cooldown by 3 seconds and increases Movement Speed by 20."
+          }
+        ],
+        [
+          {
+            "text": "Increases Precision Rate based on Solo Mode Level.",
+            "soloLevelValues": [
+              {
+                "stat": "Precision Rate",
+                "formats": [
+                  "1%"
+                ],
+                "levels": [
+                  null,
+                  null,
+                  null,
+                  null,
+                  0.014,
+                  0.019,
+                  0.025,
+                  0.031,
+                  0.037,
+                  0.037,
+                  0.037,
+                  0.043,
+                  0.051,
+                  0.059,
+                  0.065,
+                  0.069,
+                  0.072
+                ]
+              }
+            ]
+          }
+        ],
+        [
+          {
+            "text": "If you hit a target but fail to knock it airborne, increase the damage of the next Peak's Springless Silence within 15 seconds by 30% and reduce its cooldown by 3 seconds."
+          }
+        ],
+        [
+          {
+            "text": "After returning to the original location via Water Entity during Special Skill Peak's Springless Silence, increases the next Light Attack Charged Skill Fleeting Gale's charging speed and tornado Movement Speed by 50% within 3 seconds."
+          }
+        ],
+        [
+          {
+            "text": "Increases Silkbind Penetration by 6."
+          }
+        ],
+        [
+          {
+            "text": "When Special Skill Spring Empties the Mountains hits a target and successfully launches it airborne or applies Lingering Bone, immediately refunds 2 seconds of cooldown and resets Moonrise Startles Spring cooldown. For 3 seconds, each Heavy Attack follow-up hit on this target reduces Spring Empties the Mountains cooldown by 1 second. The above effects can only trigger once per second."
+          }
+        ]
+      ]
+    },
+    {
+      "name": "Thunderous Bloom",
+      "tiers": [
+        [
+          {
+            "text": "Moving a distance exceeding 15 meters within 3 seconds grants 3 stacks of Spring Thunder effect: Each time you use Heavy Attack, Aerial Heavy Attack, Light Attack, or Light Attack Charged Skill to deal damage, you can consume 1 stack of Spring Thunder to increase HP damage of that instance and the next 1 second of that skill type by 15%. Cannot stack. Gaining Spring Thunder from movement can only trigger once every 15 seconds. Spring Thunder can be retained for up to 12 seconds."
+          }
+        ],
+        [
+          {
+            "text": "Reduces the distance required to trigger the bonus to 12m."
+          }
+        ],
+        [
+          {
+            "text": "Increases Physical Attack based on Solo Mode Level.",
+            "soloLevelValues": [
+              {
+                "stat": "Physical Attack",
+                "formats": [
+                  "1f",
+                  "1f"
+                ],
+                "levels": [
+                  null,
+                  null,
+                  null,
+                  null,
+                  [
+                    4.5,
+                    8.9
+                  ],
+                  [
+                    6.1,
+                    12.1
+                  ],
+                  [
+                    8,
+                    16
+                  ],
+                  [
+                    10.1,
+                    20.3
+                  ],
+                  [
+                    11.9,
+                    23.7
+                  ],
+                  [
+                    11.9,
+                    23.7
+                  ],
+                  [
+                    11.9,
+                    23.7
+                  ],
+                  [
+                    14.1,
+                    28.3
+                  ],
+                  [
+                    16.5,
+                    32.9
+                  ],
+                  [
+                    19.1,
+                    38.3
+                  ],
+                  [
+                    21.3,
+                    42.5
+                  ],
+                  [
+                    22.3,
+                    44.7
+                  ],
+                  [
+                    23.3,
+                    46.7
+                  ]
+                ]
+              }
+            ]
+          }
+        ],
+        [
+          {
+            "text": "Spring Thunder's damage bonus effect additionally increases 15% Qi damage."
+          }
+        ],
+        [
+          {
+            "text": "The number of Spring Thunder stacks gained when triggering the effect is increased to 5."
+          }
+        ],
+        [
+          {
+            "text": "Increases Physical DMG Bonus by 2.5%."
+          }
+        ],
+        [
+          {
+            "text": "While Spring Thunder is active, hitting a target that is Exhausted or has below 30% Qi with a Heavy Attack, Aerial Heavy Attack, Light Attack, or Light Attack Charged Skill restores 1 stack of Spring Thunder. This effect can only trigger once every 2 seconds."
+          }
+        ]
+      ]
+    },
+    {
+      "name": "Star Reacher",
+      "tiers": [
+        [
+          {
+            "text": "Gain 5% Physical Attack bonus for up to 8 seconds after applying Lingering Bone Mark to an enemy. This bonus can only be gained once per second, and gaining it again will refresh its duration. \nKnocking a target Airborne increases the Physical Attack bonus to 10%."
+          }
+        ],
+        [
+          {
+            "text": "Increases the Physical Attack bonuses after applying Lingering Bone and knocking a target airborne to 7.5% and 15% respectively."
+          }
+        ],
+        [
+          {
+            "text": "Increases Physical Attack based on Solo Mode Level.",
+            "soloLevelValues": [
+              {
+                "stat": "Physical Attack",
+                "formats": [
+                  "1f",
+                  "1f"
+                ],
+                "levels": [
+                  null,
+                  null,
+                  null,
+                  null,
+                  [
+                    4.5,
+                    8.9
+                  ],
+                  [
+                    6.1,
+                    12.1
+                  ],
+                  [
+                    8,
+                    16
+                  ],
+                  [
+                    10.1,
+                    20.3
+                  ],
+                  [
+                    11.9,
+                    23.7
+                  ],
+                  [
+                    11.9,
+                    23.7
+                  ],
+                  [
+                    11.9,
+                    23.7
+                  ],
+                  [
+                    14.1,
+                    28.3
+                  ],
+                  [
+                    16.5,
+                    32.9
+                  ],
+                  [
+                    19.1,
+                    38.3
+                  ],
+                  [
+                    21.3,
+                    42.5
+                  ],
+                  [
+                    22.3,
+                    44.7
+                  ],
+                  [
+                    23.3,
+                    46.7
+                  ]
+                ]
+              }
+            ]
+          }
+        ],
+        [
+          {
+            "text": "Gain Physical Attack bonus against targets who are Exhausted or have Qi below 20% (12.5% and 25% bonus respectively)."
+          }
+        ],
+        [
+          {
+            "text": "Increases the duration of Physical Attack bonus to 12 seconds."
+          }
+        ],
+        [
+          {
+            "text": "Increases Physical Penetration by 5.1."
+          }
+        ],
+        [
+          {
+            "text": "When damaging an airborne target with Lingering Bone applied by you, deal 3% more damage if your HP is above 75%; if your HP is below or equal to 75%, restore HP equal to 10% of the damage dealt instead."
+          }
+        ]
+      ]
+    },
+    {
+      "name": "Blossom Barrage",
+      "tiers": [
+        [
+          {
+            "text": "Vernal Umbrella's Martial Art Skill Spring Sorrow can hold up to 2 stacks. Hitting a target applies the Combo effect: increases Damage taken from the caster's Ballistic Skills by 10% for 10s.\nAffected Ballistic Skills include: Martial Art Skill Let Spring Go, Special Skill Everbloom , Umbrella - Light Attack and its Charged Skill Spring Away."
+          }
+        ],
+        [
+          {
+            "text": "Increases the ballistic skill DMG Bonus from Combo effect to 20%."
+          }
+        ],
+        [
+          {
+            "text": "Increases Critical Rate based on Solo Mode Level.",
+            "soloLevelValues": [
+              {
+                "stat": "Critical Rate",
+                "formats": [
+                  "1%"
+                ],
+                "levels": [
+                  null,
+                  null,
+                  null,
+                  null,
+                  0.017,
+                  0.023,
+                  0.031,
+                  0.039,
+                  0.046,
+                  0.046,
+                  0.046,
+                  0.054,
+                  0.063,
+                  0.074,
+                  0.082,
+                  0.086,
+                  0.09
+                ]
+              }
+            ]
+          }
+        ],
+        [
+          {
+            "text": "Martial Art Skill Spring Sorrow cast speed is increased by 30%, and its Combo effect lasts 15 seconds."
+          }
+        ],
+        [
+          {
+            "text": "In non-Arena modes, when Spring Away hits a target with Combo effect from you, its damage is increased by 10% and the max number of targets increases from 3 to 5."
+          }
+        ],
+        [
+          {
+            "text": "Increases Critical DMG Bonus by 4.4%."
+          }
+        ],
+        [
+          {
+            "text": "Martial Art Skill Spring Sorrow can store up to 3 charges. Hitting an enemy with Combo effect from you immediately reduces Spring Sorrow's cooldown by 5 seconds and grants 25 Blossoms. This effect can only trigger once per skill cast."
+          }
+        ]
+      ]
+    },
+    {
+      "name": "Royal Remedy",
+      "tiers": [
+        [
+          {
+            "text": "Increases the healing effect of the water clone created by Panacea Fan's Martial Art Skill, Cloudburst Healing by 10%. If you are within its range, gain 1 Dew each time when receive healing over time."
+          }
+        ],
+        [
+          {
+            "text": "When healed by a Water Clone you summoned, you gain an additional 2 Dewdrops and 2 Vitality."
+          }
+        ],
+        [
+          {
+            "text": "Increases Critical Rate based on Solo Mode Level.",
+            "soloLevelValues": [
+              {
+                "stat": "Critical Rate",
+                "formats": [
+                  "1%"
+                ],
+                "levels": [
+                  null,
+                  null,
+                  null,
+                  null,
+                  0.017,
+                  0.023,
+                  0.031,
+                  0.039,
+                  0.046,
+                  0.046,
+                  0.046,
+                  0.054,
+                  0.063,
+                  0.074,
+                  0.082,
+                  0.086,
+                  0.09
+                ]
+              }
+            ]
+          }
+        ],
+        [
+          {
+            "text": "After Boundless Clouds is cast, it applies a 6-second healing-over-time effect to both yourself and the allies healed."
+          }
+        ],
+        [
+          {
+            "text": "Boundless Clouds now requires 50 Dew to cast."
+          }
+        ],
+        [
+          {
+            "text": "Increases Direct Critical Rate by 4.6%."
+          }
+        ],
+        [
+          {
+            "text": "When deployed with Panacea Fan, all damage taken from non-player units is reduced by 20%. If you are defeated, a Resurrection Water Clone will be summoned at your current location for 7 seconds. Teammates entering the Water Clone's range can gain a resurrection skill to revive you (does not consume resurrection counts in Online Mode Dungeons). In Online Mode Dungeons (Sword Trial, Hero's Realm, Martial Path Domain), if no teammate has used the resurrection skill when the Water Clone disappears, you can immediately revive yourself. The Resurrection Water Clone can only be summoned once per 120 seconds; after summoning it, the damage reduction effect is also temporarily disabled for 120 seconds."
+          }
+        ]
+      ]
+    },
+    {
+      "name": "Restoring Blossom",
+      "tiers": [
+        [
+          {
+            "text": "Dealing Critical healing applies one stack of Nurturing for 3 seconds, increasing healing received by 2%, stacking up to 3 times."
+          }
+        ],
+        [
+          {
+            "text": "Increases the duration of Heart Nourishment to 6 seconds."
+          }
+        ],
+        [
+          {
+            "text": "Increases Min Silkbind Attack based on Solo Mode Level.",
+            "soloLevelValues": [
+              {
+                "stat": "Min Silkbind Attack",
+                "formats": [
+                  "1f"
+                ],
+                "levels": [
+                  null,
+                  null,
+                  null,
+                  null,
+                  7.6,
+                  10.3,
+                  13.6,
+                  17.3,
+                  20.2,
+                  20.2,
+                  20.2,
+                  24,
+                  28,
+                  32.6,
+                  36.2,
+                  38,
+                  39.8
+                ]
+              }
+            ]
+          }
+        ],
+        [
+          {
+            "text": "Dealing Critical healing applies one stack of Heart Focus to yourself: Increases healing by 2% for 6 seconds, stacking up to 3 times."
+          }
+        ],
+        [
+          {
+            "text": "Heart Nourishment and Heart Focus now stack up to 6 times."
+          }
+        ],
+        [
+          {
+            "text": "Increases Critical Healing Bonus by 4%."
+          }
+        ],
+        [
+          {
+            "text": "Dealing Critical healing to a target with below 30% HP adds 2 stacks of Heart Nourishment and Heart Focus."
+          }
+        ]
+      ]
+    },
+    {
+      "name": "Esoteric Revival",
+      "tiers": [
+        [
+          {
+            "text": "Increases the healing of Panacea Fan's Perception Skill, Resurrection, by 50% on the revived target."
+          }
+        ],
+        [
+          {
+            "text": "Increases the healing of Panacea Fan's Perception Skill, Golden Dawn Revival, by 75% on the revived target."
+          }
+        ],
+        [
+          {
+            "text": "Increases Critical Rate based on Solo Mode Level.",
+            "soloLevelValues": [
+              {
+                "stat": "Critical Rate",
+                "formats": [
+                  "1%"
+                ],
+                "levels": [
+                  null,
+                  null,
+                  null,
+                  null,
+                  0.015,
+                  0.021,
+                  0.028,
+                  0.035,
+                  0.041,
+                  0.041,
+                  0.041,
+                  0.049,
+                  0.057,
+                  0.066,
+                  0.073,
+                  0.077,
+                  0.081
+                ]
+              }
+            ]
+          }
+        ],
+        [
+          {
+            "text": "Reduces the damage taken by the revived target by 30% for 3 seconds."
+          }
+        ],
+        [
+          {
+            "text": "After reviving the target, grants them a healing-over-time effect that restores HP continuously."
+          }
+        ],
+        [
+          {
+            "text": "Increases Critical Healing Bonus by 4%."
+          }
+        ],
+        [
+          {
+            "text": "Shares 30% damage taken by the revived target over 8 seconds. If the target dies during this time, restores 25% of your Max HP."
+          }
+        ]
+      ]
+    },
+    {
+      "name": "Mending Loom",
+      "tiers": [
+        [
+          {
+            "text": "Casting Soulshade Umbrella's Special Skill, Echoing Grow restores 5 Dew and additionally heals 10% of your Max HP for every 100 Dew consumed."
+          }
+        ],
+        [
+          {
+            "text": "Reduces Herbal Resonance's cooldown to 1 second."
+          }
+        ],
+        [
+          {
+            "text": "Increases Physical Attack based on Solo Mode Level.",
+            "soloLevelValues": [
+              {
+                "stat": "Physical Attack",
+                "formats": [
+                  "1f",
+                  "1f"
+                ],
+                "levels": [
+                  null,
+                  null,
+                  null,
+                  null,
+                  [
+                    4.5,
+                    8.9
+                  ],
+                  [
+                    6.1,
+                    12.1
+                  ],
+                  [
+                    8,
+                    16
+                  ],
+                  [
+                    10.1,
+                    20.3
+                  ],
+                  [
+                    11.9,
+                    23.7
+                  ],
+                  [
+                    11.9,
+                    23.7
+                  ],
+                  [
+                    11.9,
+                    23.7
+                  ],
+                  [
+                    14.1,
+                    28.3
+                  ],
+                  [
+                    16.5,
+                    32.9
+                  ],
+                  [
+                    19.1,
+                    38.3
+                  ],
+                  [
+                    21.3,
+                    42.5
+                  ],
+                  [
+                    22.3,
+                    44.7
+                  ],
+                  [
+                    23.3,
+                    46.7
+                  ]
+                ]
+              }
+            ]
+          }
+        ],
+        [
+          {
+            "text": "Heals 10% of your Max HP after consuming 50 Dew."
+          }
+        ],
+        [
+          {
+            "text": "Increases Herbal Resonance's range of detecting low-HP allies by 50%."
+          }
+        ],
+        [
+          {
+            "text": "Increases Physical Healing Bonus by 2.5%."
+          }
+        ],
+        [
+          {
+            "text": "Herbal Resonance now heals both yourself and the nearby ally with the lowest HP percentage."
+          }
+        ]
+      ]
+    },
+    {
+      "name": "Exquisite Scenery",
+      "tiers": [
+        [
+          {
+            "text": "After a successful Parry with Alas Blade Art, for a period of time, you can activate a special Parry Counter skill. Pressing the Perception Skill or Heavy Attack button allows you to release a charge-free, potency Tier 3 Heavy Attack Charged Skill (can chain into Heavy Attack Charged Follow-up Skill). Can only trigger once every 10 seconds."
+          },
+          {
+            "text": "After a successful Parry with Thundercry Blade, for a period of time, you can activate a special Parry Counter skill. Pressing the Perception Skill or Heavy Attack button allows you to release a charge-free, potency Tier 3 Heavy Attack Charged Skill (can chain into Heavy Attack Charged Follow-up Skill). Can only trigger once every 10 seconds."
+          }
+        ],
+        [
+          {
+            "text": "Successfully defending with Thundercry Blade has a 20% chance to restore 1 bonus bar of Battle Will."
+          }
+        ],
+        [
+          {
+            "text": "Increases Critical Rate based on Solo Mode Level.",
+            "soloLevelValues": [
+              {
+                "stat": "Critical Rate",
+                "formats": [
+                  "1%"
+                ],
+                "levels": [
+                  null,
+                  null,
+                  null,
+                  null,
+                  0.017,
+                  0.023,
+                  0.031,
+                  0.039,
+                  0.046,
+                  0.046,
+                  0.046,
+                  0.054,
+                  0.063,
+                  0.074,
+                  0.082,
+                  0.086,
+                  0.09
+                ]
+              }
+            ]
+          }
+        ],
+        [
+          {
+            "text": "Hitting a target with Light Attack Charged Varied Combo or Heavy Attack Charged Varied Combo refunds all consumed Battle Will (hitting multiple targets with a single skill still only refunds once)."
+          }
+        ],
+        [
+          {
+            "text": "Reduces the trigger interval of the special Defensive Riposte after successful defense by 50% (to 5 seconds)."
+          }
+        ],
+        [
+          {
+            "text": "Increases Critical DMG Bonus by 4.4%."
+          }
+        ],
+        [
+          {
+            "text": "When casting a third stage Charged Light or Heavy Attack and Light or Heavy Attack Charged Varied Combo, if there is sufficient Battle Will, you can additionally consume 1 bar of Battle Will to increase damage by 25% (up to 50% damage increase when 2 bars of Battle Will are consumed)."
+          }
+        ]
+      ]
+    },
+    {
+      "name": "Trapped Beast",
+      "tiers": [
+        [
+          {
+            "text": "Taking damage while HP is below 30% triggers Cornered Beast, generating a shield that absorbs damage up to 30% of Max HP. This effect lasts 4 seconds and can trigger once every 300 seconds."
+          }
+        ],
+        [
+          {
+            "text": "Increases the shield capacity to 40% of Max HP."
+          }
+        ],
+        [
+          {
+            "text": "Increases Max HP based on Solo Mode Level.",
+            "soloLevelValues": [
+              {
+                "stat": "Max HP",
+                "formats": [
+                  "0f"
+                ],
+                "levels": [
+                  null,
+                  null,
+                  null,
+                  null,
+                  510,
+                  693,
+                  913,
+                  1158,
+                  1354,
+                  1354,
+                  1354,
+                  1608,
+                  1875,
+                  2184,
+                  2423,
+                  2543,
+                  2663
+                ]
+              }
+            ]
+          }
+        ],
+        [
+          {
+            "text": "While the shield is present, increases healing received and effect of medicine. "
+          }
+        ],
+        [
+          {
+            "text": "Reduces the cooldown by 40% (to 180 seconds)."
+          }
+        ],
+        [
+          {
+            "text": "Increases Physical Resistance by 5.1."
+          }
+        ],
+        [
+          {
+            "text": "If the shield is destroyed before expiry, reduces its cooldown by 120 seconds."
+          }
+        ]
+      ]
+    },
+    {
+      "name": "Art of Resistance",
+      "tiers": [
+        [
+          {
+            "text": "Increases the duration of your own HP shield and the bonus effects of its source skill by 4 seconds."
+          }
+        ],
+        [
+          {
+            "text": "Increases the HP damage absorbed by 10% for all HP shields."
+          }
+        ],
+        [
+          {
+            "text": "Increases Stonesplit Attack based on Solo Mode Level.",
+            "soloLevelValues": [
+              {
+                "stat": "Stonesplit Attack",
+                "formats": [
+                  "1f",
+                  "1f"
+                ],
+                "levels": [
+                  null,
+                  null,
+                  null,
+                  null,
+                  [
+                    2.5,
+                    5.1
+                  ],
+                  [
+                    3.5,
+                    6.9
+                  ],
+                  [
+                    4.5,
+                    9.1
+                  ],
+                  [
+                    5.7,
+                    11.5
+                  ],
+                  [
+                    6.7,
+                    13.5
+                  ],
+                  [
+                    6.7,
+                    13.5
+                  ],
+                  [
+                    6.7,
+                    13.5
+                  ],
+                  [
+                    8,
+                    16
+                  ],
+                  [
+                    9.3,
+                    18.7
+                  ],
+                  [
+                    10.9,
+                    21.7
+                  ],
+                  [
+                    12.1,
+                    24.1
+                  ],
+                  [
+                    12.7,
+                    25.3
+                  ],
+                  [
+                    13.3,
+                    26.5
+                  ]
+                ]
+              }
+            ]
+          }
+        ],
+        [
+          {
+            "text": "While under the protection of HP shield, increases all damage and healing done by 2%."
+          }
+        ],
+        [
+          {
+            "text": "Increases the duration of your own HP shield and the bonus effects by a further 2 seconds (6 seconds in total)."
+          }
+        ],
+        [
+          {
+            "text": "Increases Stonesplit Penetration by 6."
+          }
+        ],
+        [
+          {
+            "text": "If your HP shield is not destroyed before expiry, it immediately restores HP equal to 25% of the remaining capacity (reduced to 5% in Arena). This effect does not apply to damage-immunity shields."
+          }
+        ]
+      ]
+    },
+    {
+      "name": "Rock Solid",
+      "tiers": [
+        [
+          {
+            "text": "Increases the DMG Reduction of Stormbreaker Spear's Storm Roar by 20% after taunting a boss unit, and by 5% after taunting a non-boss unit, up to 20% in total. While the DMG Reduction is active, reduces all damage dealt by 10%."
+          }
+        ],
+        [
+          {
+            "text": "Reduce the Cooldown of Storm Roar to 16s."
+          }
+        ],
+        [
+          {
+            "text": "Increases Max HP based on Solo Mode Level.",
+            "soloLevelValues": [
+              {
+                "stat": "Max HP",
+                "formats": [
+                  "0f"
+                ],
+                "levels": [
+                  null,
+                  null,
+                  null,
+                  null,
+                  510,
+                  693,
+                  913,
+                  1158,
+                  1354,
+                  1354,
+                  1354,
+                  1608,
+                  1875,
+                  2184,
+                  2423,
+                  2543,
+                  2663
+                ]
+              }
+            ]
+          }
+        ],
+        [
+          {
+            "text": "Increases damage by 5% when attacking a taunted unit."
+          }
+        ],
+        [
+          {
+            "text": "Increases the DMG Reduction of Storm Roar to 25% after taunting a boss unit, up to 25% in total. "
+          }
+        ],
+        [
+          {
+            "text": "Increases Physical DMG Reduction by 2.5%."
+          }
+        ],
+        [
+          {
+            "text": "While Thundering Roar's DMG Reduction is active, hitting a target recovers HP based on the Battle Will consumed by that skill (2% HP per bar of Battle Will consumed; this effect only triggers once when a single skill hits the same target multiple times, and can only trigger on up to five targets)."
+          }
+        ]
+      ]
+    },
+    {
+      "name": "Echoes of Oblivion",
+      "tiers": [
+        [
+          {
+            "text": "Infernal Twinblades' normal Light Attacks apply Sin to enemies, while Light Attacks under Flamelash apply Karma. When attacking targets affected by Sin and Karma, Infernal Twinblades' Light Attacks ignore their 10% Physical Defense and 10 Bamboocut Resistance respectively."
+          }
+        ],
+        [
+          {
+            "text": "When attacking a target that has both Evil Form and Bitter Fruit, you gain the Samsara effect for 10 seconds. While under the Samsara state, HP damage dealt is increased by 5%."
+          }
+        ],
+        [
+          {
+            "text": "Increases Critical Rate based on Solo Mode Level.",
+            "soloLevelValues": [
+              {
+                "stat": "Critical Rate",
+                "formats": [
+                  "1%"
+                ],
+                "levels": [
+                  null,
+                  null,
+                  null,
+                  null,
+                  0.017,
+                  0.023,
+                  0.031,
+                  0.039,
+                  0.046,
+                  0.046,
+                  0.046,
+                  0.054,
+                  0.063,
+                  0.074,
+                  0.082,
+                  0.086,
+                  0.09
+                ]
+              }
+            ]
+          }
+        ],
+        [
+          {
+            "text": "Triggering a Perfect Dodge grants you the Samsara effect. When you gain Samsara, dealing damage increases Karma Flame by 1."
+          }
+        ],
+        [
+          {
+            "text": "Dealing 6 instances of damage to a target within 2 seconds resets the cooldown of Delusion once. This can only happen once every 10 seconds."
+          }
+        ],
+        [
+          {
+            "text": "Increases Critical DMG Bonus by 4.4%."
+          }
+        ],
+        [
+          {
+            "text": "Wrathful Flame now causes all your Light Attacks to also apply one stack of Evil Form and one stack of Bitter Fruit to the target. While under the Samsara state, HP damage dealt is increased by 10%."
+          }
+        ]
+      ]
+    },
+    {
+      "name": "Vendetta",
+      "tiers": [
+        [
+          {
+            "text": "Bladebound Thread's Vendetta Token lasts 5 seconds longer and restores 20 Tokens of Gratitude."
+          }
+        ],
+        [
+          {
+            "text": "Token of Gratitude recovers 30% faster. Bladebound Thread's Vendetta Token duration is increased to 20 seconds."
+          }
+        ],
+        [
+          {
+            "text": "Increases Min Bamboocut Attack based on Solo Mode Level.",
+            "soloLevelValues": [
+              {
+                "stat": "Min Bamboocut Attack",
+                "formats": [
+                  "1f"
+                ],
+                "levels": [
+                  null,
+                  null,
+                  null,
+                  null,
+                  7.6,
+                  10.3,
+                  13.6,
+                  17.3,
+                  20.2,
+                  20.2,
+                  20.2,
+                  24,
+                  28,
+                  32.6,
+                  36.2,
+                  38,
+                  39.8
+                ]
+              }
+            ]
+          }
+        ],
+        [
+          {
+            "text": "Applies Rodent Hunt to an enemy for 15 seconds. Upon expiring, it deals damage equal to 30% of all damage the Rats dealt to the target during its duration. Rodent Hunt cannot be delayed; hitting the same target with Bladebound Thread again immediately calculates and deals Rodent Hunt damage, and resets its duration."
+          }
+        ],
+        [
+          {
+            "text": "The Token of Gratitude recovery rate bonus is increased from 30% to 50%. Additionally, the duration of Rodent Rampage and Charged Stance summoned Rats is increased to 15 seconds. When you have 2 Tokens of Gratitude, consuming all of them increases the duration to 20 seconds."
+          }
+        ],
+        [
+          {
+            "text": "Increases Bamboocut Penetration by 6."
+          }
+        ],
+        [
+          {
+            "text": "When rodents attack a target with Vendetta Mark from you, they deal 30% increased damage and reduce the target's healing efficiency by 50%."
+          }
+        ]
+      ]
+    },
+    {
+      "name": "Breaking Point",
+      "tiers": [
+        [
+          {
+            "text": "Dealing Critical Damage to an enemy under the Spirit Depletion state grants you 1 stack of Collapse. Each stack of Collapse increases your Physical Penetration by 5 and Critical Damage by 5%. Stacks up to 3 times, lasting 3 seconds."
+          }
+        ],
+        [
+          {
+            "text": "Increases the duration of Disintegration to 5 seconds."
+          }
+        ],
+        [
+          {
+            "text": "Increases Precision Rate based on Solo Mode Level.",
+            "soloLevelValues": [
+              {
+                "stat": "Precision Rate",
+                "formats": [
+                  "1%"
+                ],
+                "levels": [
+                  null,
+                  null,
+                  null,
+                  null,
+                  0.014,
+                  0.019,
+                  0.025,
+                  0.031,
+                  0.037,
+                  0.037,
+                  0.037,
+                  0.043,
+                  0.051,
+                  0.059,
+                  0.065,
+                  0.069,
+                  0.072
+                ]
+              }
+            ]
+          }
+        ],
+        [
+          {
+            "text": "Hitting an Exhausted enemy grants 1 stack of Disintegration."
+          }
+        ],
+        [
+          {
+            "text": "Increases the max number of Disintegration stacks to 5."
+          }
+        ],
+        [
+          {
+            "text": "Increases Direct Critical Rate by 4.1%."
+          }
+        ],
+        [
+          {
+            "text": "Triggering a Perfect Dodge grants 5 stacks of Disintegration. This effect may trigger once every 15 seconds."
+          }
+        ]
+      ]
+    },
+    {
+      "name": "Riptide Reflex",
+      "tiers": [
+        [
+          {
+            "text": "Hitting an Enemy with a Control Skill reduces the Cooldown of the current Martial Art Skill by 1s. This effect can only trigger once every 10s.\nAffected Control Skills include: Bladebound Thread, Coiled Dragon, Qiankun's Lock, Spring Sorrow, Moon Shatter Spring, Wayfarer's Drift, Peak's Springless Silence."
+          }
+        ],
+        [
+          {
+            "text": "Hitting an enemy with a control skill reduces the current Martial Art Skill's cooldown by 2 seconds."
+          }
+        ],
+        [
+          {
+            "text": "Increases Min Physical Attack based on Solo Mode Level.",
+            "soloLevelValues": [
+              {
+                "stat": "Min Physical Attack",
+                "formats": [
+                  "1f"
+                ],
+                "levels": [
+                  null,
+                  null,
+                  null,
+                  null,
+                  13.4,
+                  18.2,
+                  24,
+                  30.5,
+                  35.6,
+                  35.6,
+                  35.6,
+                  42.3,
+                  49.3,
+                  57.5,
+                  63.8,
+                  66.9,
+                  70.1
+                ]
+              }
+            ]
+          }
+        ],
+        [
+          {
+            "text": "Martial Skill Chi Damage dealt to targets afflicted with your own Crowd Control or Erosion effects is increased by 10%."
+          }
+        ],
+        [
+          {
+            "text": "Now reduces the Martial Art Skill cooldown by 5 seconds."
+          }
+        ],
+        [
+          {
+            "text": "Increases Physical Penetration by 5.1."
+          }
+        ],
+        [
+          {
+            "text": "Hitting a target affected by your own crowd control or Bone Corrosion effects with a Martial Art Skill grants you Bone Grinding for 3 seconds. Bone Grinding: Increases Martial Art Skill's HP damage by 10%, stacking up to 3 times."
+          }
+        ]
+      ]
+    },
+    {
+      "name": "Phantom Rally",
+      "tiers": [
+        [
+          {
+            "text": "The first umbrella thrown by Scarlet Spin summons a Phantom Umbrella, and every 3rd throw afterward will summon another. During a Perfect Catch and when summoning a Phantom Umbrella, all Phantom Umbrellas on the battlefield will resonate, dealing area damage."
+          },
+          {
+            "text": "The first umbrella thrown by Scarlet Spin summons a Phantom Umbrella, and every 3rd throw afterward will summon another. Perfect Catches and phantom umbrella summons trigger a resonance with all existing phantom umbrellas, dealing area damage."
+          }
+        ],
+        [
+          {
+            "text": "Perfect Catch restores 10 Fading Crimson."
+          }
+        ],
+        [
+          {
+            "text": "Increases Critical Rate based on Solo Mode Level.",
+            "soloLevelValues": [
+              {
+                "stat": "Critical Rate",
+                "formats": [
+                  "1%"
+                ],
+                "levels": [
+                  null,
+                  null,
+                  null,
+                  null,
+                  0.017,
+                  0.023,
+                  0.031,
+                  0.039,
+                  0.046,
+                  0.046,
+                  0.046,
+                  0.054,
+                  0.063,
+                  0.074,
+                  0.082,
+                  0.086,
+                  0.09
+                ]
+              }
+            ]
+          }
+        ],
+        [
+          {
+            "text": "Enemies damaged by resonance receive Phantom Chime for 5 seconds, reducing their Physical Resistance by 2, stacking up to 5 times."
+          }
+        ],
+        [
+          {
+            "text": "Resonance deals 20% more damage and pulls in nearby enemies (ineffective against bosses). The pull-in effect can only trigger once every 20 seconds, and enemies can only be pulled in once every 20 seconds regardless of the source of resonance."
+          },
+          {
+            "text": "Resonance deals 20% more damage and pulls in nearby enemies (ineffective against bosses). The pull-in effect can only trigger once on the same target every 20 seconds, regardless of the source of resonance."
+          }
+        ],
+        [
+          {
+            "text": "Physical Damage Bonus +2.8%."
+          }
+        ],
+        [
+          {
+            "text": "Each umbrella thrown by Scarlet Spin summons a Phantom Umbrella. When a Phantom Umbrella is summoned, it immediately resonates once."
+          },
+          {
+            "text": "Each returning umbrella thrown by Scarlet Spin summons a phantom umbrella and triggers resonance immediately."
+          }
+        ]
+      ]
+    },
+    {
+      "name": "Towline Sweep",
+      "tiers": [
+        [
+          {
+            "text": "Gain 50 Tokens of Gratitude after casting Soul Sweep. In Soulbound state, each hit of Piercing Dart's sweeping combo applies 2 stacks of Soulbreak, and the first hit pulls enemies forward."
+          },
+          {
+            "text": "Gain 50 Tokens of Gratitude after casting Soul Sweep. In Soulbound state, each hit of Piercing Dart's sweeping combo applies 2 stacks of Soul Loss, and the first sweeping hit pulls the enemy in."
+          }
+        ],
+        [
+          {
+            "text": "The duration of Soulbreak and Life Drain is increased to 18 seconds."
+          },
+          {
+            "text": "The duration of Soulbreak and Soul Return is increased to 18 seconds."
+          }
+        ],
+        [
+          {
+            "text": "Increases Min Bamboocut Attack based on Solo Mode Level.",
+            "soloLevelValues": [
+              {
+                "stat": "Min Bamboocut Attack",
+                "formats": [
+                  "1f"
+                ],
+                "levels": [
+                  null,
+                  null,
+                  null,
+                  null,
+                  7.6,
+                  10.3,
+                  13.6,
+                  17.3,
+                  20.2,
+                  20.2,
+                  20.2,
+                  24,
+                  28,
+                  32.6,
+                  36.2,
+                  38,
+                  39.8
+                ]
+              }
+            ]
+          }
+        ],
+        [
+          {
+            "text": "Piercing Dart's sweeping combo deals increased damage: 5% bonus for 1st to 3rd hit, 10% bonus for the 4th and 5th hit, and 15% bonus for the 6th and 7th hit."
+          }
+        ],
+        [
+          {
+            "text": "When the Soul Drain effect ends, an additional 5% of the damage dealt by the inflictor during the effect is settled."
+          },
+          {
+            "text": "When Soulbreak ends, 5% of the damage dealt by the applier to the enemy during this effect will be dealt again."
+          }
+        ],
+        [
+          {
+            "text": "Increases Bamboocut Penetration by 6."
+          }
+        ],
+        [
+          {
+            "text": "Burn and Bury deals 15% increased damage and is guaranteed to be Critical. The finger snap refreshes your own Soul Return state, and immediately calculates and refreshes the Soulbreak state on enemies within 15 meters. When calculating Soulbreak's damage, the damage multiplier is increased to 10%."
+          }
+        ]
+      ]
+    },
+    {
+      "name": "Light Anew",
+      "tiers": [
+        [
+          {
+            "text": "When hitting no less than 3 enemies simultaneously, apply the Candle Shadow effect to enemies for 3 seconds, stackable up to 5 times. Each stack of Candle Shadow reduces enemy Movement Speed by 4% and increases damage they take by 2%. (Interval: 0.5 second). Enemies can gain 1 stack of Candle Shadow per 0.5s from any source."
+          },
+          {
+            "text": "When hitting 3 or more enemies at once, inflict Candlelight on them for 3s. Each stack reduces Movement Speed by 4% and increases damage taken by 2%, stacking up to 5 times. Candlelight can be inflicted once per 0.5s on each enemy (from any source)."
+          }
+        ],
+        [
+          {
+            "text": "Candlelight's duration is increased to 5 seconds."
+          }
+        ],
+        [
+          {
+            "text": "Increases Min Physical Attack based on Solo Mode Level.",
+            "soloLevelValues": [
+              {
+                "stat": "Min Physical Attack",
+                "formats": [
+                  "1f"
+                ],
+                "levels": [
+                  null,
+                  null,
+                  null,
+                  null,
+                  13.4,
+                  18.2,
+                  24,
+                  30.5,
+                  35.6,
+                  35.6,
+                  35.6,
+                  42.3,
+                  49.3,
+                  57.5,
+                  63.8,
+                  66.9,
+                  70.1
+                ]
+              }
+            ]
+          }
+        ],
+        [
+          {
+            "text": "Damaging an enemy with 5 stacks of Candlelight Immobilizes them for 2 seconds (ineffective against bosses). This effect can only Immobilize 1 enemy every 20 seconds, and this enemy can only be Immobilized once by the Light the Lantern effect from any source within 20 seconds."
+          },
+          {
+            "text": "Dealing damage to an enemy with 5 stacks of Candlelight immobilizes them for 2 seconds (ineffective against bosses). This effect can trigger on only one enemy every 20 seconds, and each enemy can only be immobilized once by Light Anew from any source within 20 seconds."
+          }
+        ],
+        [
+          {
+            "text": "Candlelight can be applied when you hit no less than 2 enemies simultaneously."
+          },
+          {
+            "text": "When hitting 2 or more enemies at once, inflict Candlelight on them."
+          }
+        ],
+        [
+          {
+            "text": "Increases Physical Penetration by 5.1."
+          }
+        ],
+        [
+          {
+            "text": "Deal 3% more damage to enemies with max Candlelight stacks. If they are more than 8 meters away from you when damaged, the damage increase is raised to 6%."
+          }
+        ]
+      ]
+    },
+    {
+      "name": "Song of Tang",
+      "tiers": [
+        [
+          {
+            "text": "When a Martial Art Skill deals damage to an enemy, grants you a stack of Tang Song, lasting 4 seconds. While current HP is above 50%, each stack of Tang Song increases Critical Damage dealt by your Martial Skills by 2%. While current HP is below 50%, each stack of Tang Song grants 2% Life Steal with a maximum steal rate of 2.5% of your Max HP per second. Tang Song can stack up to 5 times, and only 1 stack can be gained per second."
+          },
+          {
+            "text": "When dealing damage with Martial Art skills, gain Tang Melody for 4s (max 5 stacks, limited to 1 stack per second). Each stack grants Martial Art Skill bonus: when above 50% HP, +2% Critical Damage; when below 50% HP, +2% HP Drain (capped at 2.5% of your Max HP per second)."
+          }
+        ],
+        [
+          {
+            "text": "Song of Tang's duration is increased to 7 seconds."
+          },
+          {
+            "text": "Tang Melody's duration is increased to 7 seconds."
+          }
+        ],
+        [
+          {
+            "text": "Increases Precision Rate based on Solo Mode Level.",
+            "soloLevelValues": [
+              {
+                "stat": "Precision Rate",
+                "formats": [
+                  "1%"
+                ],
+                "levels": [
+                  null,
+                  null,
+                  null,
+                  null,
+                  0.014,
+                  0.019,
+                  0.025,
+                  0.031,
+                  0.037,
+                  0.037,
+                  0.037,
+                  0.043,
+                  0.051,
+                  0.059,
+                  0.065,
+                  0.069,
+                  0.072
+                ]
+              }
+            ]
+          }
+        ],
+        [
+          {
+            "text": "Song of Tang's Martial Art Skill Critical Damage bonus and HP Drain are increased to 3%, and you can gain up to 2 stacks per second."
+          },
+          {
+            "text": "Each stack of Tang Melody grants Martial Art Skills 3% Critical Damage and HP Drain. This effect can only trigger up to 2 times per second."
+          }
+        ],
+        [
+          {
+            "text": "Hitting no less than 2 enemies simultaneously with a Martial Art Skill grants 1 extra stack of Song of Tang. This effect can only trigger up to 2 times per second."
+          },
+          {
+            "text": "Hitting no less than 2 enemies simultaneously with a Martial Art Skill grants 1 extra stack of Tang Melody. This effect can only trigger up to 2 times per second."
+          }
+        ],
+        [
+          {
+            "text": "Critical Damage Bonus +4.0%."
+          }
+        ],
+        [
+          {
+            "text": "Song of Tang effect is no longer restricted by current HP."
+          },
+          {
+            "text": "Tang Melody effect is no longer restricted by current HP."
+          }
+        ]
+      ]
+    },
+    {
+      "name": "Frost-Clad Night",
+      "tiers": [
+        [
+          {
+            "text": "Successfully deflecting with Snow-Severing Blade can activate Heavy Attack Varied Combo Finding Spring: Press Varied Combo or Heavy Attack to consume 1 bar of Blade Momentum to quickly slash the enemy once while granting Tenacity. This attack deals 20% bonus HP damage against non-player units. Finding Spring can only be triggered once every 2 seconds."
+          },
+          {
+            "text": "Successfully deflecting with Snowparting Blade can activate Heavy Attack Varied Combo Snowbreak Spring: Press Varied Combo or Heavy Attack to consume 1 bar of Blade Momentum to quickly slash the enemy once while granting Tenacity. This attack deals 20% bonus HP damage against non-player units. Snowbreak Spring can only be triggered once every 2 seconds."
+          }
+        ],
+        [
+          {
+            "text": "During the Iron Guards state, hitting an enemy with Finding Spring summons a Horizontal Blade Anxi Soldier to deal additional follow-up damage."
+          },
+          {
+            "text": "During the Iron Guards state, hitting an enemy with Snowbreak Spring summons a Heng Blade Anxi Soldier to deal additional follow-up damage."
+          }
+        ],
+        [
+          {
+            "text": "Increases Min Physical Attack based on Solo Mode Level.",
+            "soloLevelValues": [
+              {
+                "stat": "Min Physical Attack",
+                "formats": [
+                  "1f"
+                ],
+                "levels": [
+                  null,
+                  null,
+                  null,
+                  null,
+                  14.9,
+                  20.3,
+                  26.7,
+                  33.8,
+                  39.6,
+                  39.6,
+                  39.6,
+                  47,
+                  54.8,
+                  63.9,
+                  70.9,
+                  74.4,
+                  77.9
+                ]
+              }
+            ]
+          }
+        ],
+        [
+          {
+            "text": "Fully casting Light Attack Charged Skill Grave Frost and Horizontal Blade - Weapon Switch can activate Finding Spring."
+          },
+          {
+            "text": "Fully casting Light Attack Charged Skill Grave Frost and Heng Blade - Dual-Weapon Skill can activate Snowbreak Spring."
+          }
+        ],
+        [
+          {
+            "text": "0.5 bar of Blade Momentum is refunded after Finding Spring hits a target."
+          },
+          {
+            "text": "0.5 bar of Blade Momentum is refunded after Snowbreak Spring hits a target."
+          }
+        ],
+        [
+          {
+            "text": "Increases Direct Critical Rate by 4.6%."
+          }
+        ],
+        [
+          {
+            "text": "Finding Spring deals 10% more damage and triggers Forgetfulness upon cast: Within 3 seconds, you can perform one Grave Frost without charging. This charge-free Grave Frost clears the cooldown of Finding Spring. Forgetfulness can only be gained once every 6 seconds."
+          },
+          {
+            "text": "Snowbreak Spring deals 10% more damage and triggers Forgetfulness upon cast: Within 3 seconds, you can perform one Grave Frost without charging. This charge-free Grave Frost clears the cooldown of Snowbreak Spring. Forgetfulness can only be gained once every 6 seconds."
+          }
+        ]
+      ]
+    },
+    {
+      "name": "Steadfast Devotion",
+      "tiers": [
+        [
+          {
+            "text": "The maximum charge stage of Legion Breaker's Heavy Attack Charged Skill Burning Heart increases from 2 to 3, unleashing a charged leap attack that deals high damage at the 3rd stage. During the Iron Guards state, Mo Blade Anxi Soldier will appear during the 3rd stage charging and perform a leap attack toward the target."
+          },
+          {
+            "text": "The maximum charge stage of Phalanxbane Blade's Heavy Attack Charged Skill Burning Heart increases from 2 to 3, unleashing a charged leap attack that deals high damage at the 3rd stage. During the Iron Guards state, Mo Blade Anxi Soldier will appear during the 3rd stage charging and perform a leap attack toward the target."
+          }
+        ],
+        [
+          {
+            "text": "Legion Summoner's cooldown is reduced to 1 second."
+          }
+        ],
+        [
+          {
+            "text": "Increases Critical Rate based on Solo Mode Level.",
+            "soloLevelValues": [
+              {
+                "stat": "Critical Rate",
+                "formats": [
+                  "1%"
+                ],
+                "levels": [
+                  null,
+                  null,
+                  null,
+                  null,
+                  0.015,
+                  0.021,
+                  0.028,
+                  0.035,
+                  0.041,
+                  0.041,
+                  0.041,
+                  0.049,
+                  0.057,
+                  0.066,
+                  0.073,
+                  0.077,
+                  0.081
+                ]
+              }
+            ]
+          }
+        ],
+        [
+          {
+            "text": "When Mo Blade Anxi Soldier hits an enemy, you gain Mountain Splitter for 5 seconds: Burning Heart and assisting Anxi Soldiers' damage is guaranteed to be Critical, with 10% increased Critical DMG. You can only gain Mountain Splitter once every 15 seconds."
+          }
+        ],
+        [
+          {
+            "text": "When Inner Passion is active, Formation Breakthrough's Charged Skill no longer consumes Blade Momentum."
+          },
+          {
+            "text": "When Inner Passion is active, Phalanxbane Blade's Charged Skill no longer consumes Blade Momentum."
+          }
+        ],
+        [
+          {
+            "text": "Increases Critical DMG Bonus by 4.0%."
+          }
+        ],
+        [
+          {
+            "text": "Mountain Splitter's duration is increased to 8 seconds. Burning Heart and the assisting Anxi Soldiers deal 15% more damage."
+          }
+        ]
+      ]
+    },
+    {
+      "name": "Throat-Piercing Art",
+      "tiers": [
+        [
+          {
+            "text": "When Light Attack Varied Combo and Heavy Attack Varied Combo deal damage, you gain Throat-Pierced for 8 seconds: When dealing direct damage, ignore 2 points of the target's Physical Resistance and increase Critical Damage by 2%. Throat-Pierced stacks up to 3 times.\n\nApplicable Light Attack Varied Combos and Heavy Attack Varied Combos include: Thundercry Blade - Light Attack Varied Combo, Thundercry Blade - Heavy Attack Varied Combo, Moonrise Startles Spring, Colorful Phoenix, Bamboo Breeze,Frozen Under Spring, and Finding Spring."
+          },
+          {
+            "text": "When Light Attack Varied Combo and Heavy Attack Varied Combo deal damage, you gain Throat-Pierced for 8 seconds: When dealing direct damage, ignore 2 points of the target's Physical Resistance and increase Critical Damage by 2%. Throat-Pierced stacks up to 3 times.\n\nApplicable Light Attack Varied Combos and Heavy Attack Varied Combos include: Thundercry Blade - Light Attack Varied Combo, Thundercry Blade - Heavy Attack Varied Combo, Moonrise Startles Spring, Colorful Phoenix, Bamboo Breeze,Stygian Freeze, and Snowbreak Spring."
+          }
+        ],
+        [
+          {
+            "text": "Throat-Pierced duration is increased to 12 seconds."
+          }
+        ],
+        [
+          {
+            "text": "Increases Stonesplit Attack based on Solo Mode Level.",
+            "soloLevelValues": [
+              {
+                "stat": "Stonesplit Attack",
+                "formats": [
+                  "1f",
+                  "1f"
+                ],
+                "levels": [
+                  null,
+                  null,
+                  null,
+                  null,
+                  [
+                    2.5,
+                    5.1
+                  ],
+                  [
+                    3.5,
+                    6.9
+                  ],
+                  [
+                    4.5,
+                    9.1
+                  ],
+                  [
+                    5.7,
+                    11.5
+                  ],
+                  [
+                    6.7,
+                    13.5
+                  ],
+                  [
+                    6.7,
+                    13.5
+                  ],
+                  [
+                    6.7,
+                    13.5
+                  ],
+                  [
+                    8,
+                    16
+                  ],
+                  [
+                    9.3,
+                    18.7
+                  ],
+                  [
+                    10.9,
+                    21.7
+                  ],
+                  [
+                    12.1,
+                    24.1
+                  ],
+                  [
+                    12.7,
+                    25.3
+                  ],
+                  [
+                    13.3,
+                    26.5
+                  ]
+                ]
+              }
+            ]
+          }
+        ],
+        [
+          {
+            "text": "Throat-Pierced enhanced: Increases the Physical Resistance ignored by Light Attack - Varied Combo and Heavy Attack - Varied Combo to 3 points, and increases bonus Critical DMG to 3%."
+          }
+        ],
+        [
+          {
+            "text": "Throat-Pierced stacks up to 5 times."
+          }
+        ],
+        [
+          {
+            "text": "Increases Stonesplit Penetration by 6."
+          }
+        ],
+        [
+          {
+            "text": "Successful deflection grants 5 stacks of Throat-Pierced. This effect can only trigger once every 20 seconds."
+          }
+        ]
+      ]
+    },
+    {
+      "name": "Wildfire Surge",
+      "tiers": [
+        [
+          {
+            "text": "While in Tenacity, damage dealt increases by 4% Gain an extra 1% per enemy within 3 meters, up to an additional 3%."
+          }
+        ],
+        [
+          {
+            "text": "The bonus damage range limit is increased from 3 meters to 5 meters."
+          }
+        ],
+        [
+          {
+            "text": "Increases Physical Attack based on Solo Mode Level.",
+            "soloLevelValues": [
+              {
+                "stat": "Physical Attack",
+                "formats": [
+                  "1f",
+                  "1f"
+                ],
+                "levels": [
+                  null,
+                  null,
+                  null,
+                  null,
+                  [
+                    4.5,
+                    8.9
+                  ],
+                  [
+                    6.1,
+                    12.1
+                  ],
+                  [
+                    8,
+                    16
+                  ],
+                  [
+                    10.1,
+                    20.3
+                  ],
+                  [
+                    11.9,
+                    23.7
+                  ],
+                  [
+                    11.9,
+                    23.7
+                  ],
+                  [
+                    11.9,
+                    23.7
+                  ],
+                  [
+                    14.1,
+                    28.3
+                  ],
+                  [
+                    16.5,
+                    32.9
+                  ],
+                  [
+                    19.1,
+                    38.3
+                  ],
+                  [
+                    21.3,
+                    42.5
+                  ],
+                  [
+                    22.3,
+                    44.7
+                  ],
+                  [
+                    23.3,
+                    46.7
+                  ]
+                ]
+              }
+            ]
+          }
+        ],
+        [
+          {
+            "text": "Tenacity also grants 4% DMG Reduction, further increased by 1% for every surviving enemy within 5 meters, up to 3%."
+          }
+        ],
+        [
+          {
+            "text": "Tenacity also grants 3% HP Drain, capped at 2% of your Max HP per second."
+          }
+        ],
+        [
+          {
+            "text": "Physical Damage Bonus +2.5%."
+          }
+        ],
+        [
+          {
+            "text": "Further increases damage bonus and reduction effects from 1% to 1.5% for every surviving enemy within 5 meters, up to 4.5%."
+          }
+        ]
+      ]
+    }
+  ]
+}

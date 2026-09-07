@@ -1,0 +1,6399 @@
+{
+  "schemaVersion": 3,
+  "kind": "wwm-items",
+  "items": [
+    {
+      "name": "Mistridge Helm",
+      "fields": {
+        "Max HP": 4619,
+        "Physical Defense": 18,
+        "Durability": 100,
+        "Gear Tier": 96,
+        "Required Level": 96
+      },
+      "rarity": "Blue",
+      "equipmentSlot": "Helmet",
+      "initialAffixes": [
+        {
+          "name": "Max HP",
+          "min": 1480,
+          "max": 2960
+        },
+        {
+          "name": "Physical Defense",
+          "min": 19.5,
+          "max": 39
+        },
+        {
+          "name": "Precision Rate",
+          "min": 0.04,
+          "max": 0.08
+        },
+        {
+          "name": "Critical Rate",
+          "min": 0.045,
+          "max": 0.09
+        },
+        {
+          "name": "Affinity Rate",
+          "min": 0.022,
+          "max": 0.044
+        },
+        {
+          "name": "Tuning EXP",
+          "min": 20,
+          "max": 50
+        },
+        {
+          "name": "Tuning Min Quality",
+          "min": 2,
+          "max": 3
+        }
+      ],
+      "tuningAffixes": [
+        {
+          "name": "Body",
+          "min": 24.7,
+          "max": 49.4
+        },
+        {
+          "name": "Power",
+          "min": 24.7,
+          "max": 49.4
+        },
+        {
+          "name": "Defense",
+          "min": 24.7,
+          "max": 49.4
+        },
+        {
+          "name": "Agility",
+          "min": 24.7,
+          "max": 49.4
+        },
+        {
+          "name": "Momentum",
+          "min": 24.7,
+          "max": 49.4
+        },
+        {
+          "name": "Max HP",
+          "min": 1480,
+          "max": 2960
+        },
+        {
+          "name": "Min Physical Attack",
+          "min": 38.9,
+          "max": 77.8
+        },
+        {
+          "name": "Max Physical Attack",
+          "min": 38.9,
+          "max": 77.8
+        },
+        {
+          "name": "Physical Defense",
+          "min": 19.5,
+          "max": 39
+        },
+        {
+          "name": "Min Bellstrike Attack",
+          "min": 22.1,
+          "max": 44.2
+        },
+        {
+          "name": "Max Bellstrike Attack",
+          "min": 22.1,
+          "max": 44.2
+        },
+        {
+          "name": "Min Stonesplit Attack",
+          "min": 22.1,
+          "max": 44.2
+        },
+        {
+          "name": "Max Stonesplit Attack",
+          "min": 22.1,
+          "max": 44.2
+        },
+        {
+          "name": "Min Silkbind Attack",
+          "min": 22.1,
+          "max": 44.2
+        },
+        {
+          "name": "Max Silkbind Attack",
+          "min": 22.1,
+          "max": 44.2
+        },
+        {
+          "name": "Min Bamboocut Attack",
+          "min": 22.1,
+          "max": 44.2
+        },
+        {
+          "name": "Max Bamboocut Attack",
+          "min": 22.1,
+          "max": 44.2
+        },
+        {
+          "name": "Precision Rate",
+          "min": 0.04,
+          "max": 0.08
+        },
+        {
+          "name": "Critical Rate",
+          "min": 0.045,
+          "max": 0.09
+        },
+        {
+          "name": "Affinity Rate",
+          "min": 0.022,
+          "max": 0.044
+        },
+        {
+          "name": "Area Mystic Skill DMG Boost",
+          "min": 0.049,
+          "max": 0.098
+        },
+        {
+          "name": "Single-Target Mystic Skill DMG Boost",
+          "min": 0.049,
+          "max": 0.098
+        }
+      ]
+    },
+    {
+      "name": "Mistridge Armor",
+      "fields": {
+        "Max HP": 9238,
+        "Physical Defense": 18,
+        "Durability": 100,
+        "Gear Tier": 96,
+        "Required Level": 96
+      },
+      "rarity": "Blue",
+      "equipmentSlot": "Chestpiece",
+      "initialAffixes": [
+        {
+          "name": "Max HP",
+          "min": 1480,
+          "max": 2960
+        },
+        {
+          "name": "Physical Defense",
+          "min": 19.5,
+          "max": 39
+        },
+        {
+          "name": "Precision Rate",
+          "min": 0.04,
+          "max": 0.08
+        },
+        {
+          "name": "Critical Rate",
+          "min": 0.045,
+          "max": 0.09
+        },
+        {
+          "name": "Affinity Rate",
+          "min": 0.022,
+          "max": 0.044
+        },
+        {
+          "name": "Tuning EXP",
+          "min": 20,
+          "max": 50
+        },
+        {
+          "name": "Tuning Min Quality",
+          "min": 2,
+          "max": 3
+        }
+      ],
+      "tuningAffixes": [
+        {
+          "name": "Body",
+          "min": 24.7,
+          "max": 49.4
+        },
+        {
+          "name": "Power",
+          "min": 24.7,
+          "max": 49.4
+        },
+        {
+          "name": "Defense",
+          "min": 24.7,
+          "max": 49.4
+        },
+        {
+          "name": "Agility",
+          "min": 24.7,
+          "max": 49.4
+        },
+        {
+          "name": "Momentum",
+          "min": 24.7,
+          "max": 49.4
+        },
+        {
+          "name": "Max HP",
+          "min": 1480,
+          "max": 2960
+        },
+        {
+          "name": "Min Physical Attack",
+          "min": 38.9,
+          "max": 77.8
+        },
+        {
+          "name": "Max Physical Attack",
+          "min": 38.9,
+          "max": 77.8
+        },
+        {
+          "name": "Physical Defense",
+          "min": 19.5,
+          "max": 39
+        },
+        {
+          "name": "Min Bellstrike Attack",
+          "min": 22.1,
+          "max": 44.2
+        },
+        {
+          "name": "Max Bellstrike Attack",
+          "min": 22.1,
+          "max": 44.2
+        },
+        {
+          "name": "Min Stonesplit Attack",
+          "min": 22.1,
+          "max": 44.2
+        },
+        {
+          "name": "Max Stonesplit Attack",
+          "min": 22.1,
+          "max": 44.2
+        },
+        {
+          "name": "Min Silkbind Attack",
+          "min": 22.1,
+          "max": 44.2
+        },
+        {
+          "name": "Max Silkbind Attack",
+          "min": 22.1,
+          "max": 44.2
+        },
+        {
+          "name": "Min Bamboocut Attack",
+          "min": 22.1,
+          "max": 44.2
+        },
+        {
+          "name": "Max Bamboocut Attack",
+          "min": 22.1,
+          "max": 44.2
+        },
+        {
+          "name": "Precision Rate",
+          "min": 0.04,
+          "max": 0.08
+        },
+        {
+          "name": "Critical Rate",
+          "min": 0.045,
+          "max": 0.09
+        },
+        {
+          "name": "Affinity Rate",
+          "min": 0.022,
+          "max": 0.044
+        },
+        {
+          "name": "Area Mystic Skill DMG Boost",
+          "min": 0.049,
+          "max": 0.098
+        },
+        {
+          "name": "Single-Target Mystic Skill DMG Boost",
+          "min": 0.049,
+          "max": 0.098
+        }
+      ]
+    },
+    {
+      "name": "Mistridge Bracers",
+      "fields": {
+        "Max HP": 4619,
+        "Physical Defense": 18,
+        "Durability": 100,
+        "Gear Tier": 96,
+        "Required Level": 96
+      },
+      "rarity": "Blue",
+      "equipmentSlot": "Bracer",
+      "initialAffixes": [
+        {
+          "name": "Max HP",
+          "min": 1480,
+          "max": 2960
+        },
+        {
+          "name": "Physical Defense",
+          "min": 19.5,
+          "max": 39
+        },
+        {
+          "name": "Precision Rate",
+          "min": 0.04,
+          "max": 0.08
+        },
+        {
+          "name": "Critical Rate",
+          "min": 0.045,
+          "max": 0.09
+        },
+        {
+          "name": "Affinity Rate",
+          "min": 0.022,
+          "max": 0.044
+        },
+        {
+          "name": "Body",
+          "min": 24.7,
+          "max": 49.4
+        },
+        {
+          "name": "Power",
+          "min": 24.7,
+          "max": 49.4
+        },
+        {
+          "name": "Tuning EXP",
+          "min": 20,
+          "max": 50
+        },
+        {
+          "name": "Tuning Min Quality",
+          "min": 2,
+          "max": 3
+        }
+      ],
+      "tuningAffixes": [
+        {
+          "name": "Body",
+          "min": 24.7,
+          "max": 49.4
+        },
+        {
+          "name": "Power",
+          "min": 24.7,
+          "max": 49.4
+        },
+        {
+          "name": "Defense",
+          "min": 24.7,
+          "max": 49.4
+        },
+        {
+          "name": "Agility",
+          "min": 24.7,
+          "max": 49.4
+        },
+        {
+          "name": "Momentum",
+          "min": 24.7,
+          "max": 49.4
+        },
+        {
+          "name": "Max HP",
+          "min": 1480,
+          "max": 2960
+        },
+        {
+          "name": "Min Physical Attack",
+          "min": 38.9,
+          "max": 77.8
+        },
+        {
+          "name": "Max Physical Attack",
+          "min": 38.9,
+          "max": 77.8
+        },
+        {
+          "name": "Physical Defense",
+          "min": 19.5,
+          "max": 39
+        },
+        {
+          "name": "Min Bellstrike Attack",
+          "min": 22.1,
+          "max": 44.2
+        },
+        {
+          "name": "Max Bellstrike Attack",
+          "min": 22.1,
+          "max": 44.2
+        },
+        {
+          "name": "Min Stonesplit Attack",
+          "min": 22.1,
+          "max": 44.2
+        },
+        {
+          "name": "Max Stonesplit Attack",
+          "min": 22.1,
+          "max": 44.2
+        },
+        {
+          "name": "Min Silkbind Attack",
+          "min": 22.1,
+          "max": 44.2
+        },
+        {
+          "name": "Max Silkbind Attack",
+          "min": 22.1,
+          "max": 44.2
+        },
+        {
+          "name": "Min Bamboocut Attack",
+          "min": 22.1,
+          "max": 44.2
+        },
+        {
+          "name": "Max Bamboocut Attack",
+          "min": 22.1,
+          "max": 44.2
+        },
+        {
+          "name": "Precision Rate",
+          "min": 0.04,
+          "max": 0.08
+        },
+        {
+          "name": "Critical Rate",
+          "min": 0.045,
+          "max": 0.09
+        },
+        {
+          "name": "Affinity Rate",
+          "min": 0.022,
+          "max": 0.044
+        },
+        {
+          "name": "Combat Boost Against Boss Units",
+          "min": 0.016,
+          "max": 0.032
+        },
+        {
+          "name": "Boost Vs. Player Units",
+          "min": 0.016,
+          "max": 0.032
+        }
+      ]
+    },
+    {
+      "name": "Mistridge Greaves",
+      "fields": {
+        "Max HP": 4619,
+        "Physical Defense": 35,
+        "Durability": 100,
+        "Gear Tier": 96,
+        "Required Level": 96
+      },
+      "rarity": "Blue",
+      "equipmentSlot": "Greaves",
+      "initialAffixes": [
+        {
+          "name": "Max HP",
+          "min": 1480,
+          "max": 2960
+        },
+        {
+          "name": "Physical Defense",
+          "min": 19.5,
+          "max": 39
+        },
+        {
+          "name": "Precision Rate",
+          "min": 0.04,
+          "max": 0.08
+        },
+        {
+          "name": "Critical Rate",
+          "min": 0.045,
+          "max": 0.09
+        },
+        {
+          "name": "Affinity Rate",
+          "min": 0.022,
+          "max": 0.044
+        },
+        {
+          "name": "Body",
+          "min": 24.7,
+          "max": 49.4
+        },
+        {
+          "name": "Power",
+          "min": 24.7,
+          "max": 49.4
+        },
+        {
+          "name": "Tuning EXP",
+          "min": 20,
+          "max": 50
+        },
+        {
+          "name": "Tuning Min Quality",
+          "min": 2,
+          "max": 3
+        }
+      ],
+      "tuningAffixes": [
+        {
+          "name": "Body",
+          "min": 24.7,
+          "max": 49.4
+        },
+        {
+          "name": "Power",
+          "min": 24.7,
+          "max": 49.4
+        },
+        {
+          "name": "Defense",
+          "min": 24.7,
+          "max": 49.4
+        },
+        {
+          "name": "Agility",
+          "min": 24.7,
+          "max": 49.4
+        },
+        {
+          "name": "Momentum",
+          "min": 24.7,
+          "max": 49.4
+        },
+        {
+          "name": "Max HP",
+          "min": 1480,
+          "max": 2960
+        },
+        {
+          "name": "Min Physical Attack",
+          "min": 38.9,
+          "max": 77.8
+        },
+        {
+          "name": "Max Physical Attack",
+          "min": 38.9,
+          "max": 77.8
+        },
+        {
+          "name": "Physical Defense",
+          "min": 19.5,
+          "max": 39
+        },
+        {
+          "name": "Min Bellstrike Attack",
+          "min": 22.1,
+          "max": 44.2
+        },
+        {
+          "name": "Max Bellstrike Attack",
+          "min": 22.1,
+          "max": 44.2
+        },
+        {
+          "name": "Min Stonesplit Attack",
+          "min": 22.1,
+          "max": 44.2
+        },
+        {
+          "name": "Max Stonesplit Attack",
+          "min": 22.1,
+          "max": 44.2
+        },
+        {
+          "name": "Min Silkbind Attack",
+          "min": 22.1,
+          "max": 44.2
+        },
+        {
+          "name": "Max Silkbind Attack",
+          "min": 22.1,
+          "max": 44.2
+        },
+        {
+          "name": "Min Bamboocut Attack",
+          "min": 22.1,
+          "max": 44.2
+        },
+        {
+          "name": "Max Bamboocut Attack",
+          "min": 22.1,
+          "max": 44.2
+        },
+        {
+          "name": "Precision Rate",
+          "min": 0.04,
+          "max": 0.08
+        },
+        {
+          "name": "Critical Rate",
+          "min": 0.045,
+          "max": 0.09
+        },
+        {
+          "name": "Affinity Rate",
+          "min": 0.022,
+          "max": 0.044
+        },
+        {
+          "name": "Combat Boost Against Boss Units",
+          "min": 0.016,
+          "max": 0.032
+        },
+        {
+          "name": "Boost Vs. Player Units",
+          "min": 0.016,
+          "max": 0.032
+        }
+      ]
+    },
+    {
+      "name": "Mirage Charm",
+      "fields": {
+        "Min Physical Attack": 69,
+        "Durability": 100,
+        "Gear Tier": 96,
+        "Required Level": 96
+      },
+      "rarity": "Blue",
+      "equipmentSlot": "Disc",
+      "initialAffixes": [
+        {
+          "name": "Min Physical Attack",
+          "min": 38.9,
+          "max": 77.8
+        },
+        {
+          "name": "Max Physical Attack",
+          "min": 38.9,
+          "max": 77.8
+        },
+        {
+          "name": "Tuning EXP",
+          "min": 20,
+          "max": 50
+        },
+        {
+          "name": "Tuning Min Quality",
+          "min": 2,
+          "max": 3
+        },
+        {
+          "name": "Tuning EXP",
+          "min": 20,
+          "max": 50
+        }
+      ],
+      "tuningAffixes": [
+        {
+          "name": "Body",
+          "min": 24.7,
+          "max": 49.4
+        },
+        {
+          "name": "Power",
+          "min": 24.7,
+          "max": 49.4
+        },
+        {
+          "name": "Defense",
+          "min": 24.7,
+          "max": 49.4
+        },
+        {
+          "name": "Agility",
+          "min": 24.7,
+          "max": 49.4
+        },
+        {
+          "name": "Momentum",
+          "min": 24.7,
+          "max": 49.4
+        },
+        {
+          "name": "Max HP",
+          "min": 1480,
+          "max": 2960
+        },
+        {
+          "name": "Min Physical Attack",
+          "min": 38.9,
+          "max": 77.8
+        },
+        {
+          "name": "Max Physical Attack",
+          "min": 38.9,
+          "max": 77.8
+        },
+        {
+          "name": "Physical Defense",
+          "min": 19.5,
+          "max": 39
+        },
+        {
+          "name": "Min Bellstrike Attack",
+          "min": 22.1,
+          "max": 44.2
+        },
+        {
+          "name": "Max Bellstrike Attack",
+          "min": 22.1,
+          "max": 44.2
+        },
+        {
+          "name": "Min Stonesplit Attack",
+          "min": 22.1,
+          "max": 44.2
+        },
+        {
+          "name": "Max Stonesplit Attack",
+          "min": 22.1,
+          "max": 44.2
+        },
+        {
+          "name": "Min Silkbind Attack",
+          "min": 22.1,
+          "max": 44.2
+        },
+        {
+          "name": "Max Silkbind Attack",
+          "min": 22.1,
+          "max": 44.2
+        },
+        {
+          "name": "Min Bamboocut Attack",
+          "min": 22.1,
+          "max": 44.2
+        },
+        {
+          "name": "Max Bamboocut Attack",
+          "min": 22.1,
+          "max": 44.2
+        },
+        {
+          "name": "Precision Rate",
+          "min": 0.04,
+          "max": 0.08
+        },
+        {
+          "name": "Critical Rate",
+          "min": 0.045,
+          "max": 0.09
+        },
+        {
+          "name": "Affinity Rate",
+          "min": 0.022,
+          "max": 0.044
+        },
+        {
+          "name": "All Martial Arts Boost",
+          "min": 0.016,
+          "max": 0.032
+        }
+      ]
+    },
+    {
+      "name": "Mirage Ward",
+      "fields": {
+        "Max Physical Attack": 104,
+        "Durability": 100,
+        "Gear Tier": 96,
+        "Required Level": 96
+      },
+      "rarity": "Blue",
+      "equipmentSlot": "Pendant",
+      "initialAffixes": [
+        {
+          "name": "Min Physical Attack",
+          "min": 38.9,
+          "max": 77.8
+        },
+        {
+          "name": "Max Physical Attack",
+          "min": 38.9,
+          "max": 77.8
+        },
+        {
+          "name": "Tuning EXP",
+          "min": 20,
+          "max": 50
+        },
+        {
+          "name": "Tuning Min Quality",
+          "min": 2,
+          "max": 3
+        },
+        {
+          "name": "Tuning EXP",
+          "min": 20,
+          "max": 50
+        }
+      ],
+      "tuningAffixes": [
+        {
+          "name": "Body",
+          "min": 24.7,
+          "max": 49.4
+        },
+        {
+          "name": "Power",
+          "min": 24.7,
+          "max": 49.4
+        },
+        {
+          "name": "Defense",
+          "min": 24.7,
+          "max": 49.4
+        },
+        {
+          "name": "Agility",
+          "min": 24.7,
+          "max": 49.4
+        },
+        {
+          "name": "Momentum",
+          "min": 24.7,
+          "max": 49.4
+        },
+        {
+          "name": "Max HP",
+          "min": 1480,
+          "max": 2960
+        },
+        {
+          "name": "Min Physical Attack",
+          "min": 38.9,
+          "max": 77.8
+        },
+        {
+          "name": "Max Physical Attack",
+          "min": 38.9,
+          "max": 77.8
+        },
+        {
+          "name": "Physical Defense",
+          "min": 19.5,
+          "max": 39
+        },
+        {
+          "name": "Min Bellstrike Attack",
+          "min": 22.1,
+          "max": 44.2
+        },
+        {
+          "name": "Max Bellstrike Attack",
+          "min": 22.1,
+          "max": 44.2
+        },
+        {
+          "name": "Min Stonesplit Attack",
+          "min": 22.1,
+          "max": 44.2
+        },
+        {
+          "name": "Max Stonesplit Attack",
+          "min": 22.1,
+          "max": 44.2
+        },
+        {
+          "name": "Min Silkbind Attack",
+          "min": 22.1,
+          "max": 44.2
+        },
+        {
+          "name": "Max Silkbind Attack",
+          "min": 22.1,
+          "max": 44.2
+        },
+        {
+          "name": "Min Bamboocut Attack",
+          "min": 22.1,
+          "max": 44.2
+        },
+        {
+          "name": "Max Bamboocut Attack",
+          "min": 22.1,
+          "max": 44.2
+        },
+        {
+          "name": "Precision Rate",
+          "min": 0.04,
+          "max": 0.08
+        },
+        {
+          "name": "Critical Rate",
+          "min": 0.045,
+          "max": 0.09
+        },
+        {
+          "name": "Affinity Rate",
+          "min": 0.022,
+          "max": 0.044
+        },
+        {
+          "name": "All Martial Arts Boost",
+          "min": 0.016,
+          "max": 0.032
+        }
+      ]
+    },
+    {
+      "name": "Dragonshadow Ring",
+      "fields": {
+        "Durability": 100,
+        "Gear Tier": 96,
+        "Required Level": 96
+      },
+      "rarity": "Blue",
+      "equipmentSlot": "Archery Jade",
+      "initialAffixes": [
+        {
+          "name": "Tuning EXP",
+          "min": 20,
+          "max": 50
+        },
+        {
+          "name": "Tuning Min Quality",
+          "min": 2,
+          "max": 3
+        }
+      ],
+      "tuningAffixes": []
+    },
+    {
+      "name": "Dragonshadow Bow - Longshot",
+      "fields": {
+        "Durability": 100,
+        "Gear Tier": 96,
+        "Required Level": 96
+      },
+      "rarity": "Blue",
+      "equipmentSlot": "Bow and Arrow",
+      "initialAffixes": [
+        {
+          "name": "Tuning EXP",
+          "min": 20,
+          "max": 50
+        },
+        {
+          "name": "Tuning Min Quality",
+          "min": 2,
+          "max": 3
+        }
+      ],
+      "tuningAffixes": []
+    },
+    {
+      "name": "Dragonshadow Bow - Divine",
+      "fields": {
+        "Durability": 100,
+        "Gear Tier": 96,
+        "Required Level": 96
+      },
+      "rarity": "Blue",
+      "equipmentSlot": "Bow and Arrow",
+      "initialAffixes": [
+        {
+          "name": "Tuning EXP",
+          "min": 20,
+          "max": 50
+        },
+        {
+          "name": "Tuning Min Quality",
+          "min": 2,
+          "max": 3
+        }
+      ],
+      "tuningAffixes": []
+    },
+    {
+      "name": "Dragonshadow Bow - Precision",
+      "fields": {
+        "Durability": 100,
+        "Gear Tier": 96,
+        "Required Level": 96
+      },
+      "rarity": "Blue",
+      "equipmentSlot": "Bow and Arrow",
+      "initialAffixes": [
+        {
+          "name": "Tuning EXP",
+          "min": 20,
+          "max": 50
+        },
+        {
+          "name": "Tuning Min Quality",
+          "min": 2,
+          "max": 3
+        }
+      ],
+      "tuningAffixes": []
+    },
+    {
+      "name": "Dragonshadow Bow - Rapidfire",
+      "fields": {
+        "Durability": 100,
+        "Gear Tier": 96,
+        "Required Level": 96
+      },
+      "rarity": "Blue",
+      "equipmentSlot": "Bow and Arrow",
+      "initialAffixes": [
+        {
+          "name": "Tuning EXP",
+          "min": 20,
+          "max": 50
+        },
+        {
+          "name": "Tuning Min Quality",
+          "min": 2,
+          "max": 3
+        }
+      ],
+      "tuningAffixes": []
+    },
+    {
+      "name": "Mirage Veilbright",
+      "fields": {
+        "Min Physical Attack": 52,
+        "Max Physical Attack": 121,
+        "Durability": 100,
+        "Gear Tier": 96,
+        "Required Level": 96
+      },
+      "rarity": "Blue",
+      "equipmentSlot": "Weapon",
+      "initialAffixes": [
+        {
+          "name": "Min Physical Attack",
+          "min": 38.9,
+          "max": 77.8
+        },
+        {
+          "name": "Max Physical Attack",
+          "min": 38.9,
+          "max": 77.8
+        },
+        {
+          "name": "Min Formless Attack",
+          "min": 22.1,
+          "max": 44.2
+        },
+        {
+          "name": "Max Formless Attack",
+          "min": 22.1,
+          "max": 44.2
+        },
+        {
+          "name": "Agility",
+          "min": 24.7,
+          "max": 49.4
+        },
+        {
+          "name": "Momentum",
+          "min": 24.7,
+          "max": 49.4
+        },
+        {
+          "name": "Tuning EXP",
+          "min": 20,
+          "max": 50
+        },
+        {
+          "name": "Tuning Min Quality",
+          "min": 2,
+          "max": 3
+        }
+      ],
+      "tuningAffixes": [
+        {
+          "name": "Body",
+          "min": 24.7,
+          "max": 49.4
+        },
+        {
+          "name": "Power",
+          "min": 24.7,
+          "max": 49.4
+        },
+        {
+          "name": "Defense",
+          "min": 24.7,
+          "max": 49.4
+        },
+        {
+          "name": "Agility",
+          "min": 24.7,
+          "max": 49.4
+        },
+        {
+          "name": "Momentum",
+          "min": 24.7,
+          "max": 49.4
+        },
+        {
+          "name": "Max HP",
+          "min": 1480,
+          "max": 2960
+        },
+        {
+          "name": "Min Physical Attack",
+          "min": 38.9,
+          "max": 77.8
+        },
+        {
+          "name": "Max Physical Attack",
+          "min": 38.9,
+          "max": 77.8
+        },
+        {
+          "name": "Physical Defense",
+          "min": 19.5,
+          "max": 39
+        },
+        {
+          "name": "Min Formless Attack",
+          "min": 22.1,
+          "max": 44.2
+        },
+        {
+          "name": "Max Formless Attack",
+          "min": 22.1,
+          "max": 44.2
+        },
+        {
+          "name": "Precision Rate",
+          "min": 0.04,
+          "max": 0.08
+        },
+        {
+          "name": "Critical Rate",
+          "min": 0.045,
+          "max": 0.09
+        },
+        {
+          "name": "Affinity Rate",
+          "min": 0.022,
+          "max": 0.044
+        },
+        {
+          "name": "Art of Sword DMG Boost",
+          "min": 0.031,
+          "max": 0.062
+        }
+      ]
+    },
+    {
+      "name": "Mirage Sentinel",
+      "fields": {
+        "Min Physical Attack": 52,
+        "Max Physical Attack": 121,
+        "Durability": 100,
+        "Gear Tier": 96,
+        "Required Level": 96
+      },
+      "rarity": "Blue",
+      "equipmentSlot": "Weapon",
+      "initialAffixes": [
+        {
+          "name": "Min Physical Attack",
+          "min": 38.9,
+          "max": 77.8
+        },
+        {
+          "name": "Max Physical Attack",
+          "min": 38.9,
+          "max": 77.8
+        },
+        {
+          "name": "Min Formless Attack",
+          "min": 22.1,
+          "max": 44.2
+        },
+        {
+          "name": "Max Formless Attack",
+          "min": 22.1,
+          "max": 44.2
+        },
+        {
+          "name": "Agility",
+          "min": 24.7,
+          "max": 49.4
+        },
+        {
+          "name": "Momentum",
+          "min": 24.7,
+          "max": 49.4
+        },
+        {
+          "name": "Tuning EXP",
+          "min": 20,
+          "max": 50
+        },
+        {
+          "name": "Tuning Min Quality",
+          "min": 2,
+          "max": 3
+        }
+      ],
+      "tuningAffixes": [
+        {
+          "name": "Body",
+          "min": 24.7,
+          "max": 49.4
+        },
+        {
+          "name": "Power",
+          "min": 24.7,
+          "max": 49.4
+        },
+        {
+          "name": "Defense",
+          "min": 24.7,
+          "max": 49.4
+        },
+        {
+          "name": "Agility",
+          "min": 24.7,
+          "max": 49.4
+        },
+        {
+          "name": "Momentum",
+          "min": 24.7,
+          "max": 49.4
+        },
+        {
+          "name": "Max HP",
+          "min": 1480,
+          "max": 2960
+        },
+        {
+          "name": "Min Physical Attack",
+          "min": 38.9,
+          "max": 77.8
+        },
+        {
+          "name": "Max Physical Attack",
+          "min": 38.9,
+          "max": 77.8
+        },
+        {
+          "name": "Physical Defense",
+          "min": 19.5,
+          "max": 39
+        },
+        {
+          "name": "Min Formless Attack",
+          "min": 22.1,
+          "max": 44.2
+        },
+        {
+          "name": "Max Formless Attack",
+          "min": 22.1,
+          "max": 44.2
+        },
+        {
+          "name": "Precision Rate",
+          "min": 0.04,
+          "max": 0.08
+        },
+        {
+          "name": "Critical Rate",
+          "min": 0.045,
+          "max": 0.09
+        },
+        {
+          "name": "Affinity Rate",
+          "min": 0.022,
+          "max": 0.044
+        },
+        {
+          "name": "Art of Spear DMG Boost",
+          "min": 0.031,
+          "max": 0.062
+        }
+      ]
+    },
+    {
+      "name": "Mirage Reverie",
+      "fields": {
+        "Min Physical Attack": 52,
+        "Max Physical Attack": 121,
+        "Durability": 100,
+        "Gear Tier": 96,
+        "Required Level": 96
+      },
+      "rarity": "Blue",
+      "equipmentSlot": "Weapon",
+      "initialAffixes": [
+        {
+          "name": "Min Physical Attack",
+          "min": 38.9,
+          "max": 77.8
+        },
+        {
+          "name": "Max Physical Attack",
+          "min": 38.9,
+          "max": 77.8
+        },
+        {
+          "name": "Min Formless Attack",
+          "min": 22.1,
+          "max": 44.2
+        },
+        {
+          "name": "Max Formless Attack",
+          "min": 22.1,
+          "max": 44.2
+        },
+        {
+          "name": "Agility",
+          "min": 24.7,
+          "max": 49.4
+        },
+        {
+          "name": "Momentum",
+          "min": 24.7,
+          "max": 49.4
+        },
+        {
+          "name": "Tuning EXP",
+          "min": 20,
+          "max": 50
+        },
+        {
+          "name": "Tuning Min Quality",
+          "min": 2,
+          "max": 3
+        }
+      ],
+      "tuningAffixes": [
+        {
+          "name": "Body",
+          "min": 24.7,
+          "max": 49.4
+        },
+        {
+          "name": "Power",
+          "min": 24.7,
+          "max": 49.4
+        },
+        {
+          "name": "Defense",
+          "min": 24.7,
+          "max": 49.4
+        },
+        {
+          "name": "Agility",
+          "min": 24.7,
+          "max": 49.4
+        },
+        {
+          "name": "Momentum",
+          "min": 24.7,
+          "max": 49.4
+        },
+        {
+          "name": "Max HP",
+          "min": 1480,
+          "max": 2960
+        },
+        {
+          "name": "Min Physical Attack",
+          "min": 38.9,
+          "max": 77.8
+        },
+        {
+          "name": "Max Physical Attack",
+          "min": 38.9,
+          "max": 77.8
+        },
+        {
+          "name": "Physical Defense",
+          "min": 19.5,
+          "max": 39
+        },
+        {
+          "name": "Min Formless Attack",
+          "min": 22.1,
+          "max": 44.2
+        },
+        {
+          "name": "Max Formless Attack",
+          "min": 22.1,
+          "max": 44.2
+        },
+        {
+          "name": "Precision Rate",
+          "min": 0.04,
+          "max": 0.08
+        },
+        {
+          "name": "Critical Rate",
+          "min": 0.045,
+          "max": 0.09
+        },
+        {
+          "name": "Affinity Rate",
+          "min": 0.022,
+          "max": 0.044
+        },
+        {
+          "name": "Art of Fan Boost",
+          "min": 0.031,
+          "max": 0.062
+        }
+      ]
+    },
+    {
+      "name": "Mirage Keening",
+      "fields": {
+        "Min Physical Attack": 52,
+        "Max Physical Attack": 121,
+        "Durability": 100,
+        "Gear Tier": 96,
+        "Required Level": 96
+      },
+      "rarity": "Blue",
+      "equipmentSlot": "Weapon",
+      "initialAffixes": [
+        {
+          "name": "Min Physical Attack",
+          "min": 38.9,
+          "max": 77.8
+        },
+        {
+          "name": "Max Physical Attack",
+          "min": 38.9,
+          "max": 77.8
+        },
+        {
+          "name": "Min Formless Attack",
+          "min": 22.1,
+          "max": 44.2
+        },
+        {
+          "name": "Max Formless Attack",
+          "min": 22.1,
+          "max": 44.2
+        },
+        {
+          "name": "Agility",
+          "min": 24.7,
+          "max": 49.4
+        },
+        {
+          "name": "Momentum",
+          "min": 24.7,
+          "max": 49.4
+        },
+        {
+          "name": "Tuning EXP",
+          "min": 20,
+          "max": 50
+        },
+        {
+          "name": "Tuning Min Quality",
+          "min": 2,
+          "max": 3
+        }
+      ],
+      "tuningAffixes": [
+        {
+          "name": "Body",
+          "min": 24.7,
+          "max": 49.4
+        },
+        {
+          "name": "Power",
+          "min": 24.7,
+          "max": 49.4
+        },
+        {
+          "name": "Defense",
+          "min": 24.7,
+          "max": 49.4
+        },
+        {
+          "name": "Agility",
+          "min": 24.7,
+          "max": 49.4
+        },
+        {
+          "name": "Momentum",
+          "min": 24.7,
+          "max": 49.4
+        },
+        {
+          "name": "Max HP",
+          "min": 1480,
+          "max": 2960
+        },
+        {
+          "name": "Min Physical Attack",
+          "min": 38.9,
+          "max": 77.8
+        },
+        {
+          "name": "Max Physical Attack",
+          "min": 38.9,
+          "max": 77.8
+        },
+        {
+          "name": "Physical Defense",
+          "min": 19.5,
+          "max": 39
+        },
+        {
+          "name": "Min Formless Attack",
+          "min": 22.1,
+          "max": 44.2
+        },
+        {
+          "name": "Max Formless Attack",
+          "min": 22.1,
+          "max": 44.2
+        },
+        {
+          "name": "Precision Rate",
+          "min": 0.04,
+          "max": 0.08
+        },
+        {
+          "name": "Critical Rate",
+          "min": 0.045,
+          "max": 0.09
+        },
+        {
+          "name": "Affinity Rate",
+          "min": 0.022,
+          "max": 0.044
+        },
+        {
+          "name": "Art of Mo Blade DMG Boost",
+          "min": 0.031,
+          "max": 0.062
+        }
+      ]
+    },
+    {
+      "name": "Mirage Twintail",
+      "fields": {
+        "Min Physical Attack": 52,
+        "Max Physical Attack": 121,
+        "Durability": 100,
+        "Gear Tier": 96,
+        "Required Level": 96
+      },
+      "rarity": "Blue",
+      "equipmentSlot": "Weapon",
+      "initialAffixes": [
+        {
+          "name": "Min Physical Attack",
+          "min": 38.9,
+          "max": 77.8
+        },
+        {
+          "name": "Max Physical Attack",
+          "min": 38.9,
+          "max": 77.8
+        },
+        {
+          "name": "Min Formless Attack",
+          "min": 22.1,
+          "max": 44.2
+        },
+        {
+          "name": "Max Formless Attack",
+          "min": 22.1,
+          "max": 44.2
+        },
+        {
+          "name": "Agility",
+          "min": 24.7,
+          "max": 49.4
+        },
+        {
+          "name": "Momentum",
+          "min": 24.7,
+          "max": 49.4
+        },
+        {
+          "name": "Tuning EXP",
+          "min": 20,
+          "max": 50
+        },
+        {
+          "name": "Tuning Min Quality",
+          "min": 2,
+          "max": 3
+        }
+      ],
+      "tuningAffixes": [
+        {
+          "name": "Body",
+          "min": 24.7,
+          "max": 49.4
+        },
+        {
+          "name": "Power",
+          "min": 24.7,
+          "max": 49.4
+        },
+        {
+          "name": "Defense",
+          "min": 24.7,
+          "max": 49.4
+        },
+        {
+          "name": "Agility",
+          "min": 24.7,
+          "max": 49.4
+        },
+        {
+          "name": "Momentum",
+          "min": 24.7,
+          "max": 49.4
+        },
+        {
+          "name": "Max HP",
+          "min": 1480,
+          "max": 2960
+        },
+        {
+          "name": "Min Physical Attack",
+          "min": 38.9,
+          "max": 77.8
+        },
+        {
+          "name": "Max Physical Attack",
+          "min": 38.9,
+          "max": 77.8
+        },
+        {
+          "name": "Physical Defense",
+          "min": 19.5,
+          "max": 39
+        },
+        {
+          "name": "Min Formless Attack",
+          "min": 22.1,
+          "max": 44.2
+        },
+        {
+          "name": "Max Formless Attack",
+          "min": 22.1,
+          "max": 44.2
+        },
+        {
+          "name": "Precision Rate",
+          "min": 0.04,
+          "max": 0.08
+        },
+        {
+          "name": "Critical Rate",
+          "min": 0.045,
+          "max": 0.09
+        },
+        {
+          "name": "Affinity Rate",
+          "min": 0.022,
+          "max": 0.044
+        }
+      ]
+    },
+    {
+      "name": "Mirage Cloudshade",
+      "fields": {
+        "Min Physical Attack": 52,
+        "Max Physical Attack": 121,
+        "Durability": 100,
+        "Gear Tier": 96,
+        "Required Level": 96
+      },
+      "rarity": "Blue",
+      "equipmentSlot": "Weapon",
+      "initialAffixes": [
+        {
+          "name": "Min Physical Attack",
+          "min": 38.9,
+          "max": 77.8
+        },
+        {
+          "name": "Max Physical Attack",
+          "min": 38.9,
+          "max": 77.8
+        },
+        {
+          "name": "Min Formless Attack",
+          "min": 22.1,
+          "max": 44.2
+        },
+        {
+          "name": "Max Formless Attack",
+          "min": 22.1,
+          "max": 44.2
+        },
+        {
+          "name": "Agility",
+          "min": 24.7,
+          "max": 49.4
+        },
+        {
+          "name": "Momentum",
+          "min": 24.7,
+          "max": 49.4
+        },
+        {
+          "name": "Tuning EXP",
+          "min": 20,
+          "max": 50
+        },
+        {
+          "name": "Tuning Min Quality",
+          "min": 2,
+          "max": 3
+        }
+      ],
+      "tuningAffixes": [
+        {
+          "name": "Body",
+          "min": 24.7,
+          "max": 49.4
+        },
+        {
+          "name": "Power",
+          "min": 24.7,
+          "max": 49.4
+        },
+        {
+          "name": "Defense",
+          "min": 24.7,
+          "max": 49.4
+        },
+        {
+          "name": "Agility",
+          "min": 24.7,
+          "max": 49.4
+        },
+        {
+          "name": "Momentum",
+          "min": 24.7,
+          "max": 49.4
+        },
+        {
+          "name": "Max HP",
+          "min": 1480,
+          "max": 2960
+        },
+        {
+          "name": "Min Physical Attack",
+          "min": 38.9,
+          "max": 77.8
+        },
+        {
+          "name": "Max Physical Attack",
+          "min": 38.9,
+          "max": 77.8
+        },
+        {
+          "name": "Physical Defense",
+          "min": 19.5,
+          "max": 39
+        },
+        {
+          "name": "Min Formless Attack",
+          "min": 22.1,
+          "max": 44.2
+        },
+        {
+          "name": "Max Formless Attack",
+          "min": 22.1,
+          "max": 44.2
+        },
+        {
+          "name": "Precision Rate",
+          "min": 0.04,
+          "max": 0.08
+        },
+        {
+          "name": "Critical Rate",
+          "min": 0.045,
+          "max": 0.09
+        },
+        {
+          "name": "Affinity Rate",
+          "min": 0.022,
+          "max": 0.044
+        },
+        {
+          "name": "Art of Umbrella Boost",
+          "min": 0.031,
+          "max": 0.062
+        }
+      ]
+    },
+    {
+      "name": "Mirage Nightstar",
+      "fields": {
+        "Min Physical Attack": 52,
+        "Max Physical Attack": 121,
+        "Durability": 100,
+        "Gear Tier": 96,
+        "Required Level": 96
+      },
+      "rarity": "Blue",
+      "equipmentSlot": "Weapon",
+      "initialAffixes": [
+        {
+          "name": "Min Physical Attack",
+          "min": 38.9,
+          "max": 77.8
+        },
+        {
+          "name": "Max Physical Attack",
+          "min": 38.9,
+          "max": 77.8
+        },
+        {
+          "name": "Min Formless Attack",
+          "min": 22.1,
+          "max": 44.2
+        },
+        {
+          "name": "Max Formless Attack",
+          "min": 22.1,
+          "max": 44.2
+        },
+        {
+          "name": "Agility",
+          "min": 24.7,
+          "max": 49.4
+        },
+        {
+          "name": "Momentum",
+          "min": 24.7,
+          "max": 49.4
+        },
+        {
+          "name": "Tuning EXP",
+          "min": 20,
+          "max": 50
+        },
+        {
+          "name": "Tuning Min Quality",
+          "min": 2,
+          "max": 3
+        }
+      ],
+      "tuningAffixes": [
+        {
+          "name": "Body",
+          "min": 24.7,
+          "max": 49.4
+        },
+        {
+          "name": "Power",
+          "min": 24.7,
+          "max": 49.4
+        },
+        {
+          "name": "Defense",
+          "min": 24.7,
+          "max": 49.4
+        },
+        {
+          "name": "Agility",
+          "min": 24.7,
+          "max": 49.4
+        },
+        {
+          "name": "Momentum",
+          "min": 24.7,
+          "max": 49.4
+        },
+        {
+          "name": "Max HP",
+          "min": 1480,
+          "max": 2960
+        },
+        {
+          "name": "Min Physical Attack",
+          "min": 38.9,
+          "max": 77.8
+        },
+        {
+          "name": "Max Physical Attack",
+          "min": 38.9,
+          "max": 77.8
+        },
+        {
+          "name": "Physical Defense",
+          "min": 19.5,
+          "max": 39
+        },
+        {
+          "name": "Min Formless Attack",
+          "min": 22.1,
+          "max": 44.2
+        },
+        {
+          "name": "Max Formless Attack",
+          "min": 22.1,
+          "max": 44.2
+        },
+        {
+          "name": "Precision Rate",
+          "min": 0.04,
+          "max": 0.08
+        },
+        {
+          "name": "Critical Rate",
+          "min": 0.045,
+          "max": 0.09
+        },
+        {
+          "name": "Affinity Rate",
+          "min": 0.022,
+          "max": 0.044
+        },
+        {
+          "name": "Art of Rope Dart DMG Boost",
+          "min": 0.031,
+          "max": 0.062
+        }
+      ]
+    },
+    {
+      "name": "Mirage Watershear",
+      "fields": {
+        "Min Physical Attack": 52,
+        "Max Physical Attack": 121,
+        "Durability": 100,
+        "Gear Tier": 96,
+        "Required Level": 96
+      },
+      "rarity": "Blue",
+      "equipmentSlot": "Weapon",
+      "initialAffixes": [
+        {
+          "name": "Min Physical Attack",
+          "min": 38.9,
+          "max": 77.8
+        },
+        {
+          "name": "Max Physical Attack",
+          "min": 38.9,
+          "max": 77.8
+        },
+        {
+          "name": "Min Formless Attack",
+          "min": 22.1,
+          "max": 44.2
+        },
+        {
+          "name": "Max Formless Attack",
+          "min": 22.1,
+          "max": 44.2
+        },
+        {
+          "name": "Agility",
+          "min": 24.7,
+          "max": 49.4
+        },
+        {
+          "name": "Momentum",
+          "min": 24.7,
+          "max": 49.4
+        },
+        {
+          "name": "Tuning EXP",
+          "min": 20,
+          "max": 50
+        },
+        {
+          "name": "Tuning Min Quality",
+          "min": 2,
+          "max": 3
+        }
+      ],
+      "tuningAffixes": [
+        {
+          "name": "Body",
+          "min": 24.7,
+          "max": 49.4
+        },
+        {
+          "name": "Power",
+          "min": 24.7,
+          "max": 49.4
+        },
+        {
+          "name": "Defense",
+          "min": 24.7,
+          "max": 49.4
+        },
+        {
+          "name": "Agility",
+          "min": 24.7,
+          "max": 49.4
+        },
+        {
+          "name": "Momentum",
+          "min": 24.7,
+          "max": 49.4
+        },
+        {
+          "name": "Max HP",
+          "min": 1480,
+          "max": 2960
+        },
+        {
+          "name": "Min Physical Attack",
+          "min": 38.9,
+          "max": 77.8
+        },
+        {
+          "name": "Max Physical Attack",
+          "min": 38.9,
+          "max": 77.8
+        },
+        {
+          "name": "Physical Defense",
+          "min": 19.5,
+          "max": 39
+        },
+        {
+          "name": "Min Formless Attack",
+          "min": 22.1,
+          "max": 44.2
+        },
+        {
+          "name": "Max Formless Attack",
+          "min": 22.1,
+          "max": 44.2
+        },
+        {
+          "name": "Precision Rate",
+          "min": 0.04,
+          "max": 0.08
+        },
+        {
+          "name": "Critical Rate",
+          "min": 0.045,
+          "max": 0.09
+        },
+        {
+          "name": "Affinity Rate",
+          "min": 0.022,
+          "max": 0.044
+        },
+        {
+          "name": "Art of Heng Blade DMG Boost",
+          "min": 0.031,
+          "max": 0.062
+        }
+      ]
+    },
+    {
+      "name": "Mistridge Helm",
+      "fields": {
+        "Max HP": 5196,
+        "Physical Defense": 20,
+        "Durability": 100,
+        "Gear Tier": 96,
+        "Required Level": 96
+      },
+      "rarity": "Purple",
+      "equipmentSlot": "Helmet",
+      "initialAffixes": [
+        {
+          "name": "Max HP",
+          "min": 1480,
+          "max": 2960
+        },
+        {
+          "name": "Physical Defense",
+          "min": 19.5,
+          "max": 39
+        },
+        {
+          "name": "Precision Rate",
+          "min": 0.04,
+          "max": 0.08
+        },
+        {
+          "name": "Critical Rate",
+          "min": 0.045,
+          "max": 0.09
+        },
+        {
+          "name": "Affinity Rate",
+          "min": 0.022,
+          "max": 0.044
+        },
+        {
+          "name": "Tuning EXP",
+          "min": 20,
+          "max": 50
+        },
+        {
+          "name": "Tuning Min Quality",
+          "min": 2,
+          "max": 3
+        },
+        {
+          "name": "Tuning Max",
+          "min": 1,
+          "max": 1
+        }
+      ],
+      "tuningAffixes": [
+        {
+          "name": "Body",
+          "min": 24.7,
+          "max": 49.4
+        },
+        {
+          "name": "Power",
+          "min": 24.7,
+          "max": 49.4
+        },
+        {
+          "name": "Defense",
+          "min": 24.7,
+          "max": 49.4
+        },
+        {
+          "name": "Agility",
+          "min": 24.7,
+          "max": 49.4
+        },
+        {
+          "name": "Momentum",
+          "min": 24.7,
+          "max": 49.4
+        },
+        {
+          "name": "Max HP",
+          "min": 1480,
+          "max": 2960
+        },
+        {
+          "name": "Min Physical Attack",
+          "min": 38.9,
+          "max": 77.8
+        },
+        {
+          "name": "Max Physical Attack",
+          "min": 38.9,
+          "max": 77.8
+        },
+        {
+          "name": "Physical Defense",
+          "min": 19.5,
+          "max": 39
+        },
+        {
+          "name": "Min Bellstrike Attack",
+          "min": 22.1,
+          "max": 44.2
+        },
+        {
+          "name": "Max Bellstrike Attack",
+          "min": 22.1,
+          "max": 44.2
+        },
+        {
+          "name": "Min Stonesplit Attack",
+          "min": 22.1,
+          "max": 44.2
+        },
+        {
+          "name": "Max Stonesplit Attack",
+          "min": 22.1,
+          "max": 44.2
+        },
+        {
+          "name": "Min Silkbind Attack",
+          "min": 22.1,
+          "max": 44.2
+        },
+        {
+          "name": "Max Silkbind Attack",
+          "min": 22.1,
+          "max": 44.2
+        },
+        {
+          "name": "Min Bamboocut Attack",
+          "min": 22.1,
+          "max": 44.2
+        },
+        {
+          "name": "Max Bamboocut Attack",
+          "min": 22.1,
+          "max": 44.2
+        },
+        {
+          "name": "Precision Rate",
+          "min": 0.04,
+          "max": 0.08
+        },
+        {
+          "name": "Critical Rate",
+          "min": 0.045,
+          "max": 0.09
+        },
+        {
+          "name": "Affinity Rate",
+          "min": 0.022,
+          "max": 0.044
+        },
+        {
+          "name": "Area Mystic Skill DMG Boost",
+          "min": 0.049,
+          "max": 0.098
+        },
+        {
+          "name": "Single-Target Mystic Skill DMG Boost",
+          "min": 0.049,
+          "max": 0.098
+        }
+      ]
+    },
+    {
+      "name": "Mistridge Armor",
+      "fields": {
+        "Max HP": 10392,
+        "Physical Defense": 20,
+        "Durability": 100,
+        "Gear Tier": 96,
+        "Required Level": 96
+      },
+      "rarity": "Purple",
+      "equipmentSlot": "Chestpiece",
+      "initialAffixes": [
+        {
+          "name": "Max HP",
+          "min": 1480,
+          "max": 2960
+        },
+        {
+          "name": "Physical Defense",
+          "min": 19.5,
+          "max": 39
+        },
+        {
+          "name": "Precision Rate",
+          "min": 0.04,
+          "max": 0.08
+        },
+        {
+          "name": "Critical Rate",
+          "min": 0.045,
+          "max": 0.09
+        },
+        {
+          "name": "Affinity Rate",
+          "min": 0.022,
+          "max": 0.044
+        },
+        {
+          "name": "Tuning EXP",
+          "min": 20,
+          "max": 50
+        },
+        {
+          "name": "Tuning Min Quality",
+          "min": 2,
+          "max": 3
+        },
+        {
+          "name": "Tuning Max",
+          "min": 1,
+          "max": 1
+        }
+      ],
+      "tuningAffixes": [
+        {
+          "name": "Body",
+          "min": 24.7,
+          "max": 49.4
+        },
+        {
+          "name": "Power",
+          "min": 24.7,
+          "max": 49.4
+        },
+        {
+          "name": "Defense",
+          "min": 24.7,
+          "max": 49.4
+        },
+        {
+          "name": "Agility",
+          "min": 24.7,
+          "max": 49.4
+        },
+        {
+          "name": "Momentum",
+          "min": 24.7,
+          "max": 49.4
+        },
+        {
+          "name": "Max HP",
+          "min": 1480,
+          "max": 2960
+        },
+        {
+          "name": "Min Physical Attack",
+          "min": 38.9,
+          "max": 77.8
+        },
+        {
+          "name": "Max Physical Attack",
+          "min": 38.9,
+          "max": 77.8
+        },
+        {
+          "name": "Physical Defense",
+          "min": 19.5,
+          "max": 39
+        },
+        {
+          "name": "Min Bellstrike Attack",
+          "min": 22.1,
+          "max": 44.2
+        },
+        {
+          "name": "Max Bellstrike Attack",
+          "min": 22.1,
+          "max": 44.2
+        },
+        {
+          "name": "Min Stonesplit Attack",
+          "min": 22.1,
+          "max": 44.2
+        },
+        {
+          "name": "Max Stonesplit Attack",
+          "min": 22.1,
+          "max": 44.2
+        },
+        {
+          "name": "Min Silkbind Attack",
+          "min": 22.1,
+          "max": 44.2
+        },
+        {
+          "name": "Max Silkbind Attack",
+          "min": 22.1,
+          "max": 44.2
+        },
+        {
+          "name": "Min Bamboocut Attack",
+          "min": 22.1,
+          "max": 44.2
+        },
+        {
+          "name": "Max Bamboocut Attack",
+          "min": 22.1,
+          "max": 44.2
+        },
+        {
+          "name": "Precision Rate",
+          "min": 0.04,
+          "max": 0.08
+        },
+        {
+          "name": "Critical Rate",
+          "min": 0.045,
+          "max": 0.09
+        },
+        {
+          "name": "Affinity Rate",
+          "min": 0.022,
+          "max": 0.044
+        },
+        {
+          "name": "Area Mystic Skill DMG Boost",
+          "min": 0.049,
+          "max": 0.098
+        },
+        {
+          "name": "Single-Target Mystic Skill DMG Boost",
+          "min": 0.049,
+          "max": 0.098
+        }
+      ]
+    },
+    {
+      "name": "Mistridge Bracers",
+      "fields": {
+        "Max HP": 5196,
+        "Physical Defense": 20,
+        "Durability": 100,
+        "Gear Tier": 96,
+        "Required Level": 96
+      },
+      "rarity": "Purple",
+      "equipmentSlot": "Bracer",
+      "initialAffixes": [
+        {
+          "name": "Max HP",
+          "min": 1480,
+          "max": 2960
+        },
+        {
+          "name": "Physical Defense",
+          "min": 19.5,
+          "max": 39
+        },
+        {
+          "name": "Precision Rate",
+          "min": 0.04,
+          "max": 0.08
+        },
+        {
+          "name": "Critical Rate",
+          "min": 0.045,
+          "max": 0.09
+        },
+        {
+          "name": "Affinity Rate",
+          "min": 0.022,
+          "max": 0.044
+        },
+        {
+          "name": "Body",
+          "min": 24.7,
+          "max": 49.4
+        },
+        {
+          "name": "Power",
+          "min": 24.7,
+          "max": 49.4
+        },
+        {
+          "name": "Tuning EXP",
+          "min": 20,
+          "max": 50
+        },
+        {
+          "name": "Tuning Min Quality",
+          "min": 2,
+          "max": 3
+        },
+        {
+          "name": "Tuning Max",
+          "min": 1,
+          "max": 1
+        }
+      ],
+      "tuningAffixes": [
+        {
+          "name": "Body",
+          "min": 24.7,
+          "max": 49.4
+        },
+        {
+          "name": "Power",
+          "min": 24.7,
+          "max": 49.4
+        },
+        {
+          "name": "Defense",
+          "min": 24.7,
+          "max": 49.4
+        },
+        {
+          "name": "Agility",
+          "min": 24.7,
+          "max": 49.4
+        },
+        {
+          "name": "Momentum",
+          "min": 24.7,
+          "max": 49.4
+        },
+        {
+          "name": "Max HP",
+          "min": 1480,
+          "max": 2960
+        },
+        {
+          "name": "Min Physical Attack",
+          "min": 38.9,
+          "max": 77.8
+        },
+        {
+          "name": "Max Physical Attack",
+          "min": 38.9,
+          "max": 77.8
+        },
+        {
+          "name": "Physical Defense",
+          "min": 19.5,
+          "max": 39
+        },
+        {
+          "name": "Min Bellstrike Attack",
+          "min": 22.1,
+          "max": 44.2
+        },
+        {
+          "name": "Max Bellstrike Attack",
+          "min": 22.1,
+          "max": 44.2
+        },
+        {
+          "name": "Min Stonesplit Attack",
+          "min": 22.1,
+          "max": 44.2
+        },
+        {
+          "name": "Max Stonesplit Attack",
+          "min": 22.1,
+          "max": 44.2
+        },
+        {
+          "name": "Min Silkbind Attack",
+          "min": 22.1,
+          "max": 44.2
+        },
+        {
+          "name": "Max Silkbind Attack",
+          "min": 22.1,
+          "max": 44.2
+        },
+        {
+          "name": "Min Bamboocut Attack",
+          "min": 22.1,
+          "max": 44.2
+        },
+        {
+          "name": "Max Bamboocut Attack",
+          "min": 22.1,
+          "max": 44.2
+        },
+        {
+          "name": "Precision Rate",
+          "min": 0.04,
+          "max": 0.08
+        },
+        {
+          "name": "Critical Rate",
+          "min": 0.045,
+          "max": 0.09
+        },
+        {
+          "name": "Affinity Rate",
+          "min": 0.022,
+          "max": 0.044
+        },
+        {
+          "name": "Combat Boost Against Boss Units",
+          "min": 0.016,
+          "max": 0.032
+        },
+        {
+          "name": "Boost Vs. Player Units",
+          "min": 0.016,
+          "max": 0.032
+        }
+      ]
+    },
+    {
+      "name": "Mistridge Greaves",
+      "fields": {
+        "Max HP": 5196,
+        "Physical Defense": 39,
+        "Durability": 100,
+        "Gear Tier": 96,
+        "Required Level": 96
+      },
+      "rarity": "Purple",
+      "equipmentSlot": "Greaves",
+      "initialAffixes": [
+        {
+          "name": "Max HP",
+          "min": 1480,
+          "max": 2960
+        },
+        {
+          "name": "Physical Defense",
+          "min": 19.5,
+          "max": 39
+        },
+        {
+          "name": "Precision Rate",
+          "min": 0.04,
+          "max": 0.08
+        },
+        {
+          "name": "Critical Rate",
+          "min": 0.045,
+          "max": 0.09
+        },
+        {
+          "name": "Affinity Rate",
+          "min": 0.022,
+          "max": 0.044
+        },
+        {
+          "name": "Body",
+          "min": 24.7,
+          "max": 49.4
+        },
+        {
+          "name": "Power",
+          "min": 24.7,
+          "max": 49.4
+        },
+        {
+          "name": "Tuning EXP",
+          "min": 20,
+          "max": 50
+        },
+        {
+          "name": "Tuning Min Quality",
+          "min": 2,
+          "max": 3
+        },
+        {
+          "name": "Tuning Max",
+          "min": 1,
+          "max": 1
+        }
+      ],
+      "tuningAffixes": [
+        {
+          "name": "Body",
+          "min": 24.7,
+          "max": 49.4
+        },
+        {
+          "name": "Power",
+          "min": 24.7,
+          "max": 49.4
+        },
+        {
+          "name": "Defense",
+          "min": 24.7,
+          "max": 49.4
+        },
+        {
+          "name": "Agility",
+          "min": 24.7,
+          "max": 49.4
+        },
+        {
+          "name": "Momentum",
+          "min": 24.7,
+          "max": 49.4
+        },
+        {
+          "name": "Max HP",
+          "min": 1480,
+          "max": 2960
+        },
+        {
+          "name": "Min Physical Attack",
+          "min": 38.9,
+          "max": 77.8
+        },
+        {
+          "name": "Max Physical Attack",
+          "min": 38.9,
+          "max": 77.8
+        },
+        {
+          "name": "Physical Defense",
+          "min": 19.5,
+          "max": 39
+        },
+        {
+          "name": "Min Bellstrike Attack",
+          "min": 22.1,
+          "max": 44.2
+        },
+        {
+          "name": "Max Bellstrike Attack",
+          "min": 22.1,
+          "max": 44.2
+        },
+        {
+          "name": "Min Stonesplit Attack",
+          "min": 22.1,
+          "max": 44.2
+        },
+        {
+          "name": "Max Stonesplit Attack",
+          "min": 22.1,
+          "max": 44.2
+        },
+        {
+          "name": "Min Silkbind Attack",
+          "min": 22.1,
+          "max": 44.2
+        },
+        {
+          "name": "Max Silkbind Attack",
+          "min": 22.1,
+          "max": 44.2
+        },
+        {
+          "name": "Min Bamboocut Attack",
+          "min": 22.1,
+          "max": 44.2
+        },
+        {
+          "name": "Max Bamboocut Attack",
+          "min": 22.1,
+          "max": 44.2
+        },
+        {
+          "name": "Precision Rate",
+          "min": 0.04,
+          "max": 0.08
+        },
+        {
+          "name": "Critical Rate",
+          "min": 0.045,
+          "max": 0.09
+        },
+        {
+          "name": "Affinity Rate",
+          "min": 0.022,
+          "max": 0.044
+        },
+        {
+          "name": "Combat Boost Against Boss Units",
+          "min": 0.016,
+          "max": 0.032
+        },
+        {
+          "name": "Boost Vs. Player Units",
+          "min": 0.016,
+          "max": 0.032
+        }
+      ]
+    },
+    {
+      "name": "Mirage Charm",
+      "fields": {
+        "Min Physical Attack": 78,
+        "Durability": 100,
+        "Gear Tier": 96,
+        "Required Level": 96
+      },
+      "rarity": "Purple",
+      "equipmentSlot": "Disc",
+      "initialAffixes": [
+        {
+          "name": "Min Physical Attack",
+          "min": 38.9,
+          "max": 77.8
+        },
+        {
+          "name": "Max Physical Attack",
+          "min": 38.9,
+          "max": 77.8
+        },
+        {
+          "name": "Tuning Min Quality",
+          "min": 2,
+          "max": 3
+        },
+        {
+          "name": "Tuning Max",
+          "min": 1,
+          "max": 1
+        }
+      ],
+      "tuningAffixes": [
+        {
+          "name": "Body",
+          "min": 24.7,
+          "max": 49.4
+        },
+        {
+          "name": "Power",
+          "min": 24.7,
+          "max": 49.4
+        },
+        {
+          "name": "Defense",
+          "min": 24.7,
+          "max": 49.4
+        },
+        {
+          "name": "Agility",
+          "min": 24.7,
+          "max": 49.4
+        },
+        {
+          "name": "Momentum",
+          "min": 24.7,
+          "max": 49.4
+        },
+        {
+          "name": "Max HP",
+          "min": 1480,
+          "max": 2960
+        },
+        {
+          "name": "Min Physical Attack",
+          "min": 38.9,
+          "max": 77.8
+        },
+        {
+          "name": "Max Physical Attack",
+          "min": 38.9,
+          "max": 77.8
+        },
+        {
+          "name": "Physical Defense",
+          "min": 19.5,
+          "max": 39
+        },
+        {
+          "name": "Min Bellstrike Attack",
+          "min": 22.1,
+          "max": 44.2
+        },
+        {
+          "name": "Max Bellstrike Attack",
+          "min": 22.1,
+          "max": 44.2
+        },
+        {
+          "name": "Min Stonesplit Attack",
+          "min": 22.1,
+          "max": 44.2
+        },
+        {
+          "name": "Max Stonesplit Attack",
+          "min": 22.1,
+          "max": 44.2
+        },
+        {
+          "name": "Min Silkbind Attack",
+          "min": 22.1,
+          "max": 44.2
+        },
+        {
+          "name": "Max Silkbind Attack",
+          "min": 22.1,
+          "max": 44.2
+        },
+        {
+          "name": "Min Bamboocut Attack",
+          "min": 22.1,
+          "max": 44.2
+        },
+        {
+          "name": "Max Bamboocut Attack",
+          "min": 22.1,
+          "max": 44.2
+        },
+        {
+          "name": "Precision Rate",
+          "min": 0.04,
+          "max": 0.08
+        },
+        {
+          "name": "Critical Rate",
+          "min": 0.045,
+          "max": 0.09
+        },
+        {
+          "name": "Affinity Rate",
+          "min": 0.022,
+          "max": 0.044
+        },
+        {
+          "name": "All Martial Arts Boost",
+          "min": 0.016,
+          "max": 0.032
+        }
+      ]
+    },
+    {
+      "name": "Mirage Ward",
+      "fields": {
+        "Max Physical Attack": 116,
+        "Durability": 100,
+        "Gear Tier": 96,
+        "Required Level": 96
+      },
+      "rarity": "Purple",
+      "equipmentSlot": "Pendant",
+      "initialAffixes": [
+        {
+          "name": "Min Physical Attack",
+          "min": 38.9,
+          "max": 77.8
+        },
+        {
+          "name": "Max Physical Attack",
+          "min": 38.9,
+          "max": 77.8
+        },
+        {
+          "name": "Tuning Min Quality",
+          "min": 2,
+          "max": 3
+        },
+        {
+          "name": "Tuning Max",
+          "min": 1,
+          "max": 1
+        }
+      ],
+      "tuningAffixes": [
+        {
+          "name": "Body",
+          "min": 24.7,
+          "max": 49.4
+        },
+        {
+          "name": "Power",
+          "min": 24.7,
+          "max": 49.4
+        },
+        {
+          "name": "Defense",
+          "min": 24.7,
+          "max": 49.4
+        },
+        {
+          "name": "Agility",
+          "min": 24.7,
+          "max": 49.4
+        },
+        {
+          "name": "Momentum",
+          "min": 24.7,
+          "max": 49.4
+        },
+        {
+          "name": "Max HP",
+          "min": 1480,
+          "max": 2960
+        },
+        {
+          "name": "Min Physical Attack",
+          "min": 38.9,
+          "max": 77.8
+        },
+        {
+          "name": "Max Physical Attack",
+          "min": 38.9,
+          "max": 77.8
+        },
+        {
+          "name": "Physical Defense",
+          "min": 19.5,
+          "max": 39
+        },
+        {
+          "name": "Min Bellstrike Attack",
+          "min": 22.1,
+          "max": 44.2
+        },
+        {
+          "name": "Max Bellstrike Attack",
+          "min": 22.1,
+          "max": 44.2
+        },
+        {
+          "name": "Min Stonesplit Attack",
+          "min": 22.1,
+          "max": 44.2
+        },
+        {
+          "name": "Max Stonesplit Attack",
+          "min": 22.1,
+          "max": 44.2
+        },
+        {
+          "name": "Min Silkbind Attack",
+          "min": 22.1,
+          "max": 44.2
+        },
+        {
+          "name": "Max Silkbind Attack",
+          "min": 22.1,
+          "max": 44.2
+        },
+        {
+          "name": "Min Bamboocut Attack",
+          "min": 22.1,
+          "max": 44.2
+        },
+        {
+          "name": "Max Bamboocut Attack",
+          "min": 22.1,
+          "max": 44.2
+        },
+        {
+          "name": "Precision Rate",
+          "min": 0.04,
+          "max": 0.08
+        },
+        {
+          "name": "Critical Rate",
+          "min": 0.045,
+          "max": 0.09
+        },
+        {
+          "name": "Affinity Rate",
+          "min": 0.022,
+          "max": 0.044
+        },
+        {
+          "name": "All Martial Arts Boost",
+          "min": 0.016,
+          "max": 0.032
+        }
+      ]
+    },
+    {
+      "name": "Dragonshadow Ring",
+      "fields": {
+        "Durability": 100,
+        "Gear Tier": 96,
+        "Required Level": 96
+      },
+      "rarity": "Purple",
+      "equipmentSlot": "Archery Jade",
+      "initialAffixes": [
+        {
+          "name": "Tuning EXP",
+          "min": 20,
+          "max": 50
+        },
+        {
+          "name": "Tuning Max",
+          "min": 1,
+          "max": 1
+        },
+        {
+          "name": "Tuning Min Quality",
+          "min": 2,
+          "max": 3
+        }
+      ],
+      "tuningAffixes": []
+    },
+    {
+      "name": "Dragonshadow Bow - Longshot",
+      "fields": {
+        "Durability": 100,
+        "Gear Tier": 96,
+        "Required Level": 96
+      },
+      "rarity": "Purple",
+      "equipmentSlot": "Bow and Arrow",
+      "initialAffixes": [
+        {
+          "name": "Tuning EXP",
+          "min": 20,
+          "max": 50
+        },
+        {
+          "name": "Tuning Max",
+          "min": 1,
+          "max": 1
+        },
+        {
+          "name": "Tuning Min Quality",
+          "min": 2,
+          "max": 3
+        }
+      ],
+      "tuningAffixes": []
+    },
+    {
+      "name": "Dragonshadow Bow - Divine",
+      "fields": {
+        "Durability": 100,
+        "Gear Tier": 96,
+        "Required Level": 96
+      },
+      "rarity": "Purple",
+      "equipmentSlot": "Bow and Arrow",
+      "initialAffixes": [
+        {
+          "name": "Tuning EXP",
+          "min": 20,
+          "max": 50
+        },
+        {
+          "name": "Tuning Max",
+          "min": 1,
+          "max": 1
+        },
+        {
+          "name": "Tuning Min Quality",
+          "min": 2,
+          "max": 3
+        }
+      ],
+      "tuningAffixes": []
+    },
+    {
+      "name": "Dragonshadow Bow - Precision",
+      "fields": {
+        "Durability": 100,
+        "Gear Tier": 96,
+        "Required Level": 96
+      },
+      "rarity": "Purple",
+      "equipmentSlot": "Bow and Arrow",
+      "initialAffixes": [
+        {
+          "name": "Tuning EXP",
+          "min": 20,
+          "max": 50
+        },
+        {
+          "name": "Tuning Max",
+          "min": 1,
+          "max": 1
+        },
+        {
+          "name": "Tuning Min Quality",
+          "min": 2,
+          "max": 3
+        }
+      ],
+      "tuningAffixes": []
+    },
+    {
+      "name": "Dragonshadow Bow - Rapidfire",
+      "fields": {
+        "Durability": 100,
+        "Gear Tier": 96,
+        "Required Level": 96
+      },
+      "rarity": "Purple",
+      "equipmentSlot": "Bow and Arrow",
+      "initialAffixes": [
+        {
+          "name": "Tuning EXP",
+          "min": 20,
+          "max": 50
+        },
+        {
+          "name": "Tuning Max",
+          "min": 1,
+          "max": 1
+        },
+        {
+          "name": "Tuning Min Quality",
+          "min": 2,
+          "max": 3
+        }
+      ],
+      "tuningAffixes": []
+    },
+    {
+      "name": "Mirage Veilbright",
+      "fields": {
+        "Min Physical Attack": 59,
+        "Max Physical Attack": 136,
+        "Durability": 100,
+        "Gear Tier": 96,
+        "Required Level": 96
+      },
+      "rarity": "Purple",
+      "equipmentSlot": "Weapon",
+      "initialAffixes": [
+        {
+          "name": "Min Physical Attack",
+          "min": 38.9,
+          "max": 77.8
+        },
+        {
+          "name": "Max Physical Attack",
+          "min": 38.9,
+          "max": 77.8
+        },
+        {
+          "name": "Min Formless Attack",
+          "min": 22.1,
+          "max": 44.2
+        },
+        {
+          "name": "Max Formless Attack",
+          "min": 22.1,
+          "max": 44.2
+        },
+        {
+          "name": "Agility",
+          "min": 24.7,
+          "max": 49.4
+        },
+        {
+          "name": "Momentum",
+          "min": 24.7,
+          "max": 49.4
+        },
+        {
+          "name": "Tuning EXP",
+          "min": 20,
+          "max": 50
+        },
+        {
+          "name": "Tuning Min Quality",
+          "min": 2,
+          "max": 3
+        },
+        {
+          "name": "Tuning Max",
+          "min": 1,
+          "max": 1
+        }
+      ],
+      "tuningAffixes": [
+        {
+          "name": "Body",
+          "min": 24.7,
+          "max": 49.4
+        },
+        {
+          "name": "Power",
+          "min": 24.7,
+          "max": 49.4
+        },
+        {
+          "name": "Defense",
+          "min": 24.7,
+          "max": 49.4
+        },
+        {
+          "name": "Agility",
+          "min": 24.7,
+          "max": 49.4
+        },
+        {
+          "name": "Momentum",
+          "min": 24.7,
+          "max": 49.4
+        },
+        {
+          "name": "Max HP",
+          "min": 1480,
+          "max": 2960
+        },
+        {
+          "name": "Min Physical Attack",
+          "min": 38.9,
+          "max": 77.8
+        },
+        {
+          "name": "Max Physical Attack",
+          "min": 38.9,
+          "max": 77.8
+        },
+        {
+          "name": "Physical Defense",
+          "min": 19.5,
+          "max": 39
+        },
+        {
+          "name": "Min Formless Attack",
+          "min": 22.1,
+          "max": 44.2
+        },
+        {
+          "name": "Max Formless Attack",
+          "min": 22.1,
+          "max": 44.2
+        },
+        {
+          "name": "Precision Rate",
+          "min": 0.04,
+          "max": 0.08
+        },
+        {
+          "name": "Critical Rate",
+          "min": 0.045,
+          "max": 0.09
+        },
+        {
+          "name": "Affinity Rate",
+          "min": 0.022,
+          "max": 0.044
+        },
+        {
+          "name": "Art of Sword DMG Boost",
+          "min": 0.031,
+          "max": 0.062
+        }
+      ]
+    },
+    {
+      "name": "Mirage Sentinel",
+      "fields": {
+        "Min Physical Attack": 59,
+        "Max Physical Attack": 136,
+        "Durability": 100,
+        "Gear Tier": 96,
+        "Required Level": 96
+      },
+      "rarity": "Purple",
+      "equipmentSlot": "Weapon",
+      "initialAffixes": [
+        {
+          "name": "Min Physical Attack",
+          "min": 38.9,
+          "max": 77.8
+        },
+        {
+          "name": "Max Physical Attack",
+          "min": 38.9,
+          "max": 77.8
+        },
+        {
+          "name": "Min Formless Attack",
+          "min": 22.1,
+          "max": 44.2
+        },
+        {
+          "name": "Max Formless Attack",
+          "min": 22.1,
+          "max": 44.2
+        },
+        {
+          "name": "Agility",
+          "min": 24.7,
+          "max": 49.4
+        },
+        {
+          "name": "Momentum",
+          "min": 24.7,
+          "max": 49.4
+        },
+        {
+          "name": "Tuning EXP",
+          "min": 20,
+          "max": 50
+        },
+        {
+          "name": "Tuning Min Quality",
+          "min": 2,
+          "max": 3
+        },
+        {
+          "name": "Tuning Max",
+          "min": 1,
+          "max": 1
+        }
+      ],
+      "tuningAffixes": [
+        {
+          "name": "Body",
+          "min": 24.7,
+          "max": 49.4
+        },
+        {
+          "name": "Power",
+          "min": 24.7,
+          "max": 49.4
+        },
+        {
+          "name": "Defense",
+          "min": 24.7,
+          "max": 49.4
+        },
+        {
+          "name": "Agility",
+          "min": 24.7,
+          "max": 49.4
+        },
+        {
+          "name": "Momentum",
+          "min": 24.7,
+          "max": 49.4
+        },
+        {
+          "name": "Max HP",
+          "min": 1480,
+          "max": 2960
+        },
+        {
+          "name": "Min Physical Attack",
+          "min": 38.9,
+          "max": 77.8
+        },
+        {
+          "name": "Max Physical Attack",
+          "min": 38.9,
+          "max": 77.8
+        },
+        {
+          "name": "Physical Defense",
+          "min": 19.5,
+          "max": 39
+        },
+        {
+          "name": "Min Formless Attack",
+          "min": 22.1,
+          "max": 44.2
+        },
+        {
+          "name": "Max Formless Attack",
+          "min": 22.1,
+          "max": 44.2
+        },
+        {
+          "name": "Precision Rate",
+          "min": 0.04,
+          "max": 0.08
+        },
+        {
+          "name": "Critical Rate",
+          "min": 0.045,
+          "max": 0.09
+        },
+        {
+          "name": "Affinity Rate",
+          "min": 0.022,
+          "max": 0.044
+        },
+        {
+          "name": "Art of Spear DMG Boost",
+          "min": 0.031,
+          "max": 0.062
+        }
+      ]
+    },
+    {
+      "name": "Mirage Reverie",
+      "fields": {
+        "Min Physical Attack": 59,
+        "Max Physical Attack": 136,
+        "Durability": 100,
+        "Gear Tier": 96,
+        "Required Level": 96
+      },
+      "rarity": "Purple",
+      "equipmentSlot": "Weapon",
+      "initialAffixes": [
+        {
+          "name": "Min Physical Attack",
+          "min": 38.9,
+          "max": 77.8
+        },
+        {
+          "name": "Max Physical Attack",
+          "min": 38.9,
+          "max": 77.8
+        },
+        {
+          "name": "Min Formless Attack",
+          "min": 22.1,
+          "max": 44.2
+        },
+        {
+          "name": "Max Formless Attack",
+          "min": 22.1,
+          "max": 44.2
+        },
+        {
+          "name": "Agility",
+          "min": 24.7,
+          "max": 49.4
+        },
+        {
+          "name": "Momentum",
+          "min": 24.7,
+          "max": 49.4
+        },
+        {
+          "name": "Tuning EXP",
+          "min": 20,
+          "max": 50
+        },
+        {
+          "name": "Tuning Min Quality",
+          "min": 2,
+          "max": 3
+        },
+        {
+          "name": "Tuning Max",
+          "min": 1,
+          "max": 1
+        }
+      ],
+      "tuningAffixes": [
+        {
+          "name": "Body",
+          "min": 24.7,
+          "max": 49.4
+        },
+        {
+          "name": "Power",
+          "min": 24.7,
+          "max": 49.4
+        },
+        {
+          "name": "Defense",
+          "min": 24.7,
+          "max": 49.4
+        },
+        {
+          "name": "Agility",
+          "min": 24.7,
+          "max": 49.4
+        },
+        {
+          "name": "Momentum",
+          "min": 24.7,
+          "max": 49.4
+        },
+        {
+          "name": "Max HP",
+          "min": 1480,
+          "max": 2960
+        },
+        {
+          "name": "Min Physical Attack",
+          "min": 38.9,
+          "max": 77.8
+        },
+        {
+          "name": "Max Physical Attack",
+          "min": 38.9,
+          "max": 77.8
+        },
+        {
+          "name": "Physical Defense",
+          "min": 19.5,
+          "max": 39
+        },
+        {
+          "name": "Min Formless Attack",
+          "min": 22.1,
+          "max": 44.2
+        },
+        {
+          "name": "Max Formless Attack",
+          "min": 22.1,
+          "max": 44.2
+        },
+        {
+          "name": "Precision Rate",
+          "min": 0.04,
+          "max": 0.08
+        },
+        {
+          "name": "Critical Rate",
+          "min": 0.045,
+          "max": 0.09
+        },
+        {
+          "name": "Affinity Rate",
+          "min": 0.022,
+          "max": 0.044
+        },
+        {
+          "name": "Art of Fan Boost",
+          "min": 0.031,
+          "max": 0.062
+        }
+      ]
+    },
+    {
+      "name": "Mirage Keening",
+      "fields": {
+        "Min Physical Attack": 59,
+        "Max Physical Attack": 136,
+        "Durability": 100,
+        "Gear Tier": 96,
+        "Required Level": 96
+      },
+      "rarity": "Purple",
+      "equipmentSlot": "Weapon",
+      "initialAffixes": [
+        {
+          "name": "Min Physical Attack",
+          "min": 38.9,
+          "max": 77.8
+        },
+        {
+          "name": "Max Physical Attack",
+          "min": 38.9,
+          "max": 77.8
+        },
+        {
+          "name": "Min Formless Attack",
+          "min": 22.1,
+          "max": 44.2
+        },
+        {
+          "name": "Max Formless Attack",
+          "min": 22.1,
+          "max": 44.2
+        },
+        {
+          "name": "Agility",
+          "min": 24.7,
+          "max": 49.4
+        },
+        {
+          "name": "Momentum",
+          "min": 24.7,
+          "max": 49.4
+        },
+        {
+          "name": "Tuning EXP",
+          "min": 20,
+          "max": 50
+        },
+        {
+          "name": "Tuning Min Quality",
+          "min": 2,
+          "max": 3
+        },
+        {
+          "name": "Tuning Max",
+          "min": 1,
+          "max": 1
+        }
+      ],
+      "tuningAffixes": [
+        {
+          "name": "Body",
+          "min": 24.7,
+          "max": 49.4
+        },
+        {
+          "name": "Power",
+          "min": 24.7,
+          "max": 49.4
+        },
+        {
+          "name": "Defense",
+          "min": 24.7,
+          "max": 49.4
+        },
+        {
+          "name": "Agility",
+          "min": 24.7,
+          "max": 49.4
+        },
+        {
+          "name": "Momentum",
+          "min": 24.7,
+          "max": 49.4
+        },
+        {
+          "name": "Max HP",
+          "min": 1480,
+          "max": 2960
+        },
+        {
+          "name": "Min Physical Attack",
+          "min": 38.9,
+          "max": 77.8
+        },
+        {
+          "name": "Max Physical Attack",
+          "min": 38.9,
+          "max": 77.8
+        },
+        {
+          "name": "Physical Defense",
+          "min": 19.5,
+          "max": 39
+        },
+        {
+          "name": "Min Formless Attack",
+          "min": 22.1,
+          "max": 44.2
+        },
+        {
+          "name": "Max Formless Attack",
+          "min": 22.1,
+          "max": 44.2
+        },
+        {
+          "name": "Precision Rate",
+          "min": 0.04,
+          "max": 0.08
+        },
+        {
+          "name": "Critical Rate",
+          "min": 0.045,
+          "max": 0.09
+        },
+        {
+          "name": "Affinity Rate",
+          "min": 0.022,
+          "max": 0.044
+        },
+        {
+          "name": "Art of Mo Blade DMG Boost",
+          "min": 0.031,
+          "max": 0.062
+        }
+      ]
+    },
+    {
+      "name": "Mirage Twintail",
+      "fields": {
+        "Min Physical Attack": 59,
+        "Max Physical Attack": 136,
+        "Durability": 100,
+        "Gear Tier": 96,
+        "Required Level": 96
+      },
+      "rarity": "Purple",
+      "equipmentSlot": "Weapon",
+      "initialAffixes": [
+        {
+          "name": "Min Physical Attack",
+          "min": 38.9,
+          "max": 77.8
+        },
+        {
+          "name": "Max Physical Attack",
+          "min": 38.9,
+          "max": 77.8
+        },
+        {
+          "name": "Min Formless Attack",
+          "min": 22.1,
+          "max": 44.2
+        },
+        {
+          "name": "Max Formless Attack",
+          "min": 22.1,
+          "max": 44.2
+        },
+        {
+          "name": "Agility",
+          "min": 24.7,
+          "max": 49.4
+        },
+        {
+          "name": "Momentum",
+          "min": 24.7,
+          "max": 49.4
+        },
+        {
+          "name": "Tuning EXP",
+          "min": 20,
+          "max": 50
+        },
+        {
+          "name": "Tuning Min Quality",
+          "min": 2,
+          "max": 3
+        },
+        {
+          "name": "Tuning Max",
+          "min": 1,
+          "max": 1
+        }
+      ],
+      "tuningAffixes": [
+        {
+          "name": "Body",
+          "min": 24.7,
+          "max": 49.4
+        },
+        {
+          "name": "Power",
+          "min": 24.7,
+          "max": 49.4
+        },
+        {
+          "name": "Defense",
+          "min": 24.7,
+          "max": 49.4
+        },
+        {
+          "name": "Agility",
+          "min": 24.7,
+          "max": 49.4
+        },
+        {
+          "name": "Momentum",
+          "min": 24.7,
+          "max": 49.4
+        },
+        {
+          "name": "Max HP",
+          "min": 1480,
+          "max": 2960
+        },
+        {
+          "name": "Min Physical Attack",
+          "min": 38.9,
+          "max": 77.8
+        },
+        {
+          "name": "Max Physical Attack",
+          "min": 38.9,
+          "max": 77.8
+        },
+        {
+          "name": "Physical Defense",
+          "min": 19.5,
+          "max": 39
+        },
+        {
+          "name": "Min Formless Attack",
+          "min": 22.1,
+          "max": 44.2
+        },
+        {
+          "name": "Max Formless Attack",
+          "min": 22.1,
+          "max": 44.2
+        },
+        {
+          "name": "Precision Rate",
+          "min": 0.04,
+          "max": 0.08
+        },
+        {
+          "name": "Critical Rate",
+          "min": 0.045,
+          "max": 0.09
+        },
+        {
+          "name": "Affinity Rate",
+          "min": 0.022,
+          "max": 0.044
+        }
+      ]
+    },
+    {
+      "name": "Mirage Cloudshade",
+      "fields": {
+        "Min Physical Attack": 59,
+        "Max Physical Attack": 136,
+        "Durability": 100,
+        "Gear Tier": 96,
+        "Required Level": 96
+      },
+      "rarity": "Purple",
+      "equipmentSlot": "Weapon",
+      "initialAffixes": [
+        {
+          "name": "Min Physical Attack",
+          "min": 38.9,
+          "max": 77.8
+        },
+        {
+          "name": "Max Physical Attack",
+          "min": 38.9,
+          "max": 77.8
+        },
+        {
+          "name": "Min Formless Attack",
+          "min": 22.1,
+          "max": 44.2
+        },
+        {
+          "name": "Max Formless Attack",
+          "min": 22.1,
+          "max": 44.2
+        },
+        {
+          "name": "Agility",
+          "min": 24.7,
+          "max": 49.4
+        },
+        {
+          "name": "Momentum",
+          "min": 24.7,
+          "max": 49.4
+        },
+        {
+          "name": "Tuning EXP",
+          "min": 20,
+          "max": 50
+        },
+        {
+          "name": "Tuning Min Quality",
+          "min": 2,
+          "max": 3
+        },
+        {
+          "name": "Tuning Max",
+          "min": 1,
+          "max": 1
+        }
+      ],
+      "tuningAffixes": [
+        {
+          "name": "Body",
+          "min": 24.7,
+          "max": 49.4
+        },
+        {
+          "name": "Power",
+          "min": 24.7,
+          "max": 49.4
+        },
+        {
+          "name": "Defense",
+          "min": 24.7,
+          "max": 49.4
+        },
+        {
+          "name": "Agility",
+          "min": 24.7,
+          "max": 49.4
+        },
+        {
+          "name": "Momentum",
+          "min": 24.7,
+          "max": 49.4
+        },
+        {
+          "name": "Max HP",
+          "min": 1480,
+          "max": 2960
+        },
+        {
+          "name": "Min Physical Attack",
+          "min": 38.9,
+          "max": 77.8
+        },
+        {
+          "name": "Max Physical Attack",
+          "min": 38.9,
+          "max": 77.8
+        },
+        {
+          "name": "Physical Defense",
+          "min": 19.5,
+          "max": 39
+        },
+        {
+          "name": "Min Formless Attack",
+          "min": 22.1,
+          "max": 44.2
+        },
+        {
+          "name": "Max Formless Attack",
+          "min": 22.1,
+          "max": 44.2
+        },
+        {
+          "name": "Precision Rate",
+          "min": 0.04,
+          "max": 0.08
+        },
+        {
+          "name": "Critical Rate",
+          "min": 0.045,
+          "max": 0.09
+        },
+        {
+          "name": "Affinity Rate",
+          "min": 0.022,
+          "max": 0.044
+        },
+        {
+          "name": "Art of Umbrella Boost",
+          "min": 0.031,
+          "max": 0.062
+        }
+      ]
+    },
+    {
+      "name": "Mirage Nightstar",
+      "fields": {
+        "Min Physical Attack": 59,
+        "Max Physical Attack": 136,
+        "Durability": 100,
+        "Gear Tier": 96,
+        "Required Level": 96
+      },
+      "rarity": "Purple",
+      "equipmentSlot": "Weapon",
+      "initialAffixes": [
+        {
+          "name": "Min Physical Attack",
+          "min": 38.9,
+          "max": 77.8
+        },
+        {
+          "name": "Max Physical Attack",
+          "min": 38.9,
+          "max": 77.8
+        },
+        {
+          "name": "Min Formless Attack",
+          "min": 22.1,
+          "max": 44.2
+        },
+        {
+          "name": "Max Formless Attack",
+          "min": 22.1,
+          "max": 44.2
+        },
+        {
+          "name": "Agility",
+          "min": 24.7,
+          "max": 49.4
+        },
+        {
+          "name": "Momentum",
+          "min": 24.7,
+          "max": 49.4
+        },
+        {
+          "name": "Tuning EXP",
+          "min": 20,
+          "max": 50
+        },
+        {
+          "name": "Tuning Min Quality",
+          "min": 2,
+          "max": 3
+        },
+        {
+          "name": "Tuning Max",
+          "min": 1,
+          "max": 1
+        }
+      ],
+      "tuningAffixes": [
+        {
+          "name": "Body",
+          "min": 24.7,
+          "max": 49.4
+        },
+        {
+          "name": "Power",
+          "min": 24.7,
+          "max": 49.4
+        },
+        {
+          "name": "Defense",
+          "min": 24.7,
+          "max": 49.4
+        },
+        {
+          "name": "Agility",
+          "min": 24.7,
+          "max": 49.4
+        },
+        {
+          "name": "Momentum",
+          "min": 24.7,
+          "max": 49.4
+        },
+        {
+          "name": "Max HP",
+          "min": 1480,
+          "max": 2960
+        },
+        {
+          "name": "Min Physical Attack",
+          "min": 38.9,
+          "max": 77.8
+        },
+        {
+          "name": "Max Physical Attack",
+          "min": 38.9,
+          "max": 77.8
+        },
+        {
+          "name": "Physical Defense",
+          "min": 19.5,
+          "max": 39
+        },
+        {
+          "name": "Min Formless Attack",
+          "min": 22.1,
+          "max": 44.2
+        },
+        {
+          "name": "Max Formless Attack",
+          "min": 22.1,
+          "max": 44.2
+        },
+        {
+          "name": "Precision Rate",
+          "min": 0.04,
+          "max": 0.08
+        },
+        {
+          "name": "Critical Rate",
+          "min": 0.045,
+          "max": 0.09
+        },
+        {
+          "name": "Affinity Rate",
+          "min": 0.022,
+          "max": 0.044
+        },
+        {
+          "name": "Art of Rope Dart DMG Boost",
+          "min": 0.031,
+          "max": 0.062
+        }
+      ]
+    },
+    {
+      "name": "Mirage Watershear",
+      "fields": {
+        "Min Physical Attack": 59,
+        "Max Physical Attack": 136,
+        "Durability": 100,
+        "Gear Tier": 96,
+        "Required Level": 96
+      },
+      "rarity": "Purple",
+      "equipmentSlot": "Weapon",
+      "initialAffixes": [
+        {
+          "name": "Min Physical Attack",
+          "min": 38.9,
+          "max": 77.8
+        },
+        {
+          "name": "Max Physical Attack",
+          "min": 38.9,
+          "max": 77.8
+        },
+        {
+          "name": "Min Formless Attack",
+          "min": 22.1,
+          "max": 44.2
+        },
+        {
+          "name": "Max Formless Attack",
+          "min": 22.1,
+          "max": 44.2
+        },
+        {
+          "name": "Agility",
+          "min": 24.7,
+          "max": 49.4
+        },
+        {
+          "name": "Momentum",
+          "min": 24.7,
+          "max": 49.4
+        },
+        {
+          "name": "Tuning EXP",
+          "min": 20,
+          "max": 50
+        },
+        {
+          "name": "Tuning Min Quality",
+          "min": 2,
+          "max": 3
+        },
+        {
+          "name": "Tuning Max",
+          "min": 1,
+          "max": 1
+        }
+      ],
+      "tuningAffixes": [
+        {
+          "name": "Body",
+          "min": 24.7,
+          "max": 49.4
+        },
+        {
+          "name": "Power",
+          "min": 24.7,
+          "max": 49.4
+        },
+        {
+          "name": "Defense",
+          "min": 24.7,
+          "max": 49.4
+        },
+        {
+          "name": "Agility",
+          "min": 24.7,
+          "max": 49.4
+        },
+        {
+          "name": "Momentum",
+          "min": 24.7,
+          "max": 49.4
+        },
+        {
+          "name": "Max HP",
+          "min": 1480,
+          "max": 2960
+        },
+        {
+          "name": "Min Physical Attack",
+          "min": 38.9,
+          "max": 77.8
+        },
+        {
+          "name": "Max Physical Attack",
+          "min": 38.9,
+          "max": 77.8
+        },
+        {
+          "name": "Physical Defense",
+          "min": 19.5,
+          "max": 39
+        },
+        {
+          "name": "Min Formless Attack",
+          "min": 22.1,
+          "max": 44.2
+        },
+        {
+          "name": "Max Formless Attack",
+          "min": 22.1,
+          "max": 44.2
+        },
+        {
+          "name": "Precision Rate",
+          "min": 0.04,
+          "max": 0.08
+        },
+        {
+          "name": "Critical Rate",
+          "min": 0.045,
+          "max": 0.09
+        },
+        {
+          "name": "Affinity Rate",
+          "min": 0.022,
+          "max": 0.044
+        },
+        {
+          "name": "Art of Heng Blade DMG Boost",
+          "min": 0.031,
+          "max": 0.062
+        }
+      ]
+    },
+    {
+      "name": "Mirage Titans",
+      "fields": {
+        "Min Physical Attack": 59,
+        "Max Physical Attack": 136,
+        "Durability": 100,
+        "Gear Tier": 96,
+        "Required Level": 96
+      },
+      "rarity": "Purple",
+      "equipmentSlot": "Weapon",
+      "initialAffixes": [
+        {
+          "name": "Min Physical Attack",
+          "min": 38.9,
+          "max": 77.8
+        },
+        {
+          "name": "Max Physical Attack",
+          "min": 38.9,
+          "max": 77.8
+        },
+        {
+          "name": "Min Formless Attack",
+          "min": 22.1,
+          "max": 44.2
+        },
+        {
+          "name": "Max Formless Attack",
+          "min": 22.1,
+          "max": 44.2
+        },
+        {
+          "name": "Agility",
+          "min": 24.7,
+          "max": 49.4
+        },
+        {
+          "name": "Momentum",
+          "min": 24.7,
+          "max": 49.4
+        },
+        {
+          "name": "Tuning EXP",
+          "min": 20,
+          "max": 50
+        },
+        {
+          "name": "Tuning Min Quality",
+          "min": 2,
+          "max": 3
+        },
+        {
+          "name": "Tuning Max",
+          "min": 1,
+          "max": 1
+        }
+      ],
+      "tuningAffixes": [
+        {
+          "name": "Body",
+          "min": 24.7,
+          "max": 49.4
+        },
+        {
+          "name": "Power",
+          "min": 24.7,
+          "max": 49.4
+        },
+        {
+          "name": "Defense",
+          "min": 24.7,
+          "max": 49.4
+        },
+        {
+          "name": "Agility",
+          "min": 24.7,
+          "max": 49.4
+        },
+        {
+          "name": "Momentum",
+          "min": 24.7,
+          "max": 49.4
+        },
+        {
+          "name": "Max HP",
+          "min": 1480,
+          "max": 2960
+        },
+        {
+          "name": "Min Physical Attack",
+          "min": 38.9,
+          "max": 77.8
+        },
+        {
+          "name": "Max Physical Attack",
+          "min": 38.9,
+          "max": 77.8
+        },
+        {
+          "name": "Physical Defense",
+          "min": 19.5,
+          "max": 39
+        },
+        {
+          "name": "Min Formless Attack",
+          "min": 22.1,
+          "max": 44.2
+        },
+        {
+          "name": "Max Formless Attack",
+          "min": 22.1,
+          "max": 44.2
+        },
+        {
+          "name": "Precision Rate",
+          "min": 0.04,
+          "max": 0.08
+        },
+        {
+          "name": "Critical Rate",
+          "min": 0.045,
+          "max": 0.09
+        },
+        {
+          "name": "Affinity Rate",
+          "min": 0.022,
+          "max": 0.044
+        }
+      ]
+    },
+    {
+      "name": "Mistridge Helm",
+      "fields": {
+        "Max HP": 5774,
+        "Physical Defense": 22,
+        "Durability": 100,
+        "Gear Tier": 96,
+        "Required Level": 96
+      },
+      "rarity": "Gold",
+      "equipmentSlot": "Helmet",
+      "initialAffixes": [
+        {
+          "name": "Max HP",
+          "min": 1480,
+          "max": 2960
+        },
+        {
+          "name": "Physical Defense",
+          "min": 19.5,
+          "max": 39
+        },
+        {
+          "name": "Precision Rate",
+          "min": 0.04,
+          "max": 0.08
+        },
+        {
+          "name": "Critical Rate",
+          "min": 0.045,
+          "max": 0.09
+        },
+        {
+          "name": "Affinity Rate",
+          "min": 0.022,
+          "max": 0.044
+        }
+      ],
+      "tuningAffixes": [
+        {
+          "name": "Body",
+          "min": 24.7,
+          "max": 49.4
+        },
+        {
+          "name": "Power",
+          "min": 24.7,
+          "max": 49.4
+        },
+        {
+          "name": "Defense",
+          "min": 24.7,
+          "max": 49.4
+        },
+        {
+          "name": "Agility",
+          "min": 24.7,
+          "max": 49.4
+        },
+        {
+          "name": "Momentum",
+          "min": 24.7,
+          "max": 49.4
+        },
+        {
+          "name": "Max HP",
+          "min": 1480,
+          "max": 2960
+        },
+        {
+          "name": "Min Physical Attack",
+          "min": 38.9,
+          "max": 77.8
+        },
+        {
+          "name": "Max Physical Attack",
+          "min": 38.9,
+          "max": 77.8
+        },
+        {
+          "name": "Physical Defense",
+          "min": 19.5,
+          "max": 39
+        },
+        {
+          "name": "Min Bellstrike Attack",
+          "min": 22.1,
+          "max": 44.2
+        },
+        {
+          "name": "Max Bellstrike Attack",
+          "min": 22.1,
+          "max": 44.2
+        },
+        {
+          "name": "Min Stonesplit Attack",
+          "min": 22.1,
+          "max": 44.2
+        },
+        {
+          "name": "Max Stonesplit Attack",
+          "min": 22.1,
+          "max": 44.2
+        },
+        {
+          "name": "Min Silkbind Attack",
+          "min": 22.1,
+          "max": 44.2
+        },
+        {
+          "name": "Max Silkbind Attack",
+          "min": 22.1,
+          "max": 44.2
+        },
+        {
+          "name": "Min Bamboocut Attack",
+          "min": 22.1,
+          "max": 44.2
+        },
+        {
+          "name": "Max Bamboocut Attack",
+          "min": 22.1,
+          "max": 44.2
+        },
+        {
+          "name": "Precision Rate",
+          "min": 0.04,
+          "max": 0.08
+        },
+        {
+          "name": "Critical Rate",
+          "min": 0.045,
+          "max": 0.09
+        },
+        {
+          "name": "Affinity Rate",
+          "min": 0.022,
+          "max": 0.044
+        },
+        {
+          "name": "Area Mystic Skill DMG Boost",
+          "min": 0.049,
+          "max": 0.098
+        },
+        {
+          "name": "Single-Target Mystic Skill DMG Boost",
+          "min": 0.049,
+          "max": 0.098
+        }
+      ]
+    },
+    {
+      "name": "Mistridge Armor",
+      "fields": {
+        "Max HP": 11547,
+        "Physical Defense": 22,
+        "Durability": 100,
+        "Gear Tier": 96,
+        "Required Level": 96
+      },
+      "rarity": "Gold",
+      "equipmentSlot": "Chestpiece",
+      "initialAffixes": [
+        {
+          "name": "Max HP",
+          "min": 1480,
+          "max": 2960
+        },
+        {
+          "name": "Physical Defense",
+          "min": 19.5,
+          "max": 39
+        },
+        {
+          "name": "Precision Rate",
+          "min": 0.04,
+          "max": 0.08
+        },
+        {
+          "name": "Critical Rate",
+          "min": 0.045,
+          "max": 0.09
+        },
+        {
+          "name": "Affinity Rate",
+          "min": 0.022,
+          "max": 0.044
+        }
+      ],
+      "tuningAffixes": [
+        {
+          "name": "Body",
+          "min": 24.7,
+          "max": 49.4
+        },
+        {
+          "name": "Power",
+          "min": 24.7,
+          "max": 49.4
+        },
+        {
+          "name": "Defense",
+          "min": 24.7,
+          "max": 49.4
+        },
+        {
+          "name": "Agility",
+          "min": 24.7,
+          "max": 49.4
+        },
+        {
+          "name": "Momentum",
+          "min": 24.7,
+          "max": 49.4
+        },
+        {
+          "name": "Max HP",
+          "min": 1480,
+          "max": 2960
+        },
+        {
+          "name": "Min Physical Attack",
+          "min": 38.9,
+          "max": 77.8
+        },
+        {
+          "name": "Max Physical Attack",
+          "min": 38.9,
+          "max": 77.8
+        },
+        {
+          "name": "Physical Defense",
+          "min": 19.5,
+          "max": 39
+        },
+        {
+          "name": "Min Bellstrike Attack",
+          "min": 22.1,
+          "max": 44.2
+        },
+        {
+          "name": "Max Bellstrike Attack",
+          "min": 22.1,
+          "max": 44.2
+        },
+        {
+          "name": "Min Stonesplit Attack",
+          "min": 22.1,
+          "max": 44.2
+        },
+        {
+          "name": "Max Stonesplit Attack",
+          "min": 22.1,
+          "max": 44.2
+        },
+        {
+          "name": "Min Silkbind Attack",
+          "min": 22.1,
+          "max": 44.2
+        },
+        {
+          "name": "Max Silkbind Attack",
+          "min": 22.1,
+          "max": 44.2
+        },
+        {
+          "name": "Min Bamboocut Attack",
+          "min": 22.1,
+          "max": 44.2
+        },
+        {
+          "name": "Max Bamboocut Attack",
+          "min": 22.1,
+          "max": 44.2
+        },
+        {
+          "name": "Precision Rate",
+          "min": 0.04,
+          "max": 0.08
+        },
+        {
+          "name": "Critical Rate",
+          "min": 0.045,
+          "max": 0.09
+        },
+        {
+          "name": "Affinity Rate",
+          "min": 0.022,
+          "max": 0.044
+        },
+        {
+          "name": "Area Mystic Skill DMG Boost",
+          "min": 0.049,
+          "max": 0.098
+        },
+        {
+          "name": "Single-Target Mystic Skill DMG Boost",
+          "min": 0.049,
+          "max": 0.098
+        }
+      ]
+    },
+    {
+      "name": "Mistridge Bracers",
+      "fields": {
+        "Max HP": 5774,
+        "Physical Defense": 22,
+        "Durability": 100,
+        "Gear Tier": 96,
+        "Required Level": 96
+      },
+      "rarity": "Gold",
+      "equipmentSlot": "Bracer",
+      "initialAffixes": [
+        {
+          "name": "Max HP",
+          "min": 1480,
+          "max": 2960
+        },
+        {
+          "name": "Physical Defense",
+          "min": 19.5,
+          "max": 39
+        },
+        {
+          "name": "Precision Rate",
+          "min": 0.04,
+          "max": 0.08
+        },
+        {
+          "name": "Critical Rate",
+          "min": 0.045,
+          "max": 0.09
+        },
+        {
+          "name": "Affinity Rate",
+          "min": 0.022,
+          "max": 0.044
+        },
+        {
+          "name": "Body",
+          "min": 24.7,
+          "max": 49.4
+        },
+        {
+          "name": "Power",
+          "min": 24.7,
+          "max": 49.4
+        }
+      ],
+      "tuningAffixes": [
+        {
+          "name": "Body",
+          "min": 24.7,
+          "max": 49.4
+        },
+        {
+          "name": "Power",
+          "min": 24.7,
+          "max": 49.4
+        },
+        {
+          "name": "Defense",
+          "min": 24.7,
+          "max": 49.4
+        },
+        {
+          "name": "Agility",
+          "min": 24.7,
+          "max": 49.4
+        },
+        {
+          "name": "Momentum",
+          "min": 24.7,
+          "max": 49.4
+        },
+        {
+          "name": "Max HP",
+          "min": 1480,
+          "max": 2960
+        },
+        {
+          "name": "Min Physical Attack",
+          "min": 38.9,
+          "max": 77.8
+        },
+        {
+          "name": "Max Physical Attack",
+          "min": 38.9,
+          "max": 77.8
+        },
+        {
+          "name": "Physical Defense",
+          "min": 19.5,
+          "max": 39
+        },
+        {
+          "name": "Min Bellstrike Attack",
+          "min": 22.1,
+          "max": 44.2
+        },
+        {
+          "name": "Max Bellstrike Attack",
+          "min": 22.1,
+          "max": 44.2
+        },
+        {
+          "name": "Min Stonesplit Attack",
+          "min": 22.1,
+          "max": 44.2
+        },
+        {
+          "name": "Max Stonesplit Attack",
+          "min": 22.1,
+          "max": 44.2
+        },
+        {
+          "name": "Min Silkbind Attack",
+          "min": 22.1,
+          "max": 44.2
+        },
+        {
+          "name": "Max Silkbind Attack",
+          "min": 22.1,
+          "max": 44.2
+        },
+        {
+          "name": "Min Bamboocut Attack",
+          "min": 22.1,
+          "max": 44.2
+        },
+        {
+          "name": "Max Bamboocut Attack",
+          "min": 22.1,
+          "max": 44.2
+        },
+        {
+          "name": "Precision Rate",
+          "min": 0.04,
+          "max": 0.08
+        },
+        {
+          "name": "Critical Rate",
+          "min": 0.045,
+          "max": 0.09
+        },
+        {
+          "name": "Affinity Rate",
+          "min": 0.022,
+          "max": 0.044
+        },
+        {
+          "name": "Combat Boost Against Boss Units",
+          "min": 0.016,
+          "max": 0.032
+        },
+        {
+          "name": "Boost Vs. Player Units",
+          "min": 0.016,
+          "max": 0.032
+        }
+      ]
+    },
+    {
+      "name": "Mistridge Greaves",
+      "fields": {
+        "Max HP": 5774,
+        "Physical Defense": 44,
+        "Durability": 100,
+        "Gear Tier": 96,
+        "Required Level": 96
+      },
+      "rarity": "Gold",
+      "equipmentSlot": "Greaves",
+      "initialAffixes": [
+        {
+          "name": "Max HP",
+          "min": 1480,
+          "max": 2960
+        },
+        {
+          "name": "Physical Defense",
+          "min": 19.5,
+          "max": 39
+        },
+        {
+          "name": "Precision Rate",
+          "min": 0.04,
+          "max": 0.08
+        },
+        {
+          "name": "Critical Rate",
+          "min": 0.045,
+          "max": 0.09
+        },
+        {
+          "name": "Affinity Rate",
+          "min": 0.022,
+          "max": 0.044
+        },
+        {
+          "name": "Body",
+          "min": 24.7,
+          "max": 49.4
+        },
+        {
+          "name": "Power",
+          "min": 24.7,
+          "max": 49.4
+        }
+      ],
+      "tuningAffixes": [
+        {
+          "name": "Body",
+          "min": 24.7,
+          "max": 49.4
+        },
+        {
+          "name": "Power",
+          "min": 24.7,
+          "max": 49.4
+        },
+        {
+          "name": "Defense",
+          "min": 24.7,
+          "max": 49.4
+        },
+        {
+          "name": "Agility",
+          "min": 24.7,
+          "max": 49.4
+        },
+        {
+          "name": "Momentum",
+          "min": 24.7,
+          "max": 49.4
+        },
+        {
+          "name": "Max HP",
+          "min": 1480,
+          "max": 2960
+        },
+        {
+          "name": "Min Physical Attack",
+          "min": 38.9,
+          "max": 77.8
+        },
+        {
+          "name": "Max Physical Attack",
+          "min": 38.9,
+          "max": 77.8
+        },
+        {
+          "name": "Physical Defense",
+          "min": 19.5,
+          "max": 39
+        },
+        {
+          "name": "Min Bellstrike Attack",
+          "min": 22.1,
+          "max": 44.2
+        },
+        {
+          "name": "Max Bellstrike Attack",
+          "min": 22.1,
+          "max": 44.2
+        },
+        {
+          "name": "Min Stonesplit Attack",
+          "min": 22.1,
+          "max": 44.2
+        },
+        {
+          "name": "Max Stonesplit Attack",
+          "min": 22.1,
+          "max": 44.2
+        },
+        {
+          "name": "Min Silkbind Attack",
+          "min": 22.1,
+          "max": 44.2
+        },
+        {
+          "name": "Max Silkbind Attack",
+          "min": 22.1,
+          "max": 44.2
+        },
+        {
+          "name": "Min Bamboocut Attack",
+          "min": 22.1,
+          "max": 44.2
+        },
+        {
+          "name": "Max Bamboocut Attack",
+          "min": 22.1,
+          "max": 44.2
+        },
+        {
+          "name": "Precision Rate",
+          "min": 0.04,
+          "max": 0.08
+        },
+        {
+          "name": "Critical Rate",
+          "min": 0.045,
+          "max": 0.09
+        },
+        {
+          "name": "Affinity Rate",
+          "min": 0.022,
+          "max": 0.044
+        },
+        {
+          "name": "Combat Boost Against Boss Units",
+          "min": 0.016,
+          "max": 0.032
+        },
+        {
+          "name": "Boost Vs. Player Units",
+          "min": 0.016,
+          "max": 0.032
+        }
+      ]
+    },
+    {
+      "name": "Mirage Charm",
+      "fields": {
+        "Min Physical Attack": 86,
+        "Durability": 100,
+        "Gear Tier": 96,
+        "Required Level": 96
+      },
+      "rarity": "Gold",
+      "equipmentSlot": "Disc",
+      "initialAffixes": [
+        {
+          "name": "Min Physical Attack",
+          "min": 38.9,
+          "max": 77.8
+        },
+        {
+          "name": "Max Physical Attack",
+          "min": 38.9,
+          "max": 77.8
+        }
+      ],
+      "tuningAffixes": [
+        {
+          "name": "Body",
+          "min": 24.7,
+          "max": 49.4
+        },
+        {
+          "name": "Power",
+          "min": 24.7,
+          "max": 49.4
+        },
+        {
+          "name": "Defense",
+          "min": 24.7,
+          "max": 49.4
+        },
+        {
+          "name": "Agility",
+          "min": 24.7,
+          "max": 49.4
+        },
+        {
+          "name": "Momentum",
+          "min": 24.7,
+          "max": 49.4
+        },
+        {
+          "name": "Max HP",
+          "min": 1480,
+          "max": 2960
+        },
+        {
+          "name": "Min Physical Attack",
+          "min": 38.9,
+          "max": 77.8
+        },
+        {
+          "name": "Max Physical Attack",
+          "min": 38.9,
+          "max": 77.8
+        },
+        {
+          "name": "Physical Defense",
+          "min": 19.5,
+          "max": 39
+        },
+        {
+          "name": "Min Bellstrike Attack",
+          "min": 22.1,
+          "max": 44.2
+        },
+        {
+          "name": "Max Bellstrike Attack",
+          "min": 22.1,
+          "max": 44.2
+        },
+        {
+          "name": "Min Stonesplit Attack",
+          "min": 22.1,
+          "max": 44.2
+        },
+        {
+          "name": "Max Stonesplit Attack",
+          "min": 22.1,
+          "max": 44.2
+        },
+        {
+          "name": "Min Silkbind Attack",
+          "min": 22.1,
+          "max": 44.2
+        },
+        {
+          "name": "Max Silkbind Attack",
+          "min": 22.1,
+          "max": 44.2
+        },
+        {
+          "name": "Min Bamboocut Attack",
+          "min": 22.1,
+          "max": 44.2
+        },
+        {
+          "name": "Max Bamboocut Attack",
+          "min": 22.1,
+          "max": 44.2
+        },
+        {
+          "name": "Precision Rate",
+          "min": 0.04,
+          "max": 0.08
+        },
+        {
+          "name": "Critical Rate",
+          "min": 0.045,
+          "max": 0.09
+        },
+        {
+          "name": "Affinity Rate",
+          "min": 0.022,
+          "max": 0.044
+        },
+        {
+          "name": "All Martial Arts Boost",
+          "min": 0.016,
+          "max": 0.032
+        }
+      ]
+    },
+    {
+      "name": "Mirage Ward",
+      "fields": {
+        "Max Physical Attack": 129,
+        "Durability": 100,
+        "Gear Tier": 96,
+        "Required Level": 96
+      },
+      "rarity": "Gold",
+      "equipmentSlot": "Pendant",
+      "initialAffixes": [
+        {
+          "name": "Min Physical Attack",
+          "min": 38.9,
+          "max": 77.8
+        },
+        {
+          "name": "Max Physical Attack",
+          "min": 38.9,
+          "max": 77.8
+        }
+      ],
+      "tuningAffixes": [
+        {
+          "name": "Body",
+          "min": 24.7,
+          "max": 49.4
+        },
+        {
+          "name": "Power",
+          "min": 24.7,
+          "max": 49.4
+        },
+        {
+          "name": "Defense",
+          "min": 24.7,
+          "max": 49.4
+        },
+        {
+          "name": "Agility",
+          "min": 24.7,
+          "max": 49.4
+        },
+        {
+          "name": "Momentum",
+          "min": 24.7,
+          "max": 49.4
+        },
+        {
+          "name": "Max HP",
+          "min": 1480,
+          "max": 2960
+        },
+        {
+          "name": "Min Physical Attack",
+          "min": 38.9,
+          "max": 77.8
+        },
+        {
+          "name": "Max Physical Attack",
+          "min": 38.9,
+          "max": 77.8
+        },
+        {
+          "name": "Physical Defense",
+          "min": 19.5,
+          "max": 39
+        },
+        {
+          "name": "Min Bellstrike Attack",
+          "min": 22.1,
+          "max": 44.2
+        },
+        {
+          "name": "Max Bellstrike Attack",
+          "min": 22.1,
+          "max": 44.2
+        },
+        {
+          "name": "Min Stonesplit Attack",
+          "min": 22.1,
+          "max": 44.2
+        },
+        {
+          "name": "Max Stonesplit Attack",
+          "min": 22.1,
+          "max": 44.2
+        },
+        {
+          "name": "Min Silkbind Attack",
+          "min": 22.1,
+          "max": 44.2
+        },
+        {
+          "name": "Max Silkbind Attack",
+          "min": 22.1,
+          "max": 44.2
+        },
+        {
+          "name": "Min Bamboocut Attack",
+          "min": 22.1,
+          "max": 44.2
+        },
+        {
+          "name": "Max Bamboocut Attack",
+          "min": 22.1,
+          "max": 44.2
+        },
+        {
+          "name": "Precision Rate",
+          "min": 0.04,
+          "max": 0.08
+        },
+        {
+          "name": "Critical Rate",
+          "min": 0.045,
+          "max": 0.09
+        },
+        {
+          "name": "Affinity Rate",
+          "min": 0.022,
+          "max": 0.044
+        },
+        {
+          "name": "All Martial Arts Boost",
+          "min": 0.016,
+          "max": 0.032
+        }
+      ]
+    },
+    {
+      "name": "Mirage Veilbright",
+      "fields": {
+        "Min Physical Attack": 65,
+        "Max Physical Attack": 151,
+        "Durability": 100,
+        "Gear Tier": 96,
+        "Required Level": 96
+      },
+      "rarity": "Gold",
+      "equipmentSlot": "Weapon",
+      "initialAffixes": [
+        {
+          "name": "Min Physical Attack",
+          "min": 38.9,
+          "max": 77.8
+        },
+        {
+          "name": "Max Physical Attack",
+          "min": 38.9,
+          "max": 77.8
+        },
+        {
+          "name": "Min Formless Attack",
+          "min": 22.1,
+          "max": 44.2
+        },
+        {
+          "name": "Max Formless Attack",
+          "min": 22.1,
+          "max": 44.2
+        },
+        {
+          "name": "Agility",
+          "min": 24.7,
+          "max": 49.4
+        },
+        {
+          "name": "Momentum",
+          "min": 24.7,
+          "max": 49.4
+        }
+      ],
+      "tuningAffixes": [
+        {
+          "name": "Body",
+          "min": 24.7,
+          "max": 49.4
+        },
+        {
+          "name": "Power",
+          "min": 24.7,
+          "max": 49.4
+        },
+        {
+          "name": "Defense",
+          "min": 24.7,
+          "max": 49.4
+        },
+        {
+          "name": "Agility",
+          "min": 24.7,
+          "max": 49.4
+        },
+        {
+          "name": "Momentum",
+          "min": 24.7,
+          "max": 49.4
+        },
+        {
+          "name": "Max HP",
+          "min": 1480,
+          "max": 2960
+        },
+        {
+          "name": "Min Physical Attack",
+          "min": 38.9,
+          "max": 77.8
+        },
+        {
+          "name": "Max Physical Attack",
+          "min": 38.9,
+          "max": 77.8
+        },
+        {
+          "name": "Physical Defense",
+          "min": 19.5,
+          "max": 39
+        },
+        {
+          "name": "Min Formless Attack",
+          "min": 22.1,
+          "max": 44.2
+        },
+        {
+          "name": "Max Formless Attack",
+          "min": 22.1,
+          "max": 44.2
+        },
+        {
+          "name": "Precision Rate",
+          "min": 0.04,
+          "max": 0.08
+        },
+        {
+          "name": "Critical Rate",
+          "min": 0.045,
+          "max": 0.09
+        },
+        {
+          "name": "Affinity Rate",
+          "min": 0.022,
+          "max": 0.044
+        },
+        {
+          "name": "Art of Sword DMG Boost",
+          "min": 0.031,
+          "max": 0.062
+        }
+      ]
+    },
+    {
+      "name": "Mirage Sentinel",
+      "fields": {
+        "Min Physical Attack": 65,
+        "Max Physical Attack": 151,
+        "Durability": 100,
+        "Gear Tier": 96,
+        "Required Level": 96
+      },
+      "rarity": "Gold",
+      "equipmentSlot": "Weapon",
+      "initialAffixes": [
+        {
+          "name": "Min Physical Attack",
+          "min": 38.9,
+          "max": 77.8
+        },
+        {
+          "name": "Max Physical Attack",
+          "min": 38.9,
+          "max": 77.8
+        },
+        {
+          "name": "Min Formless Attack",
+          "min": 22.1,
+          "max": 44.2
+        },
+        {
+          "name": "Max Formless Attack",
+          "min": 22.1,
+          "max": 44.2
+        },
+        {
+          "name": "Agility",
+          "min": 24.7,
+          "max": 49.4
+        },
+        {
+          "name": "Momentum",
+          "min": 24.7,
+          "max": 49.4
+        }
+      ],
+      "tuningAffixes": [
+        {
+          "name": "Body",
+          "min": 24.7,
+          "max": 49.4
+        },
+        {
+          "name": "Power",
+          "min": 24.7,
+          "max": 49.4
+        },
+        {
+          "name": "Defense",
+          "min": 24.7,
+          "max": 49.4
+        },
+        {
+          "name": "Agility",
+          "min": 24.7,
+          "max": 49.4
+        },
+        {
+          "name": "Momentum",
+          "min": 24.7,
+          "max": 49.4
+        },
+        {
+          "name": "Max HP",
+          "min": 1480,
+          "max": 2960
+        },
+        {
+          "name": "Min Physical Attack",
+          "min": 38.9,
+          "max": 77.8
+        },
+        {
+          "name": "Max Physical Attack",
+          "min": 38.9,
+          "max": 77.8
+        },
+        {
+          "name": "Physical Defense",
+          "min": 19.5,
+          "max": 39
+        },
+        {
+          "name": "Min Formless Attack",
+          "min": 22.1,
+          "max": 44.2
+        },
+        {
+          "name": "Max Formless Attack",
+          "min": 22.1,
+          "max": 44.2
+        },
+        {
+          "name": "Precision Rate",
+          "min": 0.04,
+          "max": 0.08
+        },
+        {
+          "name": "Critical Rate",
+          "min": 0.045,
+          "max": 0.09
+        },
+        {
+          "name": "Affinity Rate",
+          "min": 0.022,
+          "max": 0.044
+        },
+        {
+          "name": "Art of Spear DMG Boost",
+          "min": 0.031,
+          "max": 0.062
+        }
+      ]
+    },
+    {
+      "name": "Mirage Reverie",
+      "fields": {
+        "Min Physical Attack": 65,
+        "Max Physical Attack": 151,
+        "Durability": 100,
+        "Gear Tier": 96,
+        "Required Level": 96
+      },
+      "rarity": "Gold",
+      "equipmentSlot": "Weapon",
+      "initialAffixes": [
+        {
+          "name": "Min Physical Attack",
+          "min": 38.9,
+          "max": 77.8
+        },
+        {
+          "name": "Max Physical Attack",
+          "min": 38.9,
+          "max": 77.8
+        },
+        {
+          "name": "Min Formless Attack",
+          "min": 22.1,
+          "max": 44.2
+        },
+        {
+          "name": "Max Formless Attack",
+          "min": 22.1,
+          "max": 44.2
+        },
+        {
+          "name": "Agility",
+          "min": 24.7,
+          "max": 49.4
+        },
+        {
+          "name": "Momentum",
+          "min": 24.7,
+          "max": 49.4
+        }
+      ],
+      "tuningAffixes": [
+        {
+          "name": "Body",
+          "min": 24.7,
+          "max": 49.4
+        },
+        {
+          "name": "Power",
+          "min": 24.7,
+          "max": 49.4
+        },
+        {
+          "name": "Defense",
+          "min": 24.7,
+          "max": 49.4
+        },
+        {
+          "name": "Agility",
+          "min": 24.7,
+          "max": 49.4
+        },
+        {
+          "name": "Momentum",
+          "min": 24.7,
+          "max": 49.4
+        },
+        {
+          "name": "Max HP",
+          "min": 1480,
+          "max": 2960
+        },
+        {
+          "name": "Min Physical Attack",
+          "min": 38.9,
+          "max": 77.8
+        },
+        {
+          "name": "Max Physical Attack",
+          "min": 38.9,
+          "max": 77.8
+        },
+        {
+          "name": "Physical Defense",
+          "min": 19.5,
+          "max": 39
+        },
+        {
+          "name": "Min Formless Attack",
+          "min": 22.1,
+          "max": 44.2
+        },
+        {
+          "name": "Max Formless Attack",
+          "min": 22.1,
+          "max": 44.2
+        },
+        {
+          "name": "Precision Rate",
+          "min": 0.04,
+          "max": 0.08
+        },
+        {
+          "name": "Critical Rate",
+          "min": 0.045,
+          "max": 0.09
+        },
+        {
+          "name": "Affinity Rate",
+          "min": 0.022,
+          "max": 0.044
+        },
+        {
+          "name": "Art of Fan Boost",
+          "min": 0.031,
+          "max": 0.062
+        }
+      ]
+    },
+    {
+      "name": "Mirage Keening",
+      "fields": {
+        "Min Physical Attack": 65,
+        "Max Physical Attack": 151,
+        "Durability": 100,
+        "Gear Tier": 96,
+        "Required Level": 96
+      },
+      "rarity": "Gold",
+      "equipmentSlot": "Weapon",
+      "initialAffixes": [
+        {
+          "name": "Min Physical Attack",
+          "min": 38.9,
+          "max": 77.8
+        },
+        {
+          "name": "Max Physical Attack",
+          "min": 38.9,
+          "max": 77.8
+        },
+        {
+          "name": "Min Formless Attack",
+          "min": 22.1,
+          "max": 44.2
+        },
+        {
+          "name": "Max Formless Attack",
+          "min": 22.1,
+          "max": 44.2
+        },
+        {
+          "name": "Agility",
+          "min": 24.7,
+          "max": 49.4
+        },
+        {
+          "name": "Momentum",
+          "min": 24.7,
+          "max": 49.4
+        }
+      ],
+      "tuningAffixes": [
+        {
+          "name": "Body",
+          "min": 24.7,
+          "max": 49.4
+        },
+        {
+          "name": "Power",
+          "min": 24.7,
+          "max": 49.4
+        },
+        {
+          "name": "Defense",
+          "min": 24.7,
+          "max": 49.4
+        },
+        {
+          "name": "Agility",
+          "min": 24.7,
+          "max": 49.4
+        },
+        {
+          "name": "Momentum",
+          "min": 24.7,
+          "max": 49.4
+        },
+        {
+          "name": "Max HP",
+          "min": 1480,
+          "max": 2960
+        },
+        {
+          "name": "Min Physical Attack",
+          "min": 38.9,
+          "max": 77.8
+        },
+        {
+          "name": "Max Physical Attack",
+          "min": 38.9,
+          "max": 77.8
+        },
+        {
+          "name": "Physical Defense",
+          "min": 19.5,
+          "max": 39
+        },
+        {
+          "name": "Min Formless Attack",
+          "min": 22.1,
+          "max": 44.2
+        },
+        {
+          "name": "Max Formless Attack",
+          "min": 22.1,
+          "max": 44.2
+        },
+        {
+          "name": "Precision Rate",
+          "min": 0.04,
+          "max": 0.08
+        },
+        {
+          "name": "Critical Rate",
+          "min": 0.045,
+          "max": 0.09
+        },
+        {
+          "name": "Affinity Rate",
+          "min": 0.022,
+          "max": 0.044
+        },
+        {
+          "name": "Art of Mo Blade DMG Boost",
+          "min": 0.031,
+          "max": 0.062
+        }
+      ]
+    },
+    {
+      "name": "Mirage Twintail",
+      "fields": {
+        "Min Physical Attack": 65,
+        "Max Physical Attack": 151,
+        "Durability": 100,
+        "Gear Tier": 96,
+        "Required Level": 96
+      },
+      "rarity": "Gold",
+      "equipmentSlot": "Weapon",
+      "initialAffixes": [
+        {
+          "name": "Min Physical Attack",
+          "min": 38.9,
+          "max": 77.8
+        },
+        {
+          "name": "Max Physical Attack",
+          "min": 38.9,
+          "max": 77.8
+        },
+        {
+          "name": "Min Formless Attack",
+          "min": 22.1,
+          "max": 44.2
+        },
+        {
+          "name": "Max Formless Attack",
+          "min": 22.1,
+          "max": 44.2
+        },
+        {
+          "name": "Agility",
+          "min": 24.7,
+          "max": 49.4
+        },
+        {
+          "name": "Momentum",
+          "min": 24.7,
+          "max": 49.4
+        }
+      ],
+      "tuningAffixes": [
+        {
+          "name": "Body",
+          "min": 24.7,
+          "max": 49.4
+        },
+        {
+          "name": "Power",
+          "min": 24.7,
+          "max": 49.4
+        },
+        {
+          "name": "Defense",
+          "min": 24.7,
+          "max": 49.4
+        },
+        {
+          "name": "Agility",
+          "min": 24.7,
+          "max": 49.4
+        },
+        {
+          "name": "Momentum",
+          "min": 24.7,
+          "max": 49.4
+        },
+        {
+          "name": "Max HP",
+          "min": 1480,
+          "max": 2960
+        },
+        {
+          "name": "Min Physical Attack",
+          "min": 38.9,
+          "max": 77.8
+        },
+        {
+          "name": "Max Physical Attack",
+          "min": 38.9,
+          "max": 77.8
+        },
+        {
+          "name": "Physical Defense",
+          "min": 19.5,
+          "max": 39
+        },
+        {
+          "name": "Min Formless Attack",
+          "min": 22.1,
+          "max": 44.2
+        },
+        {
+          "name": "Max Formless Attack",
+          "min": 22.1,
+          "max": 44.2
+        },
+        {
+          "name": "Precision Rate",
+          "min": 0.04,
+          "max": 0.08
+        },
+        {
+          "name": "Critical Rate",
+          "min": 0.045,
+          "max": 0.09
+        },
+        {
+          "name": "Affinity Rate",
+          "min": 0.022,
+          "max": 0.044
+        }
+      ]
+    },
+    {
+      "name": "Mirage Cloudshade",
+      "fields": {
+        "Min Physical Attack": 65,
+        "Max Physical Attack": 151,
+        "Durability": 100,
+        "Gear Tier": 96,
+        "Required Level": 96
+      },
+      "rarity": "Gold",
+      "equipmentSlot": "Weapon",
+      "initialAffixes": [
+        {
+          "name": "Min Physical Attack",
+          "min": 38.9,
+          "max": 77.8
+        },
+        {
+          "name": "Max Physical Attack",
+          "min": 38.9,
+          "max": 77.8
+        },
+        {
+          "name": "Min Formless Attack",
+          "min": 22.1,
+          "max": 44.2
+        },
+        {
+          "name": "Max Formless Attack",
+          "min": 22.1,
+          "max": 44.2
+        },
+        {
+          "name": "Agility",
+          "min": 24.7,
+          "max": 49.4
+        },
+        {
+          "name": "Momentum",
+          "min": 24.7,
+          "max": 49.4
+        }
+      ],
+      "tuningAffixes": [
+        {
+          "name": "Body",
+          "min": 24.7,
+          "max": 49.4
+        },
+        {
+          "name": "Power",
+          "min": 24.7,
+          "max": 49.4
+        },
+        {
+          "name": "Defense",
+          "min": 24.7,
+          "max": 49.4
+        },
+        {
+          "name": "Agility",
+          "min": 24.7,
+          "max": 49.4
+        },
+        {
+          "name": "Momentum",
+          "min": 24.7,
+          "max": 49.4
+        },
+        {
+          "name": "Max HP",
+          "min": 1480,
+          "max": 2960
+        },
+        {
+          "name": "Min Physical Attack",
+          "min": 38.9,
+          "max": 77.8
+        },
+        {
+          "name": "Max Physical Attack",
+          "min": 38.9,
+          "max": 77.8
+        },
+        {
+          "name": "Physical Defense",
+          "min": 19.5,
+          "max": 39
+        },
+        {
+          "name": "Min Formless Attack",
+          "min": 22.1,
+          "max": 44.2
+        },
+        {
+          "name": "Max Formless Attack",
+          "min": 22.1,
+          "max": 44.2
+        },
+        {
+          "name": "Precision Rate",
+          "min": 0.04,
+          "max": 0.08
+        },
+        {
+          "name": "Critical Rate",
+          "min": 0.045,
+          "max": 0.09
+        },
+        {
+          "name": "Affinity Rate",
+          "min": 0.022,
+          "max": 0.044
+        },
+        {
+          "name": "Art of Umbrella Boost",
+          "min": 0.031,
+          "max": 0.062
+        }
+      ]
+    },
+    {
+      "name": "Mirage Nightstar",
+      "fields": {
+        "Min Physical Attack": 65,
+        "Max Physical Attack": 151,
+        "Durability": 100,
+        "Gear Tier": 96,
+        "Required Level": 96
+      },
+      "rarity": "Gold",
+      "equipmentSlot": "Weapon",
+      "initialAffixes": [
+        {
+          "name": "Min Physical Attack",
+          "min": 38.9,
+          "max": 77.8
+        },
+        {
+          "name": "Max Physical Attack",
+          "min": 38.9,
+          "max": 77.8
+        },
+        {
+          "name": "Min Formless Attack",
+          "min": 22.1,
+          "max": 44.2
+        },
+        {
+          "name": "Max Formless Attack",
+          "min": 22.1,
+          "max": 44.2
+        },
+        {
+          "name": "Agility",
+          "min": 24.7,
+          "max": 49.4
+        },
+        {
+          "name": "Momentum",
+          "min": 24.7,
+          "max": 49.4
+        }
+      ],
+      "tuningAffixes": [
+        {
+          "name": "Body",
+          "min": 24.7,
+          "max": 49.4
+        },
+        {
+          "name": "Power",
+          "min": 24.7,
+          "max": 49.4
+        },
+        {
+          "name": "Defense",
+          "min": 24.7,
+          "max": 49.4
+        },
+        {
+          "name": "Agility",
+          "min": 24.7,
+          "max": 49.4
+        },
+        {
+          "name": "Momentum",
+          "min": 24.7,
+          "max": 49.4
+        },
+        {
+          "name": "Max HP",
+          "min": 1480,
+          "max": 2960
+        },
+        {
+          "name": "Min Physical Attack",
+          "min": 38.9,
+          "max": 77.8
+        },
+        {
+          "name": "Max Physical Attack",
+          "min": 38.9,
+          "max": 77.8
+        },
+        {
+          "name": "Physical Defense",
+          "min": 19.5,
+          "max": 39
+        },
+        {
+          "name": "Min Formless Attack",
+          "min": 22.1,
+          "max": 44.2
+        },
+        {
+          "name": "Max Formless Attack",
+          "min": 22.1,
+          "max": 44.2
+        },
+        {
+          "name": "Precision Rate",
+          "min": 0.04,
+          "max": 0.08
+        },
+        {
+          "name": "Critical Rate",
+          "min": 0.045,
+          "max": 0.09
+        },
+        {
+          "name": "Affinity Rate",
+          "min": 0.022,
+          "max": 0.044
+        },
+        {
+          "name": "Art of Rope Dart DMG Boost",
+          "min": 0.031,
+          "max": 0.062
+        }
+      ]
+    },
+    {
+      "name": "Mirage Watershear",
+      "fields": {
+        "Min Physical Attack": 65,
+        "Max Physical Attack": 151,
+        "Durability": 100,
+        "Gear Tier": 96,
+        "Required Level": 96
+      },
+      "rarity": "Gold",
+      "equipmentSlot": "Weapon",
+      "initialAffixes": [
+        {
+          "name": "Min Physical Attack",
+          "min": 38.9,
+          "max": 77.8
+        },
+        {
+          "name": "Max Physical Attack",
+          "min": 38.9,
+          "max": 77.8
+        },
+        {
+          "name": "Min Formless Attack",
+          "min": 22.1,
+          "max": 44.2
+        },
+        {
+          "name": "Max Formless Attack",
+          "min": 22.1,
+          "max": 44.2
+        },
+        {
+          "name": "Agility",
+          "min": 24.7,
+          "max": 49.4
+        },
+        {
+          "name": "Momentum",
+          "min": 24.7,
+          "max": 49.4
+        }
+      ],
+      "tuningAffixes": [
+        {
+          "name": "Body",
+          "min": 24.7,
+          "max": 49.4
+        },
+        {
+          "name": "Power",
+          "min": 24.7,
+          "max": 49.4
+        },
+        {
+          "name": "Defense",
+          "min": 24.7,
+          "max": 49.4
+        },
+        {
+          "name": "Agility",
+          "min": 24.7,
+          "max": 49.4
+        },
+        {
+          "name": "Momentum",
+          "min": 24.7,
+          "max": 49.4
+        },
+        {
+          "name": "Max HP",
+          "min": 1480,
+          "max": 2960
+        },
+        {
+          "name": "Min Physical Attack",
+          "min": 38.9,
+          "max": 77.8
+        },
+        {
+          "name": "Max Physical Attack",
+          "min": 38.9,
+          "max": 77.8
+        },
+        {
+          "name": "Physical Defense",
+          "min": 19.5,
+          "max": 39
+        },
+        {
+          "name": "Min Formless Attack",
+          "min": 22.1,
+          "max": 44.2
+        },
+        {
+          "name": "Max Formless Attack",
+          "min": 22.1,
+          "max": 44.2
+        },
+        {
+          "name": "Precision Rate",
+          "min": 0.04,
+          "max": 0.08
+        },
+        {
+          "name": "Critical Rate",
+          "min": 0.045,
+          "max": 0.09
+        },
+        {
+          "name": "Affinity Rate",
+          "min": 0.022,
+          "max": 0.044
+        },
+        {
+          "name": "Art of Heng Blade DMG Boost",
+          "min": 0.031,
+          "max": 0.062
+        }
+      ]
+    },
+    {
+      "name": "Mirage Titans",
+      "fields": {
+        "Min Physical Attack": 65,
+        "Max Physical Attack": 151,
+        "Durability": 100,
+        "Gear Tier": 96,
+        "Required Level": 96
+      },
+      "rarity": "Gold",
+      "equipmentSlot": "Weapon",
+      "initialAffixes": [
+        {
+          "name": "Min Physical Attack",
+          "min": 38.9,
+          "max": 77.8
+        },
+        {
+          "name": "Max Physical Attack",
+          "min": 38.9,
+          "max": 77.8
+        },
+        {
+          "name": "Min Formless Attack",
+          "min": 22.1,
+          "max": 44.2
+        },
+        {
+          "name": "Max Formless Attack",
+          "min": 22.1,
+          "max": 44.2
+        },
+        {
+          "name": "Agility",
+          "min": 24.7,
+          "max": 49.4
+        },
+        {
+          "name": "Momentum",
+          "min": 24.7,
+          "max": 49.4
+        }
+      ],
+      "tuningAffixes": [
+        {
+          "name": "Body",
+          "min": 24.7,
+          "max": 49.4
+        },
+        {
+          "name": "Power",
+          "min": 24.7,
+          "max": 49.4
+        },
+        {
+          "name": "Defense",
+          "min": 24.7,
+          "max": 49.4
+        },
+        {
+          "name": "Agility",
+          "min": 24.7,
+          "max": 49.4
+        },
+        {
+          "name": "Momentum",
+          "min": 24.7,
+          "max": 49.4
+        },
+        {
+          "name": "Max HP",
+          "min": 1480,
+          "max": 2960
+        },
+        {
+          "name": "Min Physical Attack",
+          "min": 38.9,
+          "max": 77.8
+        },
+        {
+          "name": "Max Physical Attack",
+          "min": 38.9,
+          "max": 77.8
+        },
+        {
+          "name": "Physical Defense",
+          "min": 19.5,
+          "max": 39
+        },
+        {
+          "name": "Min Formless Attack",
+          "min": 22.1,
+          "max": 44.2
+        },
+        {
+          "name": "Max Formless Attack",
+          "min": 22.1,
+          "max": 44.2
+        },
+        {
+          "name": "Precision Rate",
+          "min": 0.04,
+          "max": 0.08
+        },
+        {
+          "name": "Critical Rate",
+          "min": 0.045,
+          "max": 0.09
+        },
+        {
+          "name": "Affinity Rate",
+          "min": 0.022,
+          "max": 0.044
+        }
+      ]
+    }
+  ]
+}
