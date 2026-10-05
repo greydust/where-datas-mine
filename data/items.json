@@ -2852,32 +2852,32 @@
           "name": "Helmet Arena Attune",
           "affixes": [
             {
-              "name": "When you remove your stagger or control effect with a Control-Removing Skill, gain Tenacity for 2 seconds after the Super Armor wears off.",
+              "name": "Using a Break Control Skill to remove Stagger or control effects grants Tenacity for 2s after Super Armor ends.",
               "max": 1,
               "display": null
             },
             {
-              "name": "When you remove your stagger or control effect with a Control-Removing Skill, recover 30 Endurance.",
+              "name": "Using a Break Control Skill to remove Stagger or control effects recovers 30 Endurance.",
               "max": 1,
               "display": null
             },
             {
-              "name": "When you remove your stagger or control effect with a Control-Removing Skill, increase your Qi damage by 20% over the next 5 seconds.",
+              "name": "Using a Break Control Skill to remove Stagger or control effects increases your Qi damage by 20% over the next 5 seconds.",
               "max": 1,
               "display": null
             },
             {
-              "name": "When you remove your stagger or control effect with a Control-Removing Skill, gain Tenacity for 2.8 seconds after the Super Armor wears off.",
+              "name": "Using a Break Control Skill to remove Stagger or control effects gains Tenacity for 2.8 seconds after the Super Armor wears off.",
               "max": 1,
               "display": null
             },
             {
-              "name": "When a Break Control Skill successfully removes a Stagger or Crowd Control effect, recovers 30 Endurance and reduces the Break Control skill's cooldown by 4 seconds. Attuning effects can reduce the cooldown of Break Control skills by up to 4 seconds.",
+              "name": "Using a Break Control Skill to remove Stagger or control effects restores 30 Endurance and reduces its cooldown by 4s. Attuning effects can reduce the cooldown of Break Control Skills by up to 4s.",
               "max": 1,
               "display": null
             },
             {
-              "name": "When you remove your stagger or control effect with a Control-Removing Skill, increase your HP damage and Qi damage by 20% over the next 5 seconds.",
+              "name": "Using a Break Control Skill to remove Stagger or control effects increases your HP damage and Qi damage by 20% over the next 5 seconds.",
               "max": 1,
               "display": null
             }
@@ -3325,12 +3325,12 @@
               "display": null
             },
             {
-              "name": "Reduce Mystic Art damage taken by 25%.",
+              "name": "Reduces damage taken from Mystic Skills by 25%.",
               "max": 1,
               "display": null
             },
             {
-              "name": "Reduces Martial Arts damage taken by 25%.",
+              "name": "Reduces damage taken from Martial Arts by 25%.",
               "max": 1,
               "display": null
             },
@@ -3340,12 +3340,12 @@
               "display": null
             },
             {
-              "name": "Reduce Mystic Art damage taken by 35%.",
+              "name": "Reduces damage taken from Mystic Skills by 35%.",
               "max": 1,
               "display": null
             },
             {
-              "name": "Reduces Martial Arts damage taken by 35%.",
+              "name": "Reduces damage taken from Martial Arts by 35%.",
               "max": 1,
               "display": null
             }
@@ -6018,12 +6018,12 @@
               "display": null
             },
             {
-              "name": "Recover 50 Endurance after casting an Execution Skill.",
+              "name": "Casting an Execution Skill restores 50 Endurance.",
               "max": 1,
               "display": null
             },
             {
-              "name": "Recovers 20 Vitality after casting an Execution Skill. For the next 8 seconds, granting healing recovers an additional 2 Vitality. Triggers up to 5 times.",
+              "name": "Casting an Execution Skill restores 20 Vitality. For the next 8s, healing also restores 2 Vitality, up to 5 times.",
               "max": 1,
               "display": null
             },
@@ -6048,12 +6048,12 @@
               "display": null
             },
             {
-              "name": "Recover 50 Endurance and gain Tenacity for 3 seconds after casting an Execution Skill.",
+              "name": "Casting an Execution Skill restores 50 Endurance and grants Tenacity for 3s.",
               "max": 1,
               "display": null
             },
             {
-              "name": "Recovers 20 Vitality after casting an Execution Skill. For the next 8 seconds, increases the Mystic Skill damage by 20% and recovers an additional 2 Vitality when healing other units. Triggers up to 5 times.",
+              "name": "Casting an Execution Skill restores 20 Vitality. For the next 8s, Mystic Skill damage increases 20％ and healing restores 2 Vitality, up to 5 times.",
               "max": 1,
               "display": null
             }
@@ -6294,12 +6294,12 @@
               "display": null
             },
             {
-              "name": "Recover 50 Endurance after casting an Execution Skill.",
+              "name": "Casting an Execution Skill restores 50 Endurance.",
               "max": 1,
               "display": null
             },
             {
-              "name": "Recovers 20 Vitality after casting an Execution Skill. For the next 8 seconds, granting healing recovers an additional 2 Vitality. Triggers up to 5 times.",
+              "name": "Casting an Execution Skill restores 20 Vitality. For the next 8s, healing also restores 2 Vitality, up to 5 times.",
               "max": 1,
               "display": null
             },
@@ -6324,12 +6324,12 @@
               "display": null
             },
             {
-              "name": "Recover 50 Endurance and gain Tenacity for 3 seconds after casting an Execution Skill.",
+              "name": "Casting an Execution Skill restores 50 Endurance and grants Tenacity for 3s.",
               "max": 1,
               "display": null
             },
             {
-              "name": "Recovers 20 Vitality after casting an Execution Skill. For the next 8 seconds, increases the Mystic Skill damage by 20% and recovers an additional 2 Vitality when healing other units. Triggers up to 5 times.",
+              "name": "Casting an Execution Skill restores 20 Vitality. For the next 8s, Mystic Skill damage increases 20％ and healing restores 2 Vitality, up to 5 times.",
               "max": 1,
               "display": null
             }
@@ -6570,12 +6570,12 @@
               "display": null
             },
             {
-              "name": "Recover 50 Endurance after casting an Execution Skill.",
+              "name": "Casting an Execution Skill restores 50 Endurance.",
               "max": 1,
               "display": null
             },
             {
-              "name": "Recovers 20 Vitality after casting an Execution Skill. For the next 8 seconds, granting healing recovers an additional 2 Vitality. Triggers up to 5 times.",
+              "name": "Casting an Execution Skill restores 20 Vitality. For the next 8s, healing also restores 2 Vitality, up to 5 times.",
               "max": 1,
               "display": null
             },
@@ -6600,12 +6600,12 @@
               "display": null
             },
             {
-              "name": "Recover 50 Endurance and gain Tenacity for 3 seconds after casting an Execution Skill.",
+              "name": "Casting an Execution Skill restores 50 Endurance and grants Tenacity for 3s.",
               "max": 1,
               "display": null
             },
             {
-              "name": "Recovers 20 Vitality after casting an Execution Skill. For the next 8 seconds, increases the Mystic Skill damage by 20% and recovers an additional 2 Vitality when healing other units. Triggers up to 5 times.",
+              "name": "Casting an Execution Skill restores 20 Vitality. For the next 8s, Mystic Skill damage increases 20％ and healing restores 2 Vitality, up to 5 times.",
               "max": 1,
               "display": null
             }
@@ -6846,12 +6846,12 @@
               "display": null
             },
             {
-              "name": "Recover 50 Endurance after casting an Execution Skill.",
+              "name": "Casting an Execution Skill restores 50 Endurance.",
               "max": 1,
               "display": null
             },
             {
-              "name": "Recovers 20 Vitality after casting an Execution Skill. For the next 8 seconds, granting healing recovers an additional 2 Vitality. Triggers up to 5 times.",
+              "name": "Casting an Execution Skill restores 20 Vitality. For the next 8s, healing also restores 2 Vitality, up to 5 times.",
               "max": 1,
               "display": null
             },
@@ -6876,12 +6876,12 @@
               "display": null
             },
             {
-              "name": "Recover 50 Endurance and gain Tenacity for 3 seconds after casting an Execution Skill.",
+              "name": "Casting an Execution Skill restores 50 Endurance and grants Tenacity for 3s.",
               "max": 1,
               "display": null
             },
             {
-              "name": "Recovers 20 Vitality after casting an Execution Skill. For the next 8 seconds, increases the Mystic Skill damage by 20% and recovers an additional 2 Vitality when healing other units. Triggers up to 5 times.",
+              "name": "Casting an Execution Skill restores 20 Vitality. For the next 8s, Mystic Skill damage increases 20％ and healing restores 2 Vitality, up to 5 times.",
               "max": 1,
               "display": null
             }
@@ -7122,12 +7122,12 @@
               "display": null
             },
             {
-              "name": "Recover 50 Endurance after casting an Execution Skill.",
+              "name": "Casting an Execution Skill restores 50 Endurance.",
               "max": 1,
               "display": null
             },
             {
-              "name": "Recovers 20 Vitality after casting an Execution Skill. For the next 8 seconds, granting healing recovers an additional 2 Vitality. Triggers up to 5 times.",
+              "name": "Casting an Execution Skill restores 20 Vitality. For the next 8s, healing also restores 2 Vitality, up to 5 times.",
               "max": 1,
               "display": null
             },
@@ -7152,12 +7152,12 @@
               "display": null
             },
             {
-              "name": "Recover 50 Endurance and gain Tenacity for 3 seconds after casting an Execution Skill.",
+              "name": "Casting an Execution Skill restores 50 Endurance and grants Tenacity for 3s.",
               "max": 1,
               "display": null
             },
             {
-              "name": "Recovers 20 Vitality after casting an Execution Skill. For the next 8 seconds, increases the Mystic Skill damage by 20% and recovers an additional 2 Vitality when healing other units. Triggers up to 5 times.",
+              "name": "Casting an Execution Skill restores 20 Vitality. For the next 8s, Mystic Skill damage increases 20％ and healing restores 2 Vitality, up to 5 times.",
               "max": 1,
               "display": null
             }
@@ -7403,12 +7403,12 @@
               "display": null
             },
             {
-              "name": "Recover 50 Endurance after casting an Execution Skill.",
+              "name": "Casting an Execution Skill restores 50 Endurance.",
               "max": 1,
               "display": null
             },
             {
-              "name": "Recovers 20 Vitality after casting an Execution Skill. For the next 8 seconds, granting healing recovers an additional 2 Vitality. Triggers up to 5 times.",
+              "name": "Casting an Execution Skill restores 20 Vitality. For the next 8s, healing also restores 2 Vitality, up to 5 times.",
               "max": 1,
               "display": null
             },
@@ -7433,12 +7433,12 @@
               "display": null
             },
             {
-              "name": "Recover 50 Endurance and gain Tenacity for 3 seconds after casting an Execution Skill.",
+              "name": "Casting an Execution Skill restores 50 Endurance and grants Tenacity for 3s.",
               "max": 1,
               "display": null
             },
             {
-              "name": "Recovers 20 Vitality after casting an Execution Skill. For the next 8 seconds, increases the Mystic Skill damage by 20% and recovers an additional 2 Vitality when healing other units. Triggers up to 5 times.",
+              "name": "Casting an Execution Skill restores 20 Vitality. For the next 8s, Mystic Skill damage increases 20％ and healing restores 2 Vitality, up to 5 times.",
               "max": 1,
               "display": null
             }
@@ -7679,12 +7679,12 @@
               "display": null
             },
             {
-              "name": "Recover 50 Endurance after casting an Execution Skill.",
+              "name": "Casting an Execution Skill restores 50 Endurance.",
               "max": 1,
               "display": null
             },
             {
-              "name": "Recovers 20 Vitality after casting an Execution Skill. For the next 8 seconds, granting healing recovers an additional 2 Vitality. Triggers up to 5 times.",
+              "name": "Casting an Execution Skill restores 20 Vitality. For the next 8s, healing also restores 2 Vitality, up to 5 times.",
               "max": 1,
               "display": null
             },
@@ -7709,12 +7709,12 @@
               "display": null
             },
             {
-              "name": "Recover 50 Endurance and gain Tenacity for 3 seconds after casting an Execution Skill.",
+              "name": "Casting an Execution Skill restores 50 Endurance and grants Tenacity for 3s.",
               "max": 1,
               "display": null
             },
             {
-              "name": "Recovers 20 Vitality after casting an Execution Skill. For the next 8 seconds, increases the Mystic Skill damage by 20% and recovers an additional 2 Vitality when healing other units. Triggers up to 5 times.",
+              "name": "Casting an Execution Skill restores 20 Vitality. For the next 8s, Mystic Skill damage increases 20％ and healing restores 2 Vitality, up to 5 times.",
               "max": 1,
               "display": null
             }
@@ -7955,12 +7955,12 @@
               "display": null
             },
             {
-              "name": "Recover 50 Endurance after casting an Execution Skill.",
+              "name": "Casting an Execution Skill restores 50 Endurance.",
               "max": 1,
               "display": null
             },
             {
-              "name": "Recovers 20 Vitality after casting an Execution Skill. For the next 8 seconds, granting healing recovers an additional 2 Vitality. Triggers up to 5 times.",
+              "name": "Casting an Execution Skill restores 20 Vitality. For the next 8s, healing also restores 2 Vitality, up to 5 times.",
               "max": 1,
               "display": null
             },
@@ -7985,12 +7985,12 @@
               "display": null
             },
             {
-              "name": "Recover 50 Endurance and gain Tenacity for 3 seconds after casting an Execution Skill.",
+              "name": "Casting an Execution Skill restores 50 Endurance and grants Tenacity for 3s.",
               "max": 1,
               "display": null
             },
             {
-              "name": "Recovers 20 Vitality after casting an Execution Skill. For the next 8 seconds, increases the Mystic Skill damage by 20% and recovers an additional 2 Vitality when healing other units. Triggers up to 5 times.",
+              "name": "Casting an Execution Skill restores 20 Vitality. For the next 8s, Mystic Skill damage increases 20％ and healing restores 2 Vitality, up to 5 times.",
               "max": 1,
               "display": null
             }
@@ -8231,12 +8231,12 @@
               "display": null
             },
             {
-              "name": "Recover 50 Endurance after casting an Execution Skill.",
+              "name": "Casting an Execution Skill restores 50 Endurance.",
               "max": 1,
               "display": null
             },
             {
-              "name": "Recovers 20 Vitality after casting an Execution Skill. For the next 8 seconds, granting healing recovers an additional 2 Vitality. Triggers up to 5 times.",
+              "name": "Casting an Execution Skill restores 20 Vitality. For the next 8s, healing also restores 2 Vitality, up to 5 times.",
               "max": 1,
               "display": null
             },
@@ -8261,12 +8261,12 @@
               "display": null
             },
             {
-              "name": "Recover 50 Endurance and gain Tenacity for 3 seconds after casting an Execution Skill.",
+              "name": "Casting an Execution Skill restores 50 Endurance and grants Tenacity for 3s.",
               "max": 1,
               "display": null
             },
             {
-              "name": "Recovers 20 Vitality after casting an Execution Skill. For the next 8 seconds, increases the Mystic Skill damage by 20% and recovers an additional 2 Vitality when healing other units. Triggers up to 5 times.",
+              "name": "Casting an Execution Skill restores 20 Vitality. For the next 8s, Mystic Skill damage increases 20％ and healing restores 2 Vitality, up to 5 times.",
               "max": 1,
               "display": null
             }
@@ -8492,32 +8492,32 @@
           "name": "Helmet Arena Attune",
           "affixes": [
             {
-              "name": "When you remove your stagger or control effect with a Control-Removing Skill, gain Tenacity for 2 seconds after the Super Armor wears off.",
+              "name": "Using a Break Control Skill to remove Stagger or control effects grants Tenacity for 2s after Super Armor ends.",
               "max": 1,
               "display": null
             },
             {
-              "name": "When you remove your stagger or control effect with a Control-Removing Skill, recover 30 Endurance.",
+              "name": "Using a Break Control Skill to remove Stagger or control effects recovers 30 Endurance.",
               "max": 1,
               "display": null
             },
             {
-              "name": "When you remove your stagger or control effect with a Control-Removing Skill, increase your Qi damage by 20% over the next 5 seconds.",
+              "name": "Using a Break Control Skill to remove Stagger or control effects increases your Qi damage by 20% over the next 5 seconds.",
               "max": 1,
               "display": null
             },
             {
-              "name": "When you remove your stagger or control effect with a Control-Removing Skill, gain Tenacity for 2.8 seconds after the Super Armor wears off.",
+              "name": "Using a Break Control Skill to remove Stagger or control effects gains Tenacity for 2.8 seconds after the Super Armor wears off.",
               "max": 1,
               "display": null
             },
             {
-              "name": "When a Break Control Skill successfully removes a Stagger or Crowd Control effect, recovers 30 Endurance and reduces the Break Control skill's cooldown by 4 seconds. Attuning effects can reduce the cooldown of Break Control skills by up to 4 seconds.",
+              "name": "Using a Break Control Skill to remove Stagger or control effects restores 30 Endurance and reduces its cooldown by 4s. Attuning effects can reduce the cooldown of Break Control Skills by up to 4s.",
               "max": 1,
               "display": null
             },
             {
-              "name": "When you remove your stagger or control effect with a Control-Removing Skill, increase your HP damage and Qi damage by 20% over the next 5 seconds.",
+              "name": "Using a Break Control Skill to remove Stagger or control effects increases your HP damage and Qi damage by 20% over the next 5 seconds.",
               "max": 1,
               "display": null
             }
@@ -8955,12 +8955,12 @@
               "display": null
             },
             {
-              "name": "Reduce Mystic Art damage taken by 25%.",
+              "name": "Reduces damage taken from Mystic Skills by 25%.",
               "max": 1,
               "display": null
             },
             {
-              "name": "Reduces Martial Arts damage taken by 25%.",
+              "name": "Reduces damage taken from Martial Arts by 25%.",
               "max": 1,
               "display": null
             },
@@ -8970,12 +8970,12 @@
               "display": null
             },
             {
-              "name": "Reduce Mystic Art damage taken by 35%.",
+              "name": "Reduces damage taken from Mystic Skills by 35%.",
               "max": 1,
               "display": null
             },
             {
-              "name": "Reduces Martial Arts damage taken by 35%.",
+              "name": "Reduces damage taken from Martial Arts by 35%.",
               "max": 1,
               "display": null
             }
@@ -11598,12 +11598,12 @@
               "display": null
             },
             {
-              "name": "Recover 50 Endurance after casting an Execution Skill.",
+              "name": "Casting an Execution Skill restores 50 Endurance.",
               "max": 1,
               "display": null
             },
             {
-              "name": "Recovers 20 Vitality after casting an Execution Skill. For the next 8 seconds, granting healing recovers an additional 2 Vitality. Triggers up to 5 times.",
+              "name": "Casting an Execution Skill restores 20 Vitality. For the next 8s, healing also restores 2 Vitality, up to 5 times.",
               "max": 1,
               "display": null
             },
@@ -11628,12 +11628,12 @@
               "display": null
             },
             {
-              "name": "Recover 50 Endurance and gain Tenacity for 3 seconds after casting an Execution Skill.",
+              "name": "Casting an Execution Skill restores 50 Endurance and grants Tenacity for 3s.",
               "max": 1,
               "display": null
             },
             {
-              "name": "Recovers 20 Vitality after casting an Execution Skill. For the next 8 seconds, increases the Mystic Skill damage by 20% and recovers an additional 2 Vitality when healing other units. Triggers up to 5 times.",
+              "name": "Casting an Execution Skill restores 20 Vitality. For the next 8s, Mystic Skill damage increases 20％ and healing restores 2 Vitality, up to 5 times.",
               "max": 1,
               "display": null
             }
@@ -11864,12 +11864,12 @@
               "display": null
             },
             {
-              "name": "Recover 50 Endurance after casting an Execution Skill.",
+              "name": "Casting an Execution Skill restores 50 Endurance.",
               "max": 1,
               "display": null
             },
             {
-              "name": "Recovers 20 Vitality after casting an Execution Skill. For the next 8 seconds, granting healing recovers an additional 2 Vitality. Triggers up to 5 times.",
+              "name": "Casting an Execution Skill restores 20 Vitality. For the next 8s, healing also restores 2 Vitality, up to 5 times.",
               "max": 1,
               "display": null
             },
@@ -11894,12 +11894,12 @@
               "display": null
             },
             {
-              "name": "Recover 50 Endurance and gain Tenacity for 3 seconds after casting an Execution Skill.",
+              "name": "Casting an Execution Skill restores 50 Endurance and grants Tenacity for 3s.",
               "max": 1,
               "display": null
             },
             {
-              "name": "Recovers 20 Vitality after casting an Execution Skill. For the next 8 seconds, increases the Mystic Skill damage by 20% and recovers an additional 2 Vitality when healing other units. Triggers up to 5 times.",
+              "name": "Casting an Execution Skill restores 20 Vitality. For the next 8s, Mystic Skill damage increases 20％ and healing restores 2 Vitality, up to 5 times.",
               "max": 1,
               "display": null
             }
@@ -12130,12 +12130,12 @@
               "display": null
             },
             {
-              "name": "Recover 50 Endurance after casting an Execution Skill.",
+              "name": "Casting an Execution Skill restores 50 Endurance.",
               "max": 1,
               "display": null
             },
             {
-              "name": "Recovers 20 Vitality after casting an Execution Skill. For the next 8 seconds, granting healing recovers an additional 2 Vitality. Triggers up to 5 times.",
+              "name": "Casting an Execution Skill restores 20 Vitality. For the next 8s, healing also restores 2 Vitality, up to 5 times.",
               "max": 1,
               "display": null
             },
@@ -12160,12 +12160,12 @@
               "display": null
             },
             {
-              "name": "Recover 50 Endurance and gain Tenacity for 3 seconds after casting an Execution Skill.",
+              "name": "Casting an Execution Skill restores 50 Endurance and grants Tenacity for 3s.",
               "max": 1,
               "display": null
             },
             {
-              "name": "Recovers 20 Vitality after casting an Execution Skill. For the next 8 seconds, increases the Mystic Skill damage by 20% and recovers an additional 2 Vitality when healing other units. Triggers up to 5 times.",
+              "name": "Casting an Execution Skill restores 20 Vitality. For the next 8s, Mystic Skill damage increases 20％ and healing restores 2 Vitality, up to 5 times.",
               "max": 1,
               "display": null
             }
@@ -12396,12 +12396,12 @@
               "display": null
             },
             {
-              "name": "Recover 50 Endurance after casting an Execution Skill.",
+              "name": "Casting an Execution Skill restores 50 Endurance.",
               "max": 1,
               "display": null
             },
             {
-              "name": "Recovers 20 Vitality after casting an Execution Skill. For the next 8 seconds, granting healing recovers an additional 2 Vitality. Triggers up to 5 times.",
+              "name": "Casting an Execution Skill restores 20 Vitality. For the next 8s, healing also restores 2 Vitality, up to 5 times.",
               "max": 1,
               "display": null
             },
@@ -12426,12 +12426,12 @@
               "display": null
             },
             {
-              "name": "Recover 50 Endurance and gain Tenacity for 3 seconds after casting an Execution Skill.",
+              "name": "Casting an Execution Skill restores 50 Endurance and grants Tenacity for 3s.",
               "max": 1,
               "display": null
             },
             {
-              "name": "Recovers 20 Vitality after casting an Execution Skill. For the next 8 seconds, increases the Mystic Skill damage by 20% and recovers an additional 2 Vitality when healing other units. Triggers up to 5 times.",
+              "name": "Casting an Execution Skill restores 20 Vitality. For the next 8s, Mystic Skill damage increases 20％ and healing restores 2 Vitality, up to 5 times.",
               "max": 1,
               "display": null
             }
@@ -12662,12 +12662,12 @@
               "display": null
             },
             {
-              "name": "Recover 50 Endurance after casting an Execution Skill.",
+              "name": "Casting an Execution Skill restores 50 Endurance.",
               "max": 1,
               "display": null
             },
             {
-              "name": "Recovers 20 Vitality after casting an Execution Skill. For the next 8 seconds, granting healing recovers an additional 2 Vitality. Triggers up to 5 times.",
+              "name": "Casting an Execution Skill restores 20 Vitality. For the next 8s, healing also restores 2 Vitality, up to 5 times.",
               "max": 1,
               "display": null
             },
@@ -12692,12 +12692,12 @@
               "display": null
             },
             {
-              "name": "Recover 50 Endurance and gain Tenacity for 3 seconds after casting an Execution Skill.",
+              "name": "Casting an Execution Skill restores 50 Endurance and grants Tenacity for 3s.",
               "max": 1,
               "display": null
             },
             {
-              "name": "Recovers 20 Vitality after casting an Execution Skill. For the next 8 seconds, increases the Mystic Skill damage by 20% and recovers an additional 2 Vitality when healing other units. Triggers up to 5 times.",
+              "name": "Casting an Execution Skill restores 20 Vitality. For the next 8s, Mystic Skill damage increases 20％ and healing restores 2 Vitality, up to 5 times.",
               "max": 1,
               "display": null
             }
@@ -12933,12 +12933,12 @@
               "display": null
             },
             {
-              "name": "Recover 50 Endurance after casting an Execution Skill.",
+              "name": "Casting an Execution Skill restores 50 Endurance.",
               "max": 1,
               "display": null
             },
             {
-              "name": "Recovers 20 Vitality after casting an Execution Skill. For the next 8 seconds, granting healing recovers an additional 2 Vitality. Triggers up to 5 times.",
+              "name": "Casting an Execution Skill restores 20 Vitality. For the next 8s, healing also restores 2 Vitality, up to 5 times.",
               "max": 1,
               "display": null
             },
@@ -12963,12 +12963,12 @@
               "display": null
             },
             {
-              "name": "Recover 50 Endurance and gain Tenacity for 3 seconds after casting an Execution Skill.",
+              "name": "Casting an Execution Skill restores 50 Endurance and grants Tenacity for 3s.",
               "max": 1,
               "display": null
             },
             {
-              "name": "Recovers 20 Vitality after casting an Execution Skill. For the next 8 seconds, increases the Mystic Skill damage by 20% and recovers an additional 2 Vitality when healing other units. Triggers up to 5 times.",
+              "name": "Casting an Execution Skill restores 20 Vitality. For the next 8s, Mystic Skill damage increases 20％ and healing restores 2 Vitality, up to 5 times.",
               "max": 1,
               "display": null
             }
@@ -13199,12 +13199,12 @@
               "display": null
             },
             {
-              "name": "Recover 50 Endurance after casting an Execution Skill.",
+              "name": "Casting an Execution Skill restores 50 Endurance.",
               "max": 1,
               "display": null
             },
             {
-              "name": "Recovers 20 Vitality after casting an Execution Skill. For the next 8 seconds, granting healing recovers an additional 2 Vitality. Triggers up to 5 times.",
+              "name": "Casting an Execution Skill restores 20 Vitality. For the next 8s, healing also restores 2 Vitality, up to 5 times.",
               "max": 1,
               "display": null
             },
@@ -13229,12 +13229,12 @@
               "display": null
             },
             {
-              "name": "Recover 50 Endurance and gain Tenacity for 3 seconds after casting an Execution Skill.",
+              "name": "Casting an Execution Skill restores 50 Endurance and grants Tenacity for 3s.",
               "max": 1,
               "display": null
             },
             {
-              "name": "Recovers 20 Vitality after casting an Execution Skill. For the next 8 seconds, increases the Mystic Skill damage by 20% and recovers an additional 2 Vitality when healing other units. Triggers up to 5 times.",
+              "name": "Casting an Execution Skill restores 20 Vitality. For the next 8s, Mystic Skill damage increases 20％ and healing restores 2 Vitality, up to 5 times.",
               "max": 1,
               "display": null
             }
@@ -13465,12 +13465,12 @@
               "display": null
             },
             {
-              "name": "Recover 50 Endurance after casting an Execution Skill.",
+              "name": "Casting an Execution Skill restores 50 Endurance.",
               "max": 1,
               "display": null
             },
             {
-              "name": "Recovers 20 Vitality after casting an Execution Skill. For the next 8 seconds, granting healing recovers an additional 2 Vitality. Triggers up to 5 times.",
+              "name": "Casting an Execution Skill restores 20 Vitality. For the next 8s, healing also restores 2 Vitality, up to 5 times.",
               "max": 1,
               "display": null
             },
@@ -13495,12 +13495,12 @@
               "display": null
             },
             {
-              "name": "Recover 50 Endurance and gain Tenacity for 3 seconds after casting an Execution Skill.",
+              "name": "Casting an Execution Skill restores 50 Endurance and grants Tenacity for 3s.",
               "max": 1,
               "display": null
             },
             {
-              "name": "Recovers 20 Vitality after casting an Execution Skill. For the next 8 seconds, increases the Mystic Skill damage by 20% and recovers an additional 2 Vitality when healing other units. Triggers up to 5 times.",
+              "name": "Casting an Execution Skill restores 20 Vitality. For the next 8s, Mystic Skill damage increases 20％ and healing restores 2 Vitality, up to 5 times.",
               "max": 1,
               "display": null
             }
@@ -13731,12 +13731,12 @@
               "display": null
             },
             {
-              "name": "Recover 50 Endurance after casting an Execution Skill.",
+              "name": "Casting an Execution Skill restores 50 Endurance.",
               "max": 1,
               "display": null
             },
             {
-              "name": "Recovers 20 Vitality after casting an Execution Skill. For the next 8 seconds, granting healing recovers an additional 2 Vitality. Triggers up to 5 times.",
+              "name": "Casting an Execution Skill restores 20 Vitality. For the next 8s, healing also restores 2 Vitality, up to 5 times.",
               "max": 1,
               "display": null
             },
@@ -13761,12 +13761,12 @@
               "display": null
             },
             {
-              "name": "Recover 50 Endurance and gain Tenacity for 3 seconds after casting an Execution Skill.",
+              "name": "Casting an Execution Skill restores 50 Endurance and grants Tenacity for 3s.",
               "max": 1,
               "display": null
             },
             {
-              "name": "Recovers 20 Vitality after casting an Execution Skill. For the next 8 seconds, increases the Mystic Skill damage by 20% and recovers an additional 2 Vitality when healing other units. Triggers up to 5 times.",
+              "name": "Casting an Execution Skill restores 20 Vitality. For the next 8s, Mystic Skill damage increases 20％ and healing restores 2 Vitality, up to 5 times.",
               "max": 1,
               "display": null
             }
@@ -14002,12 +14002,12 @@
               "display": null
             },
             {
-              "name": "Recover 50 Endurance after casting an Execution Skill.",
+              "name": "Casting an Execution Skill restores 50 Endurance.",
               "max": 1,
               "display": null
             },
             {
-              "name": "Recovers 20 Vitality after casting an Execution Skill. For the next 8 seconds, granting healing recovers an additional 2 Vitality. Triggers up to 5 times.",
+              "name": "Casting an Execution Skill restores 20 Vitality. For the next 8s, healing also restores 2 Vitality, up to 5 times.",
               "max": 1,
               "display": null
             },
@@ -14032,12 +14032,12 @@
               "display": null
             },
             {
-              "name": "Recover 50 Endurance and gain Tenacity for 3 seconds after casting an Execution Skill.",
+              "name": "Casting an Execution Skill restores 50 Endurance and grants Tenacity for 3s.",
               "max": 1,
               "display": null
             },
             {
-              "name": "Recovers 20 Vitality after casting an Execution Skill. For the next 8 seconds, increases the Mystic Skill damage by 20% and recovers an additional 2 Vitality when healing other units. Triggers up to 5 times.",
+              "name": "Casting an Execution Skill restores 20 Vitality. For the next 8s, Mystic Skill damage increases 20％ and healing restores 2 Vitality, up to 5 times.",
               "max": 1,
               "display": null
             }
@@ -16342,32 +16342,32 @@
           "name": "Helmet Arena Attune",
           "affixes": [
             {
-              "name": "When you remove your stagger or control effect with a Control-Removing Skill, gain Tenacity for 2 seconds after the Super Armor wears off.",
+              "name": "Using a Break Control Skill to remove Stagger or control effects grants Tenacity for 2s after Super Armor ends.",
               "max": 1,
               "display": null
             },
             {
-              "name": "When you remove your stagger or control effect with a Control-Removing Skill, recover 30 Endurance.",
+              "name": "Using a Break Control Skill to remove Stagger or control effects recovers 30 Endurance.",
               "max": 1,
               "display": null
             },
             {
-              "name": "When you remove your stagger or control effect with a Control-Removing Skill, increase your Qi damage by 20% over the next 5 seconds.",
+              "name": "Using a Break Control Skill to remove Stagger or control effects increases your Qi damage by 20% over the next 5 seconds.",
               "max": 1,
               "display": null
             },
             {
-              "name": "When you remove your stagger or control effect with a Control-Removing Skill, gain Tenacity for 2.8 seconds after the Super Armor wears off.",
+              "name": "Using a Break Control Skill to remove Stagger or control effects gains Tenacity for 2.8 seconds after the Super Armor wears off.",
               "max": 1,
               "display": null
             },
             {
-              "name": "When a Break Control Skill successfully removes a Stagger or Crowd Control effect, recovers 30 Endurance and reduces the Break Control skill's cooldown by 4 seconds. Attuning effects can reduce the cooldown of Break Control skills by up to 4 seconds.",
+              "name": "Using a Break Control Skill to remove Stagger or control effects restores 30 Endurance and reduces its cooldown by 4s. Attuning effects can reduce the cooldown of Break Control Skills by up to 4s.",
               "max": 1,
               "display": null
             },
             {
-              "name": "When you remove your stagger or control effect with a Control-Removing Skill, increase your HP damage and Qi damage by 20% over the next 5 seconds.",
+              "name": "Using a Break Control Skill to remove Stagger or control effects increases your HP damage and Qi damage by 20% over the next 5 seconds.",
               "max": 1,
               "display": null
             }
@@ -16830,12 +16830,12 @@
               "display": null
             },
             {
-              "name": "Reduce Mystic Skill damage taken by 25%.",
+              "name": "Reduces damage taken from Mystic Skills by 25%.",
               "max": 1,
               "display": null
             },
             {
-              "name": "Reduces Martial Arts damage taken by 25%.",
+              "name": "Reduces damage taken from Martial Arts by 25%.",
               "max": 1,
               "display": null
             },
@@ -16845,12 +16845,12 @@
               "display": null
             },
             {
-              "name": "Reduce Mystic Skill damage taken by 35%.",
+              "name": "Reduces damage taken from Mystic Skills by 35%.",
               "max": 1,
               "display": null
             },
             {
-              "name": "Reduces Martial Arts damage taken by 35%.",
+              "name": "Reduces damage taken from Martial Arts by 35%.",
               "max": 1,
               "display": null
             }
@@ -19460,12 +19460,12 @@
               "display": null
             },
             {
-              "name": "Recover 50 Endurance after casting an Execution Skill.",
+              "name": "Casting an Execution Skill restores 50 Endurance.",
               "max": 1,
               "display": null
             },
             {
-              "name": "Recovers 20 Vitality after casting an Execution Skill. For the next 8 seconds, granting healing recovers an additional 2 Vitality. Triggers up to 5 times.",
+              "name": "Casting an Execution Skill restores 20 Vitality. For the next 8s, healing also restores 2 Vitality, up to 5 times.",
               "max": 1,
               "display": null
             },
@@ -19490,12 +19490,12 @@
               "display": null
             },
             {
-              "name": "Recover 50 Endurance and gain Tenacity for 3 seconds after casting an Execution Skill.",
+              "name": "Casting an Execution Skill restores 50 Endurance and grants Tenacity for 3s.",
               "max": 1,
               "display": null
             },
             {
-              "name": "Recovers 20 Vitality after casting an Execution Skill. For the next 8 seconds, increases the Mystic Skill damage by 20% and recovers an additional 2 Vitality when healing other units. Triggers up to 5 times.",
+              "name": "Casting an Execution Skill restores 20 Vitality. For the next 8s, Mystic Skill damage increases 20％ and healing restores 2 Vitality, up to 5 times.",
               "max": 1,
               "display": null
             }
@@ -19681,12 +19681,12 @@
               "display": null
             },
             {
-              "name": "Recover 50 Endurance after casting an Execution Skill.",
+              "name": "Casting an Execution Skill restores 50 Endurance.",
               "max": 1,
               "display": null
             },
             {
-              "name": "Recovers 20 Vitality after casting an Execution Skill. For the next 8 seconds, granting healing recovers an additional 2 Vitality. Triggers up to 5 times.",
+              "name": "Casting an Execution Skill restores 20 Vitality. For the next 8s, healing also restores 2 Vitality, up to 5 times.",
               "max": 1,
               "display": null
             },
@@ -19711,12 +19711,12 @@
               "display": null
             },
             {
-              "name": "Recover 50 Endurance and gain Tenacity for 3 seconds after casting an Execution Skill.",
+              "name": "Casting an Execution Skill restores 50 Endurance and grants Tenacity for 3s.",
               "max": 1,
               "display": null
             },
             {
-              "name": "Recovers 20 Vitality after casting an Execution Skill. For the next 8 seconds, increases the Mystic Skill damage by 20% and recovers an additional 2 Vitality when healing other units. Triggers up to 5 times.",
+              "name": "Casting an Execution Skill restores 20 Vitality. For the next 8s, Mystic Skill damage increases 20％ and healing restores 2 Vitality, up to 5 times.",
               "max": 1,
               "display": null
             }
@@ -19902,12 +19902,12 @@
               "display": null
             },
             {
-              "name": "Recover 50 Endurance after casting an Execution Skill.",
+              "name": "Casting an Execution Skill restores 50 Endurance.",
               "max": 1,
               "display": null
             },
             {
-              "name": "Recovers 20 Vitality after casting an Execution Skill. For the next 8 seconds, granting healing recovers an additional 2 Vitality. Triggers up to 5 times.",
+              "name": "Casting an Execution Skill restores 20 Vitality. For the next 8s, healing also restores 2 Vitality, up to 5 times.",
               "max": 1,
               "display": null
             },
@@ -19932,12 +19932,12 @@
               "display": null
             },
             {
-              "name": "Recover 50 Endurance and gain Tenacity for 3 seconds after casting an Execution Skill.",
+              "name": "Casting an Execution Skill restores 50 Endurance and grants Tenacity for 3s.",
               "max": 1,
               "display": null
             },
             {
-              "name": "Recovers 20 Vitality after casting an Execution Skill. For the next 8 seconds, increases the Mystic Skill damage by 20% and recovers an additional 2 Vitality when healing other units. Triggers up to 5 times.",
+              "name": "Casting an Execution Skill restores 20 Vitality. For the next 8s, Mystic Skill damage increases 20％ and healing restores 2 Vitality, up to 5 times.",
               "max": 1,
               "display": null
             }
@@ -20123,12 +20123,12 @@
               "display": null
             },
             {
-              "name": "Recover 50 Endurance after casting an Execution Skill.",
+              "name": "Casting an Execution Skill restores 50 Endurance.",
               "max": 1,
               "display": null
             },
             {
-              "name": "Recovers 20 Vitality after casting an Execution Skill. For the next 8 seconds, granting healing recovers an additional 2 Vitality. Triggers up to 5 times.",
+              "name": "Casting an Execution Skill restores 20 Vitality. For the next 8s, healing also restores 2 Vitality, up to 5 times.",
               "max": 1,
               "display": null
             },
@@ -20153,12 +20153,12 @@
               "display": null
             },
             {
-              "name": "Recover 50 Endurance and gain Tenacity for 3 seconds after casting an Execution Skill.",
+              "name": "Casting an Execution Skill restores 50 Endurance and grants Tenacity for 3s.",
               "max": 1,
               "display": null
             },
             {
-              "name": "Recovers 20 Vitality after casting an Execution Skill. For the next 8 seconds, increases the Mystic Skill damage by 20% and recovers an additional 2 Vitality when healing other units. Triggers up to 5 times.",
+              "name": "Casting an Execution Skill restores 20 Vitality. For the next 8s, Mystic Skill damage increases 20％ and healing restores 2 Vitality, up to 5 times.",
               "max": 1,
               "display": null
             }
@@ -20344,12 +20344,12 @@
               "display": null
             },
             {
-              "name": "Recover 50 Endurance after casting an Execution Skill.",
+              "name": "Casting an Execution Skill restores 50 Endurance.",
               "max": 1,
               "display": null
             },
             {
-              "name": "Recovers 20 Vitality after casting an Execution Skill. For the next 8 seconds, granting healing recovers an additional 2 Vitality. Triggers up to 5 times.",
+              "name": "Casting an Execution Skill restores 20 Vitality. For the next 8s, healing also restores 2 Vitality, up to 5 times.",
               "max": 1,
               "display": null
             },
@@ -20374,12 +20374,12 @@
               "display": null
             },
             {
-              "name": "Recover 50 Endurance and gain Tenacity for 3 seconds after casting an Execution Skill.",
+              "name": "Casting an Execution Skill restores 50 Endurance and grants Tenacity for 3s.",
               "max": 1,
               "display": null
             },
             {
-              "name": "Recovers 20 Vitality after casting an Execution Skill. For the next 8 seconds, increases the Mystic Skill damage by 20% and recovers an additional 2 Vitality when healing other units. Triggers up to 5 times.",
+              "name": "Casting an Execution Skill restores 20 Vitality. For the next 8s, Mystic Skill damage increases 20％ and healing restores 2 Vitality, up to 5 times.",
               "max": 1,
               "display": null
             }
@@ -20565,12 +20565,12 @@
               "display": null
             },
             {
-              "name": "Recover 50 Endurance after casting an Execution Skill.",
+              "name": "Casting an Execution Skill restores 50 Endurance.",
               "max": 1,
               "display": null
             },
             {
-              "name": "Recovers 20 Vitality after casting an Execution Skill. For the next 8 seconds, granting healing recovers an additional 2 Vitality. Triggers up to 5 times.",
+              "name": "Casting an Execution Skill restores 20 Vitality. For the next 8s, healing also restores 2 Vitality, up to 5 times.",
               "max": 1,
               "display": null
             },
@@ -20595,12 +20595,12 @@
               "display": null
             },
             {
-              "name": "Recover 50 Endurance and gain Tenacity for 3 seconds after casting an Execution Skill.",
+              "name": "Casting an Execution Skill restores 50 Endurance and grants Tenacity for 3s.",
               "max": 1,
               "display": null
             },
             {
-              "name": "Recovers 20 Vitality after casting an Execution Skill. For the next 8 seconds, increases the Mystic Skill damage by 20% and recovers an additional 2 Vitality when healing other units. Triggers up to 5 times.",
+              "name": "Casting an Execution Skill restores 20 Vitality. For the next 8s, Mystic Skill damage increases 20％ and healing restores 2 Vitality, up to 5 times.",
               "max": 1,
               "display": null
             }
@@ -20786,12 +20786,12 @@
               "display": null
             },
             {
-              "name": "Recover 50 Endurance after casting an Execution Skill.",
+              "name": "Casting an Execution Skill restores 50 Endurance.",
               "max": 1,
               "display": null
             },
             {
-              "name": "Recovers 20 Vitality after casting an Execution Skill. For the next 8 seconds, granting healing recovers an additional 2 Vitality. Triggers up to 5 times.",
+              "name": "Casting an Execution Skill restores 20 Vitality. For the next 8s, healing also restores 2 Vitality, up to 5 times.",
               "max": 1,
               "display": null
             },
@@ -20816,12 +20816,12 @@
               "display": null
             },
             {
-              "name": "Recover 50 Endurance and gain Tenacity for 3 seconds after casting an Execution Skill.",
+              "name": "Casting an Execution Skill restores 50 Endurance and grants Tenacity for 3s.",
               "max": 1,
               "display": null
             },
             {
-              "name": "Recovers 20 Vitality after casting an Execution Skill. For the next 8 seconds, increases the Mystic Skill damage by 20% and recovers an additional 2 Vitality when healing other units. Triggers up to 5 times.",
+              "name": "Casting an Execution Skill restores 20 Vitality. For the next 8s, Mystic Skill damage increases 20％ and healing restores 2 Vitality, up to 5 times.",
               "max": 1,
               "display": null
             }
@@ -21007,12 +21007,12 @@
               "display": null
             },
             {
-              "name": "Recover 50 Endurance after casting an Execution Skill.",
+              "name": "Casting an Execution Skill restores 50 Endurance.",
               "max": 1,
               "display": null
             },
             {
-              "name": "Recovers 20 Vitality after casting an Execution Skill. For the next 8 seconds, granting healing recovers an additional 2 Vitality. Triggers up to 5 times.",
+              "name": "Casting an Execution Skill restores 20 Vitality. For the next 8s, healing also restores 2 Vitality, up to 5 times.",
               "max": 1,
               "display": null
             },
@@ -21037,12 +21037,12 @@
               "display": null
             },
             {
-              "name": "Recover 50 Endurance and gain Tenacity for 3 seconds after casting an Execution Skill.",
+              "name": "Casting an Execution Skill restores 50 Endurance and grants Tenacity for 3s.",
               "max": 1,
               "display": null
             },
             {
-              "name": "Recovers 20 Vitality after casting an Execution Skill. For the next 8 seconds, increases the Mystic Skill damage by 20% and recovers an additional 2 Vitality when healing other units. Triggers up to 5 times.",
+              "name": "Casting an Execution Skill restores 20 Vitality. For the next 8s, Mystic Skill damage increases 20％ and healing restores 2 Vitality, up to 5 times.",
               "max": 1,
               "display": null
             }
@@ -21228,12 +21228,12 @@
               "display": null
             },
             {
-              "name": "Recover 50 Endurance after casting an Execution Skill.",
+              "name": "Casting an Execution Skill restores 50 Endurance.",
               "max": 1,
               "display": null
             },
             {
-              "name": "Recovers 20 Vitality after casting an Execution Skill. For the next 8 seconds, granting healing recovers an additional 2 Vitality. Triggers up to 5 times.",
+              "name": "Casting an Execution Skill restores 20 Vitality. For the next 8s, healing also restores 2 Vitality, up to 5 times.",
               "max": 1,
               "display": null
             },
@@ -21258,12 +21258,12 @@
               "display": null
             },
             {
-              "name": "Recover 50 Endurance and gain Tenacity for 3 seconds after casting an Execution Skill.",
+              "name": "Casting an Execution Skill restores 50 Endurance and grants Tenacity for 3s.",
               "max": 1,
               "display": null
             },
             {
-              "name": "Recovers 20 Vitality after casting an Execution Skill. For the next 8 seconds, increases the Mystic Skill damage by 20% and recovers an additional 2 Vitality when healing other units. Triggers up to 5 times.",
+              "name": "Casting an Execution Skill restores 20 Vitality. For the next 8s, Mystic Skill damage increases 20％ and healing restores 2 Vitality, up to 5 times.",
               "max": 1,
               "display": null
             }
@@ -21429,32 +21429,32 @@
           "name": "Helmet Arena Attune",
           "affixes": [
             {
-              "name": "When you remove your stagger or control effect with a Control-Removing Skill, gain Tenacity for 2 seconds after the Super Armor wears off.",
+              "name": "Using a Break Control Skill to remove Stagger or control effects grants Tenacity for 2s after Super Armor ends.",
               "max": 1,
               "display": null
             },
             {
-              "name": "When you remove your stagger or control effect with a Control-Removing Skill, recover 30 Endurance.",
+              "name": "Using a Break Control Skill to remove Stagger or control effects recovers 30 Endurance.",
               "max": 1,
               "display": null
             },
             {
-              "name": "When you remove your stagger or control effect with a Control-Removing Skill, increase your Qi damage by 20% over the next 5 seconds.",
+              "name": "Using a Break Control Skill to remove Stagger or control effects increases your Qi damage by 20% over the next 5 seconds.",
               "max": 1,
               "display": null
             },
             {
-              "name": "When you remove your stagger or control effect with a Control-Removing Skill, gain Tenacity for 2.8 seconds after the Super Armor wears off.",
+              "name": "Using a Break Control Skill to remove Stagger or control effects gains Tenacity for 2.8 seconds after the Super Armor wears off.",
               "max": 1,
               "display": null
             },
             {
-              "name": "When a Break Control Skill successfully removes a Stagger or Crowd Control effect, recovers 30 Endurance and reduces the Break Control skill's cooldown by 4 seconds. Attuning effects can reduce the cooldown of Break Control skills by up to 4 seconds.",
+              "name": "Using a Break Control Skill to remove Stagger or control effects restores 30 Endurance and reduces its cooldown by 4s. Attuning effects can reduce the cooldown of Break Control Skills by up to 4s.",
               "max": 1,
               "display": null
             },
             {
-              "name": "When you remove your stagger or control effect with a Control-Removing Skill, increase your HP damage and Qi damage by 20% over the next 5 seconds.",
+              "name": "Using a Break Control Skill to remove Stagger or control effects increases your HP damage and Qi damage by 20% over the next 5 seconds.",
               "max": 1,
               "display": null
             }
@@ -21907,12 +21907,12 @@
               "display": null
             },
             {
-              "name": "Reduce Mystic Skill damage taken by 25%.",
+              "name": "Reduces damage taken from Mystic Skills by 25%.",
               "max": 1,
               "display": null
             },
             {
-              "name": "Reduces Martial Arts damage taken by 25%.",
+              "name": "Reduces damage taken from Martial Arts by 25%.",
               "max": 1,
               "display": null
             },
@@ -21922,12 +21922,12 @@
               "display": null
             },
             {
-              "name": "Reduce Mystic Skill damage taken by 35%.",
+              "name": "Reduces damage taken from Mystic Skills by 35%.",
               "max": 1,
               "display": null
             },
             {
-              "name": "Reduces Martial Arts damage taken by 35%.",
+              "name": "Reduces damage taken from Martial Arts by 35%.",
               "max": 1,
               "display": null
             }
@@ -24495,12 +24495,12 @@
               "display": null
             },
             {
-              "name": "Recover 50 Endurance after casting an Execution Skill.",
+              "name": "Casting an Execution Skill restores 50 Endurance.",
               "max": 1,
               "display": null
             },
             {
-              "name": "Recovers 20 Vitality after casting an Execution Skill. For the next 8 seconds, granting healing recovers an additional 2 Vitality. Triggers up to 5 times.",
+              "name": "Casting an Execution Skill restores 20 Vitality. For the next 8s, healing also restores 2 Vitality, up to 5 times.",
               "max": 1,
               "display": null
             },
@@ -24525,12 +24525,12 @@
               "display": null
             },
             {
-              "name": "Recover 50 Endurance and gain Tenacity for 3 seconds after casting an Execution Skill.",
+              "name": "Casting an Execution Skill restores 50 Endurance and grants Tenacity for 3s.",
               "max": 1,
               "display": null
             },
             {
-              "name": "Recovers 20 Vitality after casting an Execution Skill. For the next 8 seconds, increases the Mystic Skill damage by 20% and recovers an additional 2 Vitality when healing other units. Triggers up to 5 times.",
+              "name": "Casting an Execution Skill restores 20 Vitality. For the next 8s, Mystic Skill damage increases 20％ and healing restores 2 Vitality, up to 5 times.",
               "max": 1,
               "display": null
             }
@@ -24706,12 +24706,12 @@
               "display": null
             },
             {
-              "name": "Recover 50 Endurance after casting an Execution Skill.",
+              "name": "Casting an Execution Skill restores 50 Endurance.",
               "max": 1,
               "display": null
             },
             {
-              "name": "Recovers 20 Vitality after casting an Execution Skill. For the next 8 seconds, granting healing recovers an additional 2 Vitality. Triggers up to 5 times.",
+              "name": "Casting an Execution Skill restores 20 Vitality. For the next 8s, healing also restores 2 Vitality, up to 5 times.",
               "max": 1,
               "display": null
             },
@@ -24736,12 +24736,12 @@
               "display": null
             },
             {
-              "name": "Recover 50 Endurance and gain Tenacity for 3 seconds after casting an Execution Skill.",
+              "name": "Casting an Execution Skill restores 50 Endurance and grants Tenacity for 3s.",
               "max": 1,
               "display": null
             },
             {
-              "name": "Recovers 20 Vitality after casting an Execution Skill. For the next 8 seconds, increases the Mystic Skill damage by 20% and recovers an additional 2 Vitality when healing other units. Triggers up to 5 times.",
+              "name": "Casting an Execution Skill restores 20 Vitality. For the next 8s, Mystic Skill damage increases 20％ and healing restores 2 Vitality, up to 5 times.",
               "max": 1,
               "display": null
             }
@@ -24917,12 +24917,12 @@
               "display": null
             },
             {
-              "name": "Recover 50 Endurance after casting an Execution Skill.",
+              "name": "Casting an Execution Skill restores 50 Endurance.",
               "max": 1,
               "display": null
             },
             {
-              "name": "Recovers 20 Vitality after casting an Execution Skill. For the next 8 seconds, granting healing recovers an additional 2 Vitality. Triggers up to 5 times.",
+              "name": "Casting an Execution Skill restores 20 Vitality. For the next 8s, healing also restores 2 Vitality, up to 5 times.",
               "max": 1,
               "display": null
             },
@@ -24947,12 +24947,12 @@
               "display": null
             },
             {
-              "name": "Recover 50 Endurance and gain Tenacity for 3 seconds after casting an Execution Skill.",
+              "name": "Casting an Execution Skill restores 50 Endurance and grants Tenacity for 3s.",
               "max": 1,
               "display": null
             },
             {
-              "name": "Recovers 20 Vitality after casting an Execution Skill. For the next 8 seconds, increases the Mystic Skill damage by 20% and recovers an additional 2 Vitality when healing other units. Triggers up to 5 times.",
+              "name": "Casting an Execution Skill restores 20 Vitality. For the next 8s, Mystic Skill damage increases 20％ and healing restores 2 Vitality, up to 5 times.",
               "max": 1,
               "display": null
             }
@@ -25128,12 +25128,12 @@
               "display": null
             },
             {
-              "name": "Recover 50 Endurance after casting an Execution Skill.",
+              "name": "Casting an Execution Skill restores 50 Endurance.",
               "max": 1,
               "display": null
             },
             {
-              "name": "Recovers 20 Vitality after casting an Execution Skill. For the next 8 seconds, granting healing recovers an additional 2 Vitality. Triggers up to 5 times.",
+              "name": "Casting an Execution Skill restores 20 Vitality. For the next 8s, healing also restores 2 Vitality, up to 5 times.",
               "max": 1,
               "display": null
             },
@@ -25158,12 +25158,12 @@
               "display": null
             },
             {
-              "name": "Recover 50 Endurance and gain Tenacity for 3 seconds after casting an Execution Skill.",
+              "name": "Casting an Execution Skill restores 50 Endurance and grants Tenacity for 3s.",
               "max": 1,
               "display": null
             },
             {
-              "name": "Recovers 20 Vitality after casting an Execution Skill. For the next 8 seconds, increases the Mystic Skill damage by 20% and recovers an additional 2 Vitality when healing other units. Triggers up to 5 times.",
+              "name": "Casting an Execution Skill restores 20 Vitality. For the next 8s, Mystic Skill damage increases 20％ and healing restores 2 Vitality, up to 5 times.",
               "max": 1,
               "display": null
             }
@@ -25339,12 +25339,12 @@
               "display": null
             },
             {
-              "name": "Recover 50 Endurance after casting an Execution Skill.",
+              "name": "Casting an Execution Skill restores 50 Endurance.",
               "max": 1,
               "display": null
             },
             {
-              "name": "Recovers 20 Vitality after casting an Execution Skill. For the next 8 seconds, granting healing recovers an additional 2 Vitality. Triggers up to 5 times.",
+              "name": "Casting an Execution Skill restores 20 Vitality. For the next 8s, healing also restores 2 Vitality, up to 5 times.",
               "max": 1,
               "display": null
             },
@@ -25369,12 +25369,12 @@
               "display": null
             },
             {
-              "name": "Recover 50 Endurance and gain Tenacity for 3 seconds after casting an Execution Skill.",
+              "name": "Casting an Execution Skill restores 50 Endurance and grants Tenacity for 3s.",
               "max": 1,
               "display": null
             },
             {
-              "name": "Recovers 20 Vitality after casting an Execution Skill. For the next 8 seconds, increases the Mystic Skill damage by 20% and recovers an additional 2 Vitality when healing other units. Triggers up to 5 times.",
+              "name": "Casting an Execution Skill restores 20 Vitality. For the next 8s, Mystic Skill damage increases 20％ and healing restores 2 Vitality, up to 5 times.",
               "max": 1,
               "display": null
             }
@@ -25550,12 +25550,12 @@
               "display": null
             },
             {
-              "name": "Recover 50 Endurance after casting an Execution Skill.",
+              "name": "Casting an Execution Skill restores 50 Endurance.",
               "max": 1,
               "display": null
             },
             {
-              "name": "Recovers 20 Vitality after casting an Execution Skill. For the next 8 seconds, granting healing recovers an additional 2 Vitality. Triggers up to 5 times.",
+              "name": "Casting an Execution Skill restores 20 Vitality. For the next 8s, healing also restores 2 Vitality, up to 5 times.",
               "max": 1,
               "display": null
             },
@@ -25580,12 +25580,12 @@
               "display": null
             },
             {
-              "name": "Recover 50 Endurance and gain Tenacity for 3 seconds after casting an Execution Skill.",
+              "name": "Casting an Execution Skill restores 50 Endurance and grants Tenacity for 3s.",
               "max": 1,
               "display": null
             },
             {
-              "name": "Recovers 20 Vitality after casting an Execution Skill. For the next 8 seconds, increases the Mystic Skill damage by 20% and recovers an additional 2 Vitality when healing other units. Triggers up to 5 times.",
+              "name": "Casting an Execution Skill restores 20 Vitality. For the next 8s, Mystic Skill damage increases 20％ and healing restores 2 Vitality, up to 5 times.",
               "max": 1,
               "display": null
             }
@@ -25761,12 +25761,12 @@
               "display": null
             },
             {
-              "name": "Recover 50 Endurance after casting an Execution Skill.",
+              "name": "Casting an Execution Skill restores 50 Endurance.",
               "max": 1,
               "display": null
             },
             {
-              "name": "Recovers 20 Vitality after casting an Execution Skill. For the next 8 seconds, granting healing recovers an additional 2 Vitality. Triggers up to 5 times.",
+              "name": "Casting an Execution Skill restores 20 Vitality. For the next 8s, healing also restores 2 Vitality, up to 5 times.",
               "max": 1,
               "display": null
             },
@@ -25791,12 +25791,12 @@
               "display": null
             },
             {
-              "name": "Recover 50 Endurance and gain Tenacity for 3 seconds after casting an Execution Skill.",
+              "name": "Casting an Execution Skill restores 50 Endurance and grants Tenacity for 3s.",
               "max": 1,
               "display": null
             },
             {
-              "name": "Recovers 20 Vitality after casting an Execution Skill. For the next 8 seconds, increases the Mystic Skill damage by 20% and recovers an additional 2 Vitality when healing other units. Triggers up to 5 times.",
+              "name": "Casting an Execution Skill restores 20 Vitality. For the next 8s, Mystic Skill damage increases 20％ and healing restores 2 Vitality, up to 5 times.",
               "max": 1,
               "display": null
             }
@@ -25972,12 +25972,12 @@
               "display": null
             },
             {
-              "name": "Recover 50 Endurance after casting an Execution Skill.",
+              "name": "Casting an Execution Skill restores 50 Endurance.",
               "max": 1,
               "display": null
             },
             {
-              "name": "Recovers 20 Vitality after casting an Execution Skill. For the next 8 seconds, granting healing recovers an additional 2 Vitality. Triggers up to 5 times.",
+              "name": "Casting an Execution Skill restores 20 Vitality. For the next 8s, healing also restores 2 Vitality, up to 5 times.",
               "max": 1,
               "display": null
             },
@@ -26002,12 +26002,12 @@
               "display": null
             },
             {
-              "name": "Recover 50 Endurance and gain Tenacity for 3 seconds after casting an Execution Skill.",
+              "name": "Casting an Execution Skill restores 50 Endurance and grants Tenacity for 3s.",
               "max": 1,
               "display": null
             },
             {
-              "name": "Recovers 20 Vitality after casting an Execution Skill. For the next 8 seconds, increases the Mystic Skill damage by 20% and recovers an additional 2 Vitality when healing other units. Triggers up to 5 times.",
+              "name": "Casting an Execution Skill restores 20 Vitality. For the next 8s, Mystic Skill damage increases 20％ and healing restores 2 Vitality, up to 5 times.",
               "max": 1,
               "display": null
             }
@@ -26183,12 +26183,12 @@
               "display": null
             },
             {
-              "name": "Recover 50 Endurance after casting an Execution Skill.",
+              "name": "Casting an Execution Skill restores 50 Endurance.",
               "max": 1,
               "display": null
             },
             {
-              "name": "Recovers 20 Vitality after casting an Execution Skill. For the next 8 seconds, granting healing recovers an additional 2 Vitality. Triggers up to 5 times.",
+              "name": "Casting an Execution Skill restores 20 Vitality. For the next 8s, healing also restores 2 Vitality, up to 5 times.",
               "max": 1,
               "display": null
             },
@@ -26213,12 +26213,12 @@
               "display": null
             },
             {
-              "name": "Recover 50 Endurance and gain Tenacity for 3 seconds after casting an Execution Skill.",
+              "name": "Casting an Execution Skill restores 50 Endurance and grants Tenacity for 3s.",
               "max": 1,
               "display": null
             },
             {
-              "name": "Recovers 20 Vitality after casting an Execution Skill. For the next 8 seconds, increases the Mystic Skill damage by 20% and recovers an additional 2 Vitality when healing other units. Triggers up to 5 times.",
+              "name": "Casting an Execution Skill restores 20 Vitality. For the next 8s, Mystic Skill damage increases 20％ and healing restores 2 Vitality, up to 5 times.",
               "max": 1,
               "display": null
             }

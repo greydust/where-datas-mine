@@ -890,7 +890,7 @@
                   "name": "Silkbind Attribute UP",
                   "descriptions": [
                     {
-                      "text": "Increases Silkbind Attack by 98-196.\nSilkbind DMG Bonus and Silkbind Healing Bonus increases by 0.0336 percentage points per Min Silkbind Attack, up to 11% at ≈327.381 Min Silkbind Attack.",
+                      "text": "Increases Silkbind Attack by 98-196.\nIncreases Silkbind DMG Bonus and Silkbind Healing Bonus based on Min Silkbind Attack. Maximum bonus requires 328 Min Silkbind Attack.",
                       "colors": [
                         {
                           "start": 29,
@@ -903,38 +903,23 @@
                           "kind": "highlight"
                         },
                         {
-                          "start": 37,
-                          "end": 55,
+                          "start": 47,
+                          "end": 65,
                           "kind": "reference"
                         },
                         {
-                          "start": 60,
-                          "end": 82,
+                          "start": 70,
+                          "end": 92,
                           "kind": "reference"
                         },
                         {
-                          "start": 96,
-                          "end": 102,
+                          "start": 146,
+                          "end": 149,
                           "kind": "highlight"
                         },
                         {
-                          "start": 125,
-                          "end": 144,
-                          "kind": "reference"
-                        },
-                        {
-                          "start": 152,
-                          "end": 155,
-                          "kind": "highlight"
-                        },
-                        {
-                          "start": 159,
-                          "end": 167,
-                          "kind": "highlight"
-                        },
-                        {
-                          "start": 168,
-                          "end": 187,
+                          "start": 150,
+                          "end": 169,
                           "kind": "reference"
                         }
                       ]
@@ -1455,6 +1440,205 @@
                           "kind": "reference"
                         }
                       ]
+                    },
+                    {
+                      "text": "Increases Max Physical Attack based on the higher value between Body or Power. Maximum bonus requires 280 Body or Power.",
+                      "colors": [
+                        {
+                          "start": 10,
+                          "end": 29,
+                          "kind": "reference"
+                        },
+                        {
+                          "start": 102,
+                          "end": 105,
+                          "kind": "highlight"
+                        },
+                        {
+                          "start": 106,
+                          "end": 110,
+                          "kind": "reference"
+                        },
+                        {
+                          "start": 114,
+                          "end": 119,
+                          "kind": "reference"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "Charge Critical Hit Enhancement",
+                  "descriptions": [
+                    {
+                      "text": "Increases the Critical Rate of Thundercry Blade's Charged Skill and related Varied Combo by 9%. For every 6,000 Max HP, further increases their Critical Rate by 1%, up to 15% at 90000 Max HP.",
+                      "colors": [
+                        {
+                          "start": 92,
+                          "end": 94,
+                          "kind": "highlight"
+                        },
+                        {
+                          "start": 171,
+                          "end": 174,
+                          "kind": "highlight"
+                        },
+                        {
+                          "start": 178,
+                          "end": 183,
+                          "kind": "highlight"
+                        },
+                        {
+                          "start": 184,
+                          "end": 190,
+                          "kind": "reference"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "Stonesplit Attribute UP",
+                  "descriptions": [
+                    {
+                      "text": "Increases Stonesplit Attack by 98-196.\nStonesplit Penetration increases by 0.0672 per Min Stonesplit Attack, up to 22 at ≈327.381 Min Stonesplit Attack.",
+                      "colors": [
+                        {
+                          "start": 31,
+                          "end": 33,
+                          "kind": "highlight"
+                        },
+                        {
+                          "start": 34,
+                          "end": 37,
+                          "kind": "highlight"
+                        },
+                        {
+                          "start": 39,
+                          "end": 61,
+                          "kind": "reference"
+                        },
+                        {
+                          "start": 75,
+                          "end": 81,
+                          "kind": "highlight"
+                        },
+                        {
+                          "start": 86,
+                          "end": 107,
+                          "kind": "reference"
+                        },
+                        {
+                          "start": 115,
+                          "end": 117,
+                          "kind": "highlight"
+                        },
+                        {
+                          "start": 121,
+                          "end": 129,
+                          "kind": "highlight"
+                        },
+                        {
+                          "start": 130,
+                          "end": 151,
+                          "kind": "reference"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "Attr. Attack DMG UP",
+                  "descriptions": [
+                    {
+                      "text": "All skills deal damage based on Attribute Attack, while Stonesplit Attack deals 50% bonus damage.",
+                      "colors": [
+                        {
+                          "start": 56,
+                          "end": 73,
+                          "kind": "reference"
+                        },
+                        {
+                          "start": 80,
+                          "end": 83,
+                          "kind": "highlight"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "talents": [
+                {
+                  "name": "Charge Calculation Enhancement",
+                  "descriptions": [
+                    {
+                      "text": "Thundercry Blade's Charged Skill and Varied Combo will never become Abrasion and deal 10% more Critical DMG. Increases the Max Physical Attack used in calculating the damage by 4 for every 5,000 Max HP, up to 120 Max Physical Attack at 150000 Max HP.",
+                      "colors": [
+                        {
+                          "start": 55,
+                          "end": 76,
+                          "kind": "highlight"
+                        },
+                        {
+                          "start": 86,
+                          "end": 89,
+                          "kind": "highlight"
+                        },
+                        {
+                          "start": 123,
+                          "end": 142,
+                          "kind": "reference"
+                        },
+                        {
+                          "start": 209,
+                          "end": 212,
+                          "kind": "highlight"
+                        },
+                        {
+                          "start": 236,
+                          "end": 242,
+                          "kind": "highlight"
+                        },
+                        {
+                          "start": 243,
+                          "end": 249,
+                          "kind": "reference"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "Physical Attack UP",
+                  "descriptions": [
+                    {
+                      "text": "Increases Max Physical Attack based on the higher value between Body or Power. Maximum bonus requires 280 Body or Power.",
+                      "colors": [
+                        {
+                          "start": 10,
+                          "end": 29,
+                          "kind": "reference"
+                        },
+                        {
+                          "start": 102,
+                          "end": 105,
+                          "kind": "highlight"
+                        },
+                        {
+                          "start": 106,
+                          "end": 110,
+                          "kind": "reference"
+                        },
+                        {
+                          "start": 114,
+                          "end": 119,
+                          "kind": "reference"
+                        }
+                      ]
                     }
                   ]
                 },
@@ -1929,7 +2113,11 @@
     },
     {
       "name": "Riven Twinblades",
-      "descriptions": [],
+      "descriptions": [
+        {
+          "text": "When the Khitan cavalry swept into Qinghe, Qiu Yuehai answered Lie Yan's call, joining blades to hold back the foreign tide.\nThat night, deep in the Verdant Wilds, Lie Yan built a campfire. With the earth as their seat and the vast night sky as their canopy, the two men sat across from one another and drank.\nBoth were once vagabonds, adrift in the jianghu. Yet, drawn together by a single cause, they found an instant kinship, like old friends reunited.\nFlushed with wine, Qiu Yuehai leapt to his feet. With a sweeping flourish of his spear, he challenged Lie Yan to a test of skill. Heavy with drink, Lie Yan swayed, his drunken steps faltering. Yet in a flash, he drew his saber. The momentum of his blade was a ceaseless, unbroken dance, so fluid it seemed it could sever a flowing stream. He swept horizontally to parry the incoming thrusts, and slashed diagonally to break his opponent's charge. As their clashing silhouettes blurred together, even the cold moonlight seemed to flicker in their wake.\nThey traded blows to their hearts' content, perfectly matched and locked in a glorious stalemate. Even the taciturn Gu Le was spellbound. Only when the men finally lowered their weapons did he exhale in awe, asking, \"Brother Lie Yan, from what master did you learn such a blade technique?\"\n\"No master, no sect,\" Lie Yan said. \"It is merely something I stumbled upon in my lonely cups. Though, crossing blades with Brother Qiu tonight has certainly sharpened its edge.\" With a carefree smile, he tipped his jar and drained the last of the wine.\nA sudden gale swept across the plains, scattering the scent of wine as the wild grass bowed and rose again. Like the wind, the deeds of that night passed without a trace, leaving nothing behind save for the bright moon that once shone down upon them."
+        }
+      ],
       "tiers": [
         {
           "tier": 13,
@@ -3741,7 +3929,11 @@
     },
     {
       "name": "Skystrike Gauntlets",
-      "descriptions": [],
+      "descriptions": [
+        {
+          "text": "Li Keyong, the Prince of Jin, was as unpredictable as the shifting clouds. He would put Gao Siji to use one moment, only to send assassins under another general's banner to hunt him down the next. Gao Siji was driven to the absolute brink by this ruthless betrayal.\nHowever, a masked advisor in the Prince's inner circle secretly sent an agent with a message, helping Gao narrowly escape his doom. The agent brought a cloth bundle and relayed the advisor's words verbatim: \"Your loyalty to the realm is pure, and your spirit unbroken. You are not meant to die here.\"\nBut after surviving wave after wave of ambushes, Gao Siji was entirely spent, his spear shattered, his horse driven to exhaustion. Looking around in despair, abandoned by his lord, he realized that despite the vastness of the world, there was nowhere left for him to hide.\nHe opened the bundle. Inside were several meticulously drawn maps highlighting the weak points in the enemy's blockade, along with a single wine gourd.\nGao Siji was a man who loved his wine. Once, while sharing a drink with that very advisor, he had boldly boasted: \"Give me enough good wine to get properly drunk, and an army of thousands couldn't stop me!\"\nDid the scholar actually take him seriously? Did he really expect him to survive with nothing but his bare hands, fueled by nothing but a gourd of cheap brew, and fight his way to total freedom?\nGao pulled the stopper, threw his head back, and drained it in a single gulp.\nAs the wine burned down his throat, a thought struck him: If there is still someone in this world who believes in me this much, how can I let them down? With only his bare fists for weapons and the wine's fire for strength, he roared: \"Watch me break your lines!\"\n\n\"So did Great-Grandpa actually get away or what?!\"\nShi Yimo couldn't stand it when her father left stories on a cliffhanger, begging him to finish the tale.\nShi Jiuge glanced up at the old gourd hanging on the wall, a treasured heirloom of Crossblade Manor, and stood up to tuck his little girl into bed.\n\"Alright, you little troublemaker, that's enough for today! If you're a good girl and go to sleep for your mother, I'll tell you the rest tomorrow.\""
+        }
+      ],
       "tiers": [
         {
           "tier": 13,
