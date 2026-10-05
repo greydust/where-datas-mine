@@ -6,7 +6,7 @@
   <h4>Effective rates</h4>
   <p><code>Effective Affinity = min(max(Affinity / (1 + Judgement Resistance) − Affinity Resistance, 0%), 40%)</code></p>
   <p><code>Effective Critical = min(max(Critical / (1 + Judgement Resistance) + Raw Critical − Critical Resistance, 0%), 80%)</code></p>
-  <p><code>Effective Precision = min(max((Precision − 65%) / (1 + Judgement Resistance) + 65% + Raw Precision − Precision Resistance, 5%), 100%)</code></p>
+  <p><code>Effective Precision = min(max((Precision − 65%) / (1 + Judgement Resistance) + 65%, 5%), 100%)</code></p>
   <h4>Final rates</h4>
   <h5>Normal</h5>
   <p><code>Final Affinity = min(max(Effective Affinity + min(Direct Affinity, 10%), 0%), 100%)</code></p>
@@ -37,7 +37,7 @@
   <p><strong>Soaring High — Vile Condemned:</strong> converts up to 12% Affinity into Direct Critical, stopping at 20% Direct Critical. Unconverted Affinity is retained.</p>
   <p><code>Converted Affinity = min(Final Affinity, 12%, max(20% − Direct Critical, 0%))</code></p>
   <p><code>Affinity after conversion = Final Affinity − Converted Affinity</code></p>
-  <p><code>Direct Critical after conversion = min(Direct Critical + Converted Affinity, 20%)</code></p>
+  <p><code>Direct Critical after conversion = Direct Critical + Converted Affinity</code></p>
   <p>Use these adjusted rates when calculating Final Critical, Normal and Abrasion.</p>
   <p>For example: <code>80% Effective Critical + 9% Direct Critical + 12% Affinity → 80% Effective Critical + 20% Direct Critical + 1% Affinity</code></p>
   <h4>Raw Critical</h4>
