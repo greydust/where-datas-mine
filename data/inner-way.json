@@ -3590,6 +3590,11 @@
                 "kind": "highlight"
               },
               {
+                "start": 93,
+                "end": 106,
+                "kind": "cyan"
+              },
+              {
                 "start": 178,
                 "end": 194,
                 "kind": "highlight"
@@ -3694,6 +3699,11 @@
                 "start": 138,
                 "end": 139,
                 "kind": "highlight"
+              },
+              {
+                "start": 180,
+                "end": 193,
+                "kind": "cyan"
               },
               {
                 "start": 203,
@@ -5515,6 +5525,11 @@
             "text": "After casting a Dual-Weapon Skill, the previous Weapon Mastery effect will remain for 10 seconds.",
             "colors": [
               {
+                "start": 48,
+                "end": 69,
+                "kind": "cyan"
+              },
+              {
                 "start": 86,
                 "end": 88,
                 "kind": "highlight"
@@ -5538,9 +5553,24 @@
                 "kind": "highlight"
               },
               {
+                "start": 31,
+                "end": 36,
+                "kind": "cyan"
+              },
+              {
+                "start": 68,
+                "end": 81,
+                "kind": "cyan"
+              },
+              {
                 "start": 92,
                 "end": 94,
                 "kind": "highlight"
+              },
+              {
+                "start": 104,
+                "end": 117,
+                "kind": "cyan"
               },
               {
                 "start": 129,
@@ -5575,9 +5605,24 @@
                 "kind": "highlight"
               },
               {
+                "start": 31,
+                "end": 36,
+                "kind": "cyan"
+              },
+              {
+                "start": 68,
+                "end": 81,
+                "kind": "cyan"
+              },
+              {
                 "start": 92,
                 "end": 94,
                 "kind": "highlight"
+              },
+              {
+                "start": 104,
+                "end": 117,
+                "kind": "cyan"
               },
               {
                 "start": 129,
@@ -5604,6 +5649,11 @@
           {
             "text": "While in Concentration, if your HP is above 75%, damage dealt is increased by 1.5%. If your HP is at or below 75%, recover HP equal to 1.5% of damage dealt.",
             "colors": [
+              {
+                "start": 9,
+                "end": 22,
+                "kind": "cyan"
+              },
               {
                 "start": 44,
                 "end": 47,
@@ -5671,9 +5721,24 @@
                 "kind": "highlight"
               },
               {
+                "start": 31,
+                "end": 36,
+                "kind": "cyan"
+              },
+              {
+                "start": 68,
+                "end": 81,
+                "kind": "cyan"
+              },
+              {
                 "start": 92,
                 "end": 94,
                 "kind": "highlight"
+              },
+              {
+                "start": 104,
+                "end": 117,
+                "kind": "cyan"
               },
               {
                 "start": 129,
@@ -5700,6 +5765,11 @@
           {
             "text": "While in Concentration, increases Direct Affinity Rate of damage dealt by 1.5%, with an additional 1.5% increase when your HP is higher than the target's.",
             "colors": [
+              {
+                "start": 9,
+                "end": 22,
+                "kind": "cyan"
+              },
               {
                 "start": 34,
                 "end": 54,
@@ -5729,9 +5799,24 @@
                 "kind": "highlight"
               },
               {
+                "start": 31,
+                "end": 36,
+                "kind": "cyan"
+              },
+              {
+                "start": 68,
+                "end": 81,
+                "kind": "cyan"
+              },
+              {
                 "start": 92,
                 "end": 94,
                 "kind": "highlight"
+              },
+              {
+                "start": 104,
+                "end": 117,
+                "kind": "cyan"
               },
               {
                 "start": 129,
@@ -5758,6 +5843,11 @@
           {
             "text": "Focus accumulates 50% faster.",
             "colors": [
+              {
+                "start": 0,
+                "end": 5,
+                "kind": "cyan"
+              },
               {
                 "start": 18,
                 "end": 21,
@@ -5790,9 +5880,24 @@
                 "kind": "highlight"
               },
               {
+                "start": 31,
+                "end": 36,
+                "kind": "cyan"
+              },
+              {
+                "start": 68,
+                "end": 81,
+                "kind": "cyan"
+              },
+              {
                 "start": 92,
                 "end": 94,
                 "kind": "highlight"
+              },
+              {
+                "start": 104,
+                "end": 117,
+                "kind": "cyan"
               },
               {
                 "start": 129,
@@ -5819,6 +5924,11 @@
           {
             "text": "While Concentration is active, increases DoT and its empowered effects by 10%. Empowered DoT effects include: High Bleeding and Inner Way: Fivefold Bleed's Piercing Damage.",
             "colors": [
+              {
+                "start": 6,
+                "end": 19,
+                "kind": "cyan"
+              },
               {
                 "start": 41,
                 "end": 70,
@@ -5895,6 +6005,11 @@
             "text": "Casting Crosswind Blade restores 8 Endurance.",
             "colors": [
               {
+                "start": 8,
+                "end": 23,
+                "kind": "cyan"
+              },
+              {
                 "start": 33,
                 "end": 34,
                 "kind": "highlight"
@@ -5959,6 +6074,11 @@
                 "kind": "highlight"
               },
               {
+                "start": 45,
+                "end": 59,
+                "kind": "cyan"
+              },
+              {
                 "start": 82,
                 "end": 95,
                 "kind": "highlight"
@@ -6017,6 +6137,11 @@
             "text": "When Zenith Sword Spirit is not empty, the high Bleed damage is increased by a further 15%.",
             "colors": [
               {
+                "start": 0,
+                "end": 24,
+                "kind": "cyan"
+              },
+              {
                 "start": 43,
                 "end": 53,
                 "kind": "highlight"
@@ -6068,6 +6193,11 @@
             "text": "While you have Sword's Zenith, dealing High Bleeding damage retains 2 stacks of Bleeding on the target. After triggering the Affinity hit at max Sword's Zenith, you retain 20 Sword Spirit and continue to accumulate Sword Spirit from this High Bleeding damage.",
             "colors": [
               {
+                "start": 15,
+                "end": 29,
+                "kind": "cyan"
+              },
+              {
                 "start": 39,
                 "end": 52,
                 "kind": "highlight"
@@ -6076,6 +6206,11 @@
                 "start": 68,
                 "end": 69,
                 "kind": "highlight"
+              },
+              {
+                "start": 145,
+                "end": 159,
+                "kind": "cyan"
               },
               {
                 "start": 172,
