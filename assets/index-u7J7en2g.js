@@ -9,9 +9,9 @@
   <p><code>Effective Precision = min(max((Precision − 65%) / (1 + Judgement Resistance) + 65%, 5%), 100%)</code></p>
   <h4>Final rates</h4>
   <h5>Normal</h5>
-  <p><code>Final Affinity = min(max(Effective Affinity + min(Direct Affinity, 10%), 0%), 100%)</code></p>
-  <p><code>Final Critical = min(max(Effective Critical + min(Direct Critical, 20%), 0%), 100% − Final Affinity) × Effective Precision</code></p>
-  <p><code>Final Normal = (100% − min(Final Affinity + max(Effective Critical + min(Direct Critical, 20%), 0%), 100%)) × Effective Precision</code></p>
+  <p><code>Final Affinity = min(max(Effective Affinity + Direct Affinity, 0%), 100%)</code></p>
+  <p><code>Final Critical = min(max(Effective Critical + Direct Critical, 0%), 100% − Final Affinity) × Effective Precision</code></p>
+  <p><code>Final Normal = (100% − min(Final Affinity + max(Effective Critical + Direct Critical, 0%), 100%)) × Effective Precision</code></p>
   <p><code>Final Abrasion = (100% − Final Affinity) × (100% − Effective Precision)</code></p>
   <h5>Forced outcomes</h5>
   <ul>
