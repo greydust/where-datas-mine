@@ -89,7 +89,8 @@
                 ],
                 "levels": [
                   2261,
-                  2367
+                  2367,
+                  2553
                 ]
               }
             ]
@@ -335,7 +336,8 @@
                 ],
                 "levels": [
                   2261,
-                  2367
+                  2367,
+                  2553
                 ]
               }
             ]
@@ -529,7 +531,8 @@
                 ],
                 "levels": [
                   29.7,
-                  31.2
+                  31.2,
+                  33.6
                 ]
               }
             ]
@@ -725,7 +728,8 @@
                 ],
                 "levels": [
                   59.5,
-                  62.3
+                  62.3,
+                  67.2
                 ]
               }
             ]
@@ -906,7 +910,8 @@
                 ],
                 "levels": [
                   59.5,
-                  62.3
+                  62.3,
+                  67.2
                 ]
               }
             ]
@@ -1108,7 +1113,8 @@
                 ],
                 "levels": [
                   29.7,
-                  31.2
+                  31.2,
+                  33.6
                 ]
               }
             ]
@@ -1324,7 +1330,8 @@
                 ],
                 "levels": [
                   66.9,
-                  70.1
+                  70.1,
+                  75.6
                 ]
               }
             ]
@@ -1543,7 +1550,8 @@
                 ],
                 "levels": [
                   0.069,
-                  0.072
+                  0.072,
+                  0.078
                 ]
               }
             ]
@@ -1749,7 +1757,8 @@
                 ],
                 "levels": [
                   2543,
-                  2663
+                  2663,
+                  2872
                 ]
               }
             ]
@@ -1888,7 +1897,8 @@
                 ],
                 "levels": [
                   33.5,
-                  35
+                  35,
+                  37.8
                 ]
               }
             ]
@@ -2105,7 +2115,8 @@
                 ],
                 "levels": [
                   66.9,
-                  70.1
+                  70.1,
+                  75.6
                 ]
               }
             ]
@@ -2304,7 +2315,8 @@
                 ],
                 "levels": [
                   0.069,
-                  0.072
+                  0.072,
+                  0.078
                 ]
               }
             ]
@@ -2522,6 +2534,10 @@
                   [
                     23.3,
                     46.7
+                  ],
+                  [
+                    25.2,
+                    50.4
                   ]
                 ]
               }
@@ -2786,7 +2802,8 @@
                 ],
                 "levels": [
                   2543,
-                  2663
+                  2663,
+                  2872
                 ]
               }
             ]
@@ -3053,6 +3070,10 @@
                   [
                     25.9,
                     51.9
+                  ],
+                  [
+                    28,
+                    56
                   ]
                 ]
               }
@@ -3426,6 +3447,10 @@
                   [
                     25.9,
                     51.9
+                  ],
+                  [
+                    28,
+                    56
                   ]
                 ]
               }
@@ -3851,6 +3876,10 @@
                   [
                     13.3,
                     26.5
+                  ],
+                  [
+                    14.3,
+                    28.5
                   ]
                 ]
               }
@@ -4139,6 +4168,10 @@
                   [
                     23.3,
                     46.7
+                  ],
+                  [
+                    25.2,
+                    50.4
                   ]
                 ]
               }
@@ -4315,7 +4348,8 @@
                 ],
                 "levels": [
                   0.039,
-                  0.04
+                  0.04,
+                  0.044
                 ]
               }
             ]
@@ -4576,7 +4610,8 @@
                 ],
                 "levels": [
                   74.4,
-                  77.9
+                  77.9,
+                  84
                 ]
               }
             ]
@@ -4938,7 +4973,8 @@
                 ],
                 "levels": [
                   0.039,
-                  0.04
+                  0.04,
+                  0.044
                 ]
               }
             ]
@@ -5345,7 +5381,8 @@
                 ],
                 "levels": [
                   38,
-                  39.8
+                  39.8,
+                  42.9
                 ]
               }
             ]
@@ -5705,6 +5742,10 @@
                   [
                     23.3,
                     46.7
+                  ],
+                  [
+                    25.2,
+                    50.4
                   ]
                 ]
               }
@@ -6038,7 +6079,8 @@
                 ],
                 "levels": [
                   74.4,
-                  77.9
+                  77.9,
+                  84
                 ]
               }
             ]
@@ -6305,7 +6347,8 @@
                 ],
                 "levels": [
                   0.069,
-                  0.072
+                  0.072,
+                  0.078
                 ]
               }
             ]
@@ -6633,6 +6676,10 @@
                   [
                     23.3,
                     46.7
+                  ],
+                  [
+                    25.2,
+                    50.4
                   ]
                 ]
               }
@@ -6905,6 +6952,10 @@
                   [
                     23.3,
                     46.7
+                  ],
+                  [
+                    25.2,
+                    50.4
                   ]
                 ]
               }
@@ -7236,7 +7287,8 @@
                 ],
                 "levels": [
                   0.086,
-                  0.09
+                  0.09,
+                  0.097
                 ]
               }
             ]
@@ -7356,7 +7408,7 @@
             ]
           },
           {
-            "text": "In non-Arena modes, when Light Attack Charged Skill Spring Away or Special Skill Unfading Flower hits a target affected by your Combo, damage dealt increases by 5%, or 10% if the target is Exhausted. Spring Away’s maximum scatter targets also increase from 3 to 5.",
+            "text": "In non-Arena modes, when Light Attack Charged Skill Spring Away or Special Skill Unfading Flower hits a target affected by your Combo, damage dealt increases by 5% (increased to 10% if the target is exhausted, extending the Combo duration by 1s, with this extension triggering at most once every 0.5s). Additionally, the maximum number of targets for Spring Away scatter is increased from 3 to 5.",
             "colors": [
               {
                 "start": 52,
@@ -7379,23 +7431,33 @@
                 "kind": "highlight"
               },
               {
-                "start": 168,
-                "end": 171,
+                "start": 178,
+                "end": 181,
                 "kind": "highlight"
               },
               {
-                "start": 200,
-                "end": 213,
+                "start": 224,
+                "end": 229,
+                "kind": "highlight"
+              },
+              {
+                "start": 242,
+                "end": 243,
+                "kind": "highlight"
+              },
+              {
+                "start": 351,
+                "end": 362,
                 "kind": "reference"
               },
               {
-                "start": 257,
-                "end": 258,
+                "start": 389,
+                "end": 390,
                 "kind": "highlight"
               },
               {
-                "start": 262,
-                "end": 263,
+                "start": 394,
+                "end": 395,
                 "kind": "highlight"
               }
             ],
@@ -7587,7 +7649,8 @@
                 ],
                 "levels": [
                   0.086,
-                  0.09
+                  0.09,
+                  0.097
                 ]
               }
             ]
@@ -7854,7 +7917,8 @@
                 ],
                 "levels": [
                   38,
-                  39.8
+                  39.8,
+                  42.9
                 ]
               }
             ]
@@ -8104,7 +8168,8 @@
                 ],
                 "levels": [
                   0.077,
-                  0.081
+                  0.081,
+                  0.087
                 ]
               }
             ]
@@ -8228,7 +8293,7 @@
       "tiers": [
         [
           {
-            "text": "Casting Soulshade Umbrella's Special Skill, Echoing Grow restores 5 Dew and additionally heals 10% of your Max HP for every 100 Dew consumed.",
+            "text": "Casting Soulshade Umbrella's Special Skill, Herbal Resonance restores 5 Dew and additionally heals 10% of your Max HP for every 100 Dew consumed.",
             "colors": [
               {
                 "start": 8,
@@ -8237,27 +8302,27 @@
               },
               {
                 "start": 44,
-                "end": 56,
+                "end": 60,
                 "kind": "reference"
               },
               {
-                "start": 68,
-                "end": 71,
+                "start": 72,
+                "end": 75,
                 "kind": "highlight"
               },
               {
-                "start": 95,
-                "end": 98,
-                "kind": "highlight"
-              },
-              {
-                "start": 124,
-                "end": 127,
+                "start": 99,
+                "end": 102,
                 "kind": "highlight"
               },
               {
                 "start": 128,
                 "end": 131,
+                "kind": "highlight"
+              },
+              {
+                "start": 132,
+                "end": 135,
                 "kind": "highlight"
               }
             ]
@@ -8265,7 +8330,7 @@
         ],
         [
           {
-            "text": "Reduces the cooldown of Soulshade Umbrella's Special Skill, Echoing Grow to 1 second. Casting this skill restores 5 Dew and additionally heals 10% of your Max HP for every 100 Dew consumed.",
+            "text": "Reduces the cooldown of Soulshade Umbrella's Special Skill, Herbal Resonance to 1 second. Casting this skill restores 5 Dew and additionally heals 10% of your Max HP for every 100 Dew consumed.",
             "colors": [
               {
                 "start": 24,
@@ -8274,27 +8339,27 @@
               },
               {
                 "start": 60,
-                "end": 72,
+                "end": 76,
                 "kind": "reference"
               },
               {
-                "start": 116,
-                "end": 119,
+                "start": 120,
+                "end": 123,
                 "kind": "highlight"
               },
               {
-                "start": 143,
-                "end": 146,
-                "kind": "highlight"
-              },
-              {
-                "start": 172,
-                "end": 175,
+                "start": 147,
+                "end": 150,
                 "kind": "highlight"
               },
               {
                 "start": 176,
                 "end": 179,
+                "kind": "highlight"
+              },
+              {
+                "start": 180,
+                "end": 183,
                 "kind": "highlight"
               }
             ]
@@ -8327,6 +8392,10 @@
                   [
                     23.3,
                     46.7
+                  ],
+                  [
+                    25.2,
+                    50.4
                   ]
                 ]
               }
@@ -8393,7 +8462,7 @@
         ],
         [
           {
-            "text": "Reduces the cooldown of Soulshade Umbrella's Special Skill, Echoing Grow to 1 second and increases its range of detecting low-HP allies by 50%. Casting this skill restores 5 Dew and additionally heals 10% of your Max HP for every 50 Dew consumed.",
+            "text": "Reduces the cooldown of Soulshade Umbrella's Special Skill, Herbal Resonance to 1 second and increases its range of detecting low-HP allies by 50%. Casting this skill restores 5 Dew and additionally heals 10% of your Max HP for every 50 Dew consumed.",
             "colors": [
               {
                 "start": 24,
@@ -8402,32 +8471,32 @@
               },
               {
                 "start": 60,
-                "end": 72,
+                "end": 76,
                 "kind": "reference"
               },
               {
-                "start": 139,
-                "end": 142,
+                "start": 143,
+                "end": 146,
                 "kind": "highlight"
               },
               {
-                "start": 174,
-                "end": 177,
+                "start": 178,
+                "end": 181,
                 "kind": "highlight"
               },
               {
-                "start": 201,
-                "end": 204,
+                "start": 205,
+                "end": 208,
                 "kind": "highlight"
               },
               {
-                "start": 230,
-                "end": 232,
-                "kind": "highlight"
-              },
-              {
-                "start": 233,
+                "start": 234,
                 "end": 236,
+                "kind": "highlight"
+              },
+              {
+                "start": 237,
+                "end": 240,
                 "kind": "highlight"
               }
             ]
@@ -8448,7 +8517,7 @@
         ],
         [
           {
-            "text": "Reduces the cooldown of Soulshade Umbrella's Special Skill, Echoing Grow to 1 second and increases its range of detecting low-HP allies by 50%. Casting this skill restores 5 Dew and additionally heals 10% of your Max HP for every 50 Dew consumed.",
+            "text": "Reduces the cooldown of Soulshade Umbrella's Special Skill, Herbal Resonance to 1 second and increases its range of detecting low-HP allies by 50%. Casting this skill restores 5 Dew and additionally heals 10% of your Max HP for every 50 Dew consumed.",
             "colors": [
               {
                 "start": 24,
@@ -8457,32 +8526,32 @@
               },
               {
                 "start": 60,
-                "end": 72,
+                "end": 76,
                 "kind": "reference"
               },
               {
-                "start": 139,
-                "end": 142,
+                "start": 143,
+                "end": 146,
                 "kind": "highlight"
               },
               {
-                "start": 174,
-                "end": 177,
+                "start": 178,
+                "end": 181,
                 "kind": "highlight"
               },
               {
-                "start": 201,
-                "end": 204,
+                "start": 205,
+                "end": 208,
                 "kind": "highlight"
               },
               {
-                "start": 230,
-                "end": 232,
-                "kind": "highlight"
-              },
-              {
-                "start": 233,
+                "start": 234,
                 "end": 236,
+                "kind": "highlight"
+              },
+              {
+                "start": 237,
+                "end": 240,
                 "kind": "highlight"
               }
             ]
@@ -8679,7 +8748,8 @@
                 ],
                 "levels": [
                   0.086,
-                  0.09
+                  0.09,
+                  0.097
                 ]
               }
             ]
@@ -9050,7 +9120,8 @@
                 ],
                 "levels": [
                   2543,
-                  2663
+                  2663,
+                  2872
                 ]
               }
             ]
@@ -9273,6 +9344,10 @@
                   [
                     13.3,
                     26.5
+                  ],
+                  [
+                    14.3,
+                    28.5
                   ]
                 ]
               }
@@ -9519,7 +9594,8 @@
                 ],
                 "levels": [
                   2543,
-                  2663
+                  2663,
+                  2872
                 ]
               }
             ]
@@ -9865,7 +9941,8 @@
                 ],
                 "levels": [
                   0.086,
-                  0.09
+                  0.09,
+                  0.097
                 ]
               }
             ]
@@ -10313,7 +10390,8 @@
                 ],
                 "levels": [
                   66.9,
-                  70.1
+                  70.1,
+                  75.6
                 ]
               }
             ]
@@ -10605,7 +10683,8 @@
                 ],
                 "levels": [
                   0.069,
-                  0.072
+                  0.072,
+                  0.078
                 ]
               }
             ]
@@ -10779,7 +10858,7 @@
       "tiers": [
         [
           {
-            "text": "Hitting an Enemy with a Control Skill reduces the Cooldown of the current Martial Art Skill by 1s. This effect can only trigger once every 10s.\nAffected Control Skills include: Bladebound Thread, Coiled Dragon, Qiankun's Lock, Spring Sorrow, Moon Shatter Spring, Wayfarer's Drift, Peak's Springless Silence.",
+            "text": "Hitting an enemy with a Control Skill reduces the Cooldown of the current Martial Art Skill by 1s. This effect can only trigger once every 10s.\nAffected Control Skills include: Bladebound Thread, Coiled Dragon, Qiankun's Lock, Spring Sorrow, Moon Shatter Spring, Forsaken Fame, Peak's Springless Silence, and Plumage Sweep.",
             "colors": [
               {
                 "start": 95,
@@ -10818,12 +10897,17 @@
               },
               {
                 "start": 263,
-                "end": 279,
+                "end": 276,
                 "kind": "reference"
               },
               {
-                "start": 281,
-                "end": 306,
+                "start": 278,
+                "end": 303,
+                "kind": "reference"
+              },
+              {
+                "start": 309,
+                "end": 322,
                 "kind": "reference"
               }
             ]
@@ -10831,7 +10915,7 @@
         ],
         [
           {
-            "text": "Hitting an Enemy with a Control Skill reduces the Cooldown of the current Martial Art Skill by 2s. This effect can only trigger once every 10s.\nAffected Control Skills include: Bladebound Thread, Coiled Dragon, Qiankun's Lock, Spring Sorrow, Moon Shatter Spring, Wayfarer's Drift, Peak's Springless Silence.",
+            "text": "Hitting an enemy with a Control Skill reduces the Cooldown of the current Martial Art Skill by 2s. This effect can only trigger once every 10s.\nAffected Control Skills include: Bladebound Thread, Coiled Dragon, Qiankun's Lock, Spring Sorrow, Moon Shatter Spring, Forsaken Fame, Peak's Springless Silence, and Plumage Sweep.",
             "colors": [
               {
                 "start": 95,
@@ -10870,12 +10954,17 @@
               },
               {
                 "start": 263,
-                "end": 279,
+                "end": 276,
                 "kind": "reference"
               },
               {
-                "start": 281,
-                "end": 306,
+                "start": 278,
+                "end": 303,
+                "kind": "reference"
+              },
+              {
+                "start": 309,
+                "end": 322,
                 "kind": "reference"
               }
             ]
@@ -10901,7 +10990,8 @@
                 ],
                 "levels": [
                   38,
-                  39.8
+                  39.8,
+                  42.9
                 ]
               }
             ]
@@ -10909,7 +10999,7 @@
         ],
         [
           {
-            "text": "Hitting an Enemy with a Control Skill reduces the Cooldown of the current Martial Art Skill by 2s. This effect can only trigger once every 10s.\nAffected Control Skills include: Bladebound Thread, Coiled Dragon, Qiankun's Lock, Spring Sorrow, Moon Shatter Spring, Wayfarer's Drift, Peak's Springless Silence.",
+            "text": "Hitting an enemy with a Control Skill reduces the Cooldown of the current Martial Art Skill by 2s. This effect can only trigger once every 10s.\nAffected Control Skills include: Bladebound Thread, Coiled Dragon, Qiankun's Lock, Spring Sorrow, Moon Shatter Spring, Forsaken Fame, Peak's Springless Silence, and Plumage Sweep.",
             "colors": [
               {
                 "start": 95,
@@ -10948,12 +11038,17 @@
               },
               {
                 "start": 263,
-                "end": 279,
+                "end": 276,
                 "kind": "reference"
               },
               {
-                "start": 281,
-                "end": 306,
+                "start": 278,
+                "end": 303,
+                "kind": "reference"
+              },
+              {
+                "start": 309,
+                "end": 322,
                 "kind": "reference"
               }
             ]
@@ -10972,7 +11067,7 @@
         ],
         [
           {
-            "text": "Hitting an Enemy with a Control Skill reduces the Cooldown of the current Martial Art Skill by 2s. This effect can only trigger once every 5s.\nAffected Control Skills include: Bladebound Thread, Coiled Dragon, Qiankun's Lock, Spring Sorrow, Moon Shatter Spring, Wayfarer's Drift, Peak's Springless Silence.",
+            "text": "Hitting an enemy with a Control Skill reduces the Cooldown of the current Martial Art Skill by 2s. This effect can only trigger once every 5s.\nAffected Control Skills include: Bladebound Thread, Coiled Dragon, Qiankun's Lock, Spring Sorrow, Moon Shatter Spring, Forsaken Fame, Peak's Springless Silence, and Plumage Sweep.",
             "colors": [
               {
                 "start": 95,
@@ -11011,12 +11106,17 @@
               },
               {
                 "start": 262,
-                "end": 278,
+                "end": 275,
                 "kind": "reference"
               },
               {
-                "start": 280,
-                "end": 305,
+                "start": 277,
+                "end": 302,
+                "kind": "reference"
+              },
+              {
+                "start": 308,
+                "end": 321,
                 "kind": "reference"
               }
             ]
@@ -11037,7 +11137,7 @@
         ],
         [
           {
-            "text": "Hitting an Enemy with a Control Skill reduces the Cooldown of the current Martial Art Skill by 2s. This effect can only trigger once every 5s.\nAffected Control Skills include: Bladebound Thread, Coiled Dragon, Qiankun's Lock, Spring Sorrow, Moon Shatter Spring, Wayfarer's Drift, Peak's Springless Silence.",
+            "text": "Hitting an enemy with a Control Skill reduces the Cooldown of the current Martial Art Skill by 2s. This effect can only trigger once every 5s.\nAffected Control Skills include: Bladebound Thread, Coiled Dragon, Qiankun's Lock, Spring Sorrow, Moon Shatter Spring, Forsaken Fame, Peak's Springless Silence, and Plumage Sweep.",
             "colors": [
               {
                 "start": 95,
@@ -11076,12 +11176,17 @@
               },
               {
                 "start": 262,
-                "end": 278,
+                "end": 275,
                 "kind": "reference"
               },
               {
-                "start": 280,
-                "end": 305,
+                "start": 277,
+                "end": 302,
+                "kind": "reference"
+              },
+              {
+                "start": 308,
+                "end": 321,
                 "kind": "reference"
               }
             ]
@@ -11213,7 +11318,8 @@
                 ],
                 "levels": [
                   0.086,
-                  0.09
+                  0.09,
+                  0.097
                 ]
               }
             ]
@@ -11451,7 +11557,8 @@
                 ],
                 "levels": [
                   66.9,
-                  70.1
+                  70.1,
+                  75.6
                 ]
               }
             ]
@@ -11573,7 +11680,7 @@
             ]
           },
           {
-            "text": "Burn and Bury deals 15% increased damage and is guaranteed to be Critical. The finger snap refreshes your own Soul Return state, and immediately calculates and refreshes the Soulbreak state on enemies within 15 meters. When calculating Soulbreak's damage, the damage multiplier is increased to 10%.",
+            "text": "Burn and Bury deals 15% increased damage and is guaranteed to be Critical. The finger snap refreshes your own Soul Return state, and immediately calculates and refreshes the Soulbreak state on enemies within 15 meters. When calculating Soulbreak's damage, the damage multiplier is increased to 12%.",
             "colors": [
               {
                 "start": 0,
@@ -11678,7 +11785,8 @@
                 ],
                 "levels": [
                   38,
-                  39.8
+                  39.8,
+                  42.9
                 ]
               }
             ]
@@ -11909,7 +12017,8 @@
                 ],
                 "levels": [
                   0.069,
-                  0.072
+                  0.072,
+                  0.078
                 ]
               }
             ]
@@ -12094,21 +12203,21 @@
             ]
           },
           {
-            "text": "During the Iron Guards state, hitting an enemy with Snowbreak Spring summons a Heng Blade Anxi Soldier to deal additional follow-up damage.",
+            "text": "During Iron Guards, when Snowbreak Spring hits an enemy, a Heng Blade Anxi Soldier appears and deals additional follow-up damage.",
             "colors": [
               {
-                "start": 0,
-                "end": 22,
+                "start": 7,
+                "end": 18,
                 "kind": "highlight"
               },
               {
-                "start": 52,
-                "end": 68,
+                "start": 25,
+                "end": 41,
                 "kind": "highlight"
               },
               {
-                "start": 79,
-                "end": 102,
+                "start": 59,
+                "end": 82,
                 "kind": "highlight"
               }
             ],
@@ -12135,7 +12244,8 @@
                 ],
                 "levels": [
                   74.4,
-                  77.9
+                  77.9,
+                  84
                 ]
               }
             ]
@@ -12349,7 +12459,7 @@
       "tiers": [
         [
           {
-            "text": "Phalanxbane Blade Heavy Attack Charged Skill Heart Ablaze gains a third charge stage that deals massive damage. While Ironclad Soul is active, an Anxi Army Mo Blade soldier performs the third-stage leap slash at your target.",
+            "text": "Phalanxbane Blade Heavy Attack Charged Skill Burning Heart can now charge up to 3 stages from 2. Its 3rd-stage leaping strike deals high damage. During Iron Guards, a Mo Blade Anxi Soldier appears during the 3rd charge stage and performs a leaping slash on the target.",
             "colors": [
               {
                 "start": 0,
@@ -12358,22 +12468,22 @@
               },
               {
                 "start": 45,
-                "end": 57,
+                "end": 58,
                 "kind": "reference"
               },
               {
-                "start": 66,
-                "end": 84,
+                "start": 80,
+                "end": 88,
                 "kind": "highlight"
               },
               {
-                "start": 118,
-                "end": 131,
+                "start": 152,
+                "end": 163,
                 "kind": "highlight"
               },
               {
-                "start": 146,
-                "end": 172,
+                "start": 167,
+                "end": 188,
                 "kind": "highlight"
               }
             ]
@@ -12381,7 +12491,7 @@
         ],
         [
           {
-            "text": "Phalanxbane Blade Heavy Attack Charged Skill Heart Ablaze gains a third charge stage that deals massive damage. While Ironclad Soul is active, an Anxi Army Mo Blade soldier performs the third-stage leap slash at your target.",
+            "text": "Phalanxbane Blade Heavy Attack Charged Skill Burning Heart can now charge up to 3 stages from 2. Its 3rd-stage leaping strike deals high damage. During Iron Guards, a Mo Blade Anxi Soldier appears during the 3rd charge stage and performs a leaping slash on the target.",
             "colors": [
               {
                 "start": 0,
@@ -12390,32 +12500,32 @@
               },
               {
                 "start": 45,
-                "end": 57,
+                "end": 58,
                 "kind": "reference"
               },
               {
-                "start": 66,
-                "end": 84,
+                "start": 80,
+                "end": 88,
                 "kind": "highlight"
               },
               {
-                "start": 118,
-                "end": 131,
+                "start": 152,
+                "end": 163,
                 "kind": "highlight"
               },
               {
-                "start": 146,
-                "end": 172,
+                "start": 167,
+                "end": 188,
                 "kind": "highlight"
               }
             ]
           },
           {
-            "text": "Reduces Legion Summoner's cooldown to 1s and increases Iron Guards' duration to 40s.",
+            "text": "Reduces Legion Summoner's cooldown to 1s and increases Iron Guards duration to 40s.",
             "colors": [
               {
                 "start": 8,
-                "end": 25,
+                "end": 23,
                 "kind": "reference"
               },
               {
@@ -12425,12 +12535,12 @@
               },
               {
                 "start": 55,
-                "end": 67,
+                "end": 66,
                 "kind": "highlight"
               },
               {
-                "start": 80,
-                "end": 82,
+                "start": 79,
+                "end": 81,
                 "kind": "highlight"
               }
             ],
@@ -12457,7 +12567,8 @@
                 ],
                 "levels": [
                   0.077,
-                  0.081
+                  0.081,
+                  0.087
                 ]
               }
             ]
@@ -12465,7 +12576,7 @@
         ],
         [
           {
-            "text": "Phalanxbane Blade Heavy Attack Charged Skill Heart Ablaze gains a third charge stage that deals massive damage. While Ironclad Soul is active, an Anxi Army Mo Blade soldier performs the third-stage leap slash at your target.",
+            "text": "Phalanxbane Blade Heavy Attack Charged Skill Burning Heart can now charge up to 3 stages from 2. Its 3rd-stage leaping strike deals high damage. During Iron Guards, a Mo Blade Anxi Soldier appears during the 3rd charge stage and performs a leaping slash on the target.",
             "colors": [
               {
                 "start": 0,
@@ -12474,22 +12585,22 @@
               },
               {
                 "start": 45,
-                "end": 57,
+                "end": 58,
                 "kind": "reference"
               },
               {
-                "start": 66,
-                "end": 84,
+                "start": 80,
+                "end": 88,
                 "kind": "highlight"
               },
               {
-                "start": 118,
-                "end": 131,
+                "start": 152,
+                "end": 163,
                 "kind": "highlight"
               },
               {
-                "start": 146,
-                "end": 172,
+                "start": 167,
+                "end": 188,
                 "kind": "highlight"
               }
             ]
@@ -12548,7 +12659,7 @@
         ],
         [
           {
-            "text": "Phalanxbane Blade Heavy Attack Charged Skill Heart Ablaze gains a third charge stage that deals massive damage. While Ironclad Soul is active, an Anxi Army Mo Blade soldier performs the third-stage leap slash at your target.",
+            "text": "Phalanxbane Blade Heavy Attack Charged Skill Burning Heart can now charge up to 3 stages from 2. Its 3rd-stage leaping strike deals high damage. During Iron Guards, a Mo Blade Anxi Soldier appears during the 3rd charge stage and performs a leaping slash on the target.",
             "colors": [
               {
                 "start": 0,
@@ -12557,22 +12668,22 @@
               },
               {
                 "start": 45,
-                "end": 57,
+                "end": 58,
                 "kind": "reference"
               },
               {
-                "start": 66,
-                "end": 84,
+                "start": 80,
+                "end": 88,
                 "kind": "highlight"
               },
               {
-                "start": 118,
-                "end": 131,
+                "start": 152,
+                "end": 163,
                 "kind": "highlight"
               },
               {
-                "start": 146,
-                "end": 172,
+                "start": 167,
+                "end": 188,
                 "kind": "highlight"
               }
             ]
@@ -12619,7 +12730,7 @@
         ],
         [
           {
-            "text": "Phalanxbane Blade Heavy Attack Charged Skill Heart Ablaze gains a third charge stage that deals massive damage. While Ironclad Soul is active, an Anxi Army Mo Blade soldier performs the third-stage leap slash at your target.",
+            "text": "Phalanxbane Blade Heavy Attack Charged Skill Burning Heart can now charge up to 3 stages from 2. Its 3rd-stage leaping strike deals high damage. During Iron Guards, a Mo Blade Anxi Soldier appears during the 3rd charge stage and performs a leaping slash on the target.",
             "colors": [
               {
                 "start": 0,
@@ -12628,22 +12739,22 @@
               },
               {
                 "start": 45,
-                "end": 57,
+                "end": 58,
                 "kind": "reference"
               },
               {
-                "start": 66,
-                "end": 84,
+                "start": 80,
+                "end": 88,
                 "kind": "highlight"
               },
               {
-                "start": 118,
-                "end": 131,
+                "start": 152,
+                "end": 163,
                 "kind": "highlight"
               },
               {
-                "start": 146,
-                "end": 172,
+                "start": 167,
+                "end": 188,
                 "kind": "highlight"
               }
             ]
@@ -12687,66 +12798,76 @@
       "tiers": [
         [
           {
-            "text": "When Light/Heavy Attack Varied Combo deals damage, gains Throat-Pierced for 8 seconds, stacking up to 3 times: Direct damage dealt ignores 2 points of the target's Physical Resistance and increases Critical DMG by 2%.\n\nApplicable skills include: Thundercry Blade - Light Attack Varied Combo, Thundercry Blade - Heavy Attack Varied Combo, Moon Shatter Spring, Colorful Phoenix, Bamboo Breeze, Frozen Under Spring, and Finding Spring.",
+            "text": "When Light/Heavy Attack: Varied Combo deals damage, you gain Throat-Pierced for 8 seconds, stacking up to 3 times. Direct damage dealt ignores 2 points of the target's Physical Resistance and increases Critical DMG by 2%.\n\nApplicable skills include: Thundercry Blade: Light Attack Varied Combo, Thundercry Blade: Heavy Attack Varied Combo, Moon Shatter Spring, Colorful Phoenix, Bamboo Breeze, Stygian Freeze, Snowbreak Spring, Rhythm of Accord and End of Gale.",
             "colors": [
               {
                 "start": 5,
-                "end": 36,
+                "end": 37,
                 "kind": "highlight"
               },
               {
-                "start": 57,
-                "end": 71,
+                "start": 61,
+                "end": 75,
                 "kind": "highlight"
               },
               {
-                "start": 102,
-                "end": 103,
+                "start": 106,
+                "end": 107,
                 "kind": "highlight"
               },
               {
-                "start": 139,
-                "end": 147,
+                "start": 143,
+                "end": 151,
                 "kind": "highlight"
               },
               {
-                "start": 214,
-                "end": 216,
+                "start": 218,
+                "end": 220,
                 "kind": "highlight"
               },
               {
-                "start": 246,
-                "end": 290,
+                "start": 250,
+                "end": 293,
                 "kind": "reference"
               },
               {
-                "start": 292,
-                "end": 336,
+                "start": 295,
+                "end": 338,
                 "kind": "reference"
               },
               {
-                "start": 338,
-                "end": 357,
+                "start": 340,
+                "end": 359,
                 "kind": "reference"
               },
               {
-                "start": 359,
-                "end": 375,
+                "start": 361,
+                "end": 377,
                 "kind": "reference"
               },
               {
-                "start": 377,
-                "end": 390,
+                "start": 379,
+                "end": 392,
                 "kind": "reference"
               },
               {
-                "start": 392,
-                "end": 411,
+                "start": 394,
+                "end": 408,
                 "kind": "reference"
               },
               {
-                "start": 417,
-                "end": 431,
+                "start": 410,
+                "end": 426,
+                "kind": "reference"
+              },
+              {
+                "start": 428,
+                "end": 444,
+                "kind": "reference"
+              },
+              {
+                "start": 449,
+                "end": 460,
                 "kind": "reference"
               }
             ]
@@ -12754,66 +12875,76 @@
         ],
         [
           {
-            "text": "When Light/Heavy Attack Varied Combo deals damage, gains Throat-Pierced for 15 seconds, stacking up to 3 times: Direct damage dealt ignores 2 points of the target's Physical Resistance and increases Critical DMG by 2%.\n\nApplicable skills include: Thundercry Blade - Light Attack Varied Combo, Thundercry Blade - Heavy Attack Varied Combo, Moon Shatter Spring, Colorful Phoenix, Bamboo Breeze, Frozen Under Spring, and Finding Spring.",
+            "text": "When Light/Heavy Attack: Varied Combo deals damage, you gain Throat-Pierced for 15 seconds, stacking up to 3 times. Direct damage dealt ignores 2 points of the target's Physical Resistance and increases Critical DMG by 2%.\n\nApplicable skills include: Thundercry Blade: Light Attack Varied Combo, Thundercry Blade: Heavy Attack Varied Combo, Moon Shatter Spring, Colorful Phoenix, Bamboo Breeze, Stygian Freeze, Snowbreak Spring, Rhythm of Accord and End of Gale.",
             "colors": [
               {
                 "start": 5,
-                "end": 36,
+                "end": 37,
                 "kind": "highlight"
               },
               {
-                "start": 57,
-                "end": 71,
+                "start": 61,
+                "end": 75,
                 "kind": "highlight"
               },
               {
-                "start": 103,
-                "end": 104,
+                "start": 107,
+                "end": 108,
                 "kind": "highlight"
               },
               {
-                "start": 140,
-                "end": 148,
+                "start": 144,
+                "end": 152,
                 "kind": "highlight"
               },
               {
-                "start": 215,
-                "end": 217,
+                "start": 219,
+                "end": 221,
                 "kind": "highlight"
               },
               {
-                "start": 247,
-                "end": 291,
+                "start": 251,
+                "end": 294,
                 "kind": "reference"
               },
               {
-                "start": 293,
-                "end": 337,
+                "start": 296,
+                "end": 339,
                 "kind": "reference"
               },
               {
-                "start": 339,
-                "end": 358,
+                "start": 341,
+                "end": 360,
                 "kind": "reference"
               },
               {
-                "start": 360,
-                "end": 376,
+                "start": 362,
+                "end": 378,
                 "kind": "reference"
               },
               {
-                "start": 378,
-                "end": 391,
+                "start": 380,
+                "end": 393,
                 "kind": "reference"
               },
               {
-                "start": 393,
-                "end": 412,
+                "start": 395,
+                "end": 409,
                 "kind": "reference"
               },
               {
-                "start": 418,
-                "end": 432,
+                "start": 411,
+                "end": 427,
+                "kind": "reference"
+              },
+              {
+                "start": 429,
+                "end": 445,
+                "kind": "reference"
+              },
+              {
+                "start": 450,
+                "end": 461,
                 "kind": "reference"
               }
             ]
@@ -12846,6 +12977,10 @@
                   [
                     13.3,
                     26.5
+                  ],
+                  [
+                    14.3,
+                    28.5
                   ]
                 ]
               }
@@ -12854,55 +12989,147 @@
         ],
         [
           {
-            "text": "When Light/Heavy Attack Varied Combo deals damage, gains Throat-Pierced for 15 seconds, stacking up to 3 times: direct damage dealt ignores 2 points of the target's Physical Resistance and increases Critical DMG by 2%; Light/Heavy Attack Varied Combo ignores 3 points of the target's Physical Resistance and increases Critical DMG by 3%.\n\nApplicable skills include: Thundercry Blade - Light Attack Varied Combo, Thundercry Blade - Heavy Attack Varied Combo, Moon Shatter Spring, Colorful Phoenix, Bamboo Breeze,Frozen Under Spring, and Finding Spring.",
+            "text": "When Light/Heavy Attack: Varied Combo deals damage, you gain Throat-Pierced for 15 seconds, stacking up to 3 times: direct damage dealt ignores 2 points of the target's Physical Resistance and increases Critical DMG by 2%; Light/Heavy Attack: Varied Combo ignores 3 points of the target's Physical Resistance and increases Critical DMG by 3%.\n\nApplicable skills include: Thundercry Blade: Light Attack Varied Combo, Thundercry Blade: Heavy Attack Varied Combo, Moon Shatter Spring, Colorful Phoenix, Bamboo Breeze, Stygian Freeze, Snowbreak Spring, Rhythm of Accord and End of Gale.",
             "colors": [
               {
                 "start": 5,
-                "end": 36,
+                "end": 37,
                 "kind": "highlight"
               },
               {
-                "start": 57,
-                "end": 71,
+                "start": 61,
+                "end": 75,
                 "kind": "highlight"
               },
               {
-                "start": 103,
-                "end": 104,
+                "start": 107,
+                "end": 108,
                 "kind": "highlight"
               },
               {
-                "start": 140,
-                "end": 148,
-                "kind": "highlight"
-              },
-              {
-                "start": 215,
-                "end": 217,
+                "start": 144,
+                "end": 152,
                 "kind": "highlight"
               },
               {
                 "start": 219,
-                "end": 250,
+                "end": 221,
                 "kind": "highlight"
               },
               {
-                "start": 259,
-                "end": 267,
+                "start": 223,
+                "end": 255,
                 "kind": "highlight"
               },
               {
-                "start": 334,
-                "end": 336,
+                "start": 264,
+                "end": 272,
                 "kind": "highlight"
               },
               {
-                "start": 366,
-                "end": 410,
+                "start": 339,
+                "end": 341,
+                "kind": "highlight"
+              },
+              {
+                "start": 371,
+                "end": 414,
                 "kind": "reference"
               },
               {
-                "start": 412,
+                "start": 416,
+                "end": 459,
+                "kind": "reference"
+              },
+              {
+                "start": 461,
+                "end": 480,
+                "kind": "reference"
+              },
+              {
+                "start": 482,
+                "end": 498,
+                "kind": "reference"
+              },
+              {
+                "start": 500,
+                "end": 513,
+                "kind": "reference"
+              },
+              {
+                "start": 515,
+                "end": 529,
+                "kind": "reference"
+              },
+              {
+                "start": 531,
+                "end": 547,
+                "kind": "reference"
+              },
+              {
+                "start": 549,
+                "end": 565,
+                "kind": "reference"
+              },
+              {
+                "start": 570,
+                "end": 581,
+                "kind": "reference"
+              }
+            ]
+          }
+        ],
+        [
+          {
+            "text": "When Light/Heavy Attack: Varied Combo deals damage, gains Throat-Pierced for 15 seconds, stacking up to 5 times: direct damage dealt ignores 2 points of the target's Physical Resistance and increases Critical DMG by 2%; Light/Heavy Attack: Varied Combo ignores 3 points of the target's Physical Resistance and increases Critical DMG by 3%.\n\nApplicable skills include: Thundercry Blade: Light Attack Varied Combo, Thundercry Blade: Heavy Attack Varied Combo, Moon Shatter Spring, Colorful Phoenix, Bamboo Breeze, Stygian Freeze, Snowbreak Spring, Rhythm of Accord and End of Gale.",
+            "colors": [
+              {
+                "start": 5,
+                "end": 37,
+                "kind": "highlight"
+              },
+              {
+                "start": 58,
+                "end": 72,
+                "kind": "highlight"
+              },
+              {
+                "start": 104,
+                "end": 105,
+                "kind": "highlight"
+              },
+              {
+                "start": 141,
+                "end": 149,
+                "kind": "highlight"
+              },
+              {
+                "start": 216,
+                "end": 218,
+                "kind": "highlight"
+              },
+              {
+                "start": 220,
+                "end": 252,
+                "kind": "highlight"
+              },
+              {
+                "start": 261,
+                "end": 269,
+                "kind": "highlight"
+              },
+              {
+                "start": 336,
+                "end": 338,
+                "kind": "highlight"
+              },
+              {
+                "start": 368,
+                "end": 411,
+                "kind": "reference"
+              },
+              {
+                "start": 413,
                 "end": 456,
                 "kind": "reference"
               },
@@ -12922,95 +13149,23 @@
                 "kind": "reference"
               },
               {
-                "start": 511,
-                "end": 530,
+                "start": 512,
+                "end": 526,
                 "kind": "reference"
               },
               {
-                "start": 536,
-                "end": 550,
-                "kind": "reference"
-              }
-            ]
-          }
-        ],
-        [
-          {
-            "text": "When Light/Heavy Attack Varied Combo deals damage, gains Throat-Pierced for 15 seconds, stacking up to 5 times direct damage dealt ignores 2 points of the target's Physical Resistance and increases Critical DMG by 2%; Light/Heavy Attack Varied Combo ignores 3 points of the target's Physical Resistance and increases Critical DMG by 3%.\n\nApplicable skills include: Thundercry Blade - Light Attack Varied Combo, Thundercry Blade - Heavy Attack Varied Combo, Moon Shatter Spring, Colorful Phoenix, Bamboo Breeze,Frozen Under Spring, and Finding Spring.",
-            "colors": [
-              {
-                "start": 5,
-                "end": 36,
-                "kind": "highlight"
-              },
-              {
-                "start": 57,
-                "end": 71,
-                "kind": "highlight"
-              },
-              {
-                "start": 103,
-                "end": 110,
-                "kind": "highlight"
-              },
-              {
-                "start": 139,
-                "end": 147,
-                "kind": "highlight"
-              },
-              {
-                "start": 214,
-                "end": 216,
-                "kind": "highlight"
-              },
-              {
-                "start": 218,
-                "end": 249,
-                "kind": "highlight"
-              },
-              {
-                "start": 258,
-                "end": 259,
-                "kind": "highlight"
-              },
-              {
-                "start": 333,
-                "end": 335,
-                "kind": "highlight"
-              },
-              {
-                "start": 365,
-                "end": 409,
+                "start": 528,
+                "end": 544,
                 "kind": "reference"
               },
               {
-                "start": 411,
-                "end": 455,
+                "start": 546,
+                "end": 562,
                 "kind": "reference"
               },
               {
-                "start": 457,
-                "end": 476,
-                "kind": "reference"
-              },
-              {
-                "start": 478,
-                "end": 494,
-                "kind": "reference"
-              },
-              {
-                "start": 496,
-                "end": 509,
-                "kind": "reference"
-              },
-              {
-                "start": 510,
-                "end": 529,
-                "kind": "reference"
-              },
-              {
-                "start": 535,
-                "end": 549,
+                "start": 567,
+                "end": 578,
                 "kind": "reference"
               }
             ]
@@ -13031,96 +13186,106 @@
         ],
         [
           {
-            "text": "When Light/Heavy Attack Varied Combo deals damage, gains Throat-Pierced for 15 seconds, stacking up to 5 times: direct damage dealt ignores 2 points of the target's Physical Resistance and increases Critical DMG by 2%; Light/Heavy Attack Varied Combo, Assist Trigger Skill, and assist effects ignore 3 points of the target's Physical Resistance and increase Critical DMG by 3%.\n\nApplicable skills include: Snowparting Blade, Phalanxbane Blade's Anxi Army Assist and its Trigger Skill, Thundercry Blade - Light Attack Varied Combo, Thundercry Blade - Heavy Attack Varied Combo, Moon Shatter Spring, Colorful Phoenix, Bamboo Breeze,Frozen Under Spring, and Finding Spring.",
+            "text": "When Light/Heavy Attack: Varied Combo deals damage, you gain Throat-Pierced for 15 seconds, stacking up to 5 times: direct damage dealt ignores 2 points of the target's Physical Resistance and increases Critical DMG by 2%; Light/Heavy Attack: Varied Combo, Assist Trigger Skill, and assist effects ignore 3 points of the target's Physical Resistance and increase Critical DMG by 3%.\n\nApplicable skills include: Anxi Army Assist and its Trigger Skills of Snowparting Blade and Phalanxbane Blade, Thundercry Blade: Light Attack Varied Combo, Thundercry Blade: Heavy Attack Varied Combo, Moon Shatter Spring, Colorful Phoenix, Bamboo Breeze, Stygian Freeze, Snowbreak Spring, Rhythm of Accord and End of Gale.",
             "colors": [
               {
                 "start": 5,
-                "end": 36,
+                "end": 37,
                 "kind": "highlight"
               },
               {
-                "start": 57,
-                "end": 71,
+                "start": 61,
+                "end": 75,
                 "kind": "highlight"
               },
               {
-                "start": 103,
-                "end": 104,
+                "start": 107,
+                "end": 108,
                 "kind": "highlight"
               },
               {
-                "start": 140,
-                "end": 148,
-                "kind": "highlight"
-              },
-              {
-                "start": 215,
-                "end": 217,
+                "start": 144,
+                "end": 152,
                 "kind": "highlight"
               },
               {
                 "start": 219,
-                "end": 250,
+                "end": 221,
                 "kind": "highlight"
               },
               {
-                "start": 252,
-                "end": 292,
+                "start": 223,
+                "end": 255,
                 "kind": "highlight"
               },
               {
-                "start": 300,
-                "end": 308,
+                "start": 257,
+                "end": 297,
                 "kind": "highlight"
               },
               {
-                "start": 374,
-                "end": 376,
+                "start": 305,
+                "end": 313,
                 "kind": "highlight"
               },
               {
-                "start": 406,
-                "end": 423,
+                "start": 379,
+                "end": 381,
+                "kind": "highlight"
+              },
+              {
+                "start": 454,
+                "end": 471,
                 "kind": "reference"
               },
               {
-                "start": 425,
-                "end": 444,
+                "start": 476,
+                "end": 493,
                 "kind": "reference"
               },
               {
-                "start": 485,
-                "end": 529,
+                "start": 495,
+                "end": 538,
                 "kind": "reference"
               },
               {
-                "start": 531,
-                "end": 575,
+                "start": 540,
+                "end": 583,
                 "kind": "reference"
               },
               {
-                "start": 577,
-                "end": 596,
+                "start": 585,
+                "end": 604,
                 "kind": "reference"
               },
               {
-                "start": 598,
-                "end": 614,
+                "start": 606,
+                "end": 622,
                 "kind": "reference"
               },
               {
-                "start": 616,
-                "end": 629,
+                "start": 624,
+                "end": 637,
                 "kind": "reference"
               },
               {
-                "start": 630,
-                "end": 649,
+                "start": 639,
+                "end": 653,
                 "kind": "reference"
               },
               {
                 "start": 655,
-                "end": 669,
+                "end": 671,
+                "kind": "reference"
+              },
+              {
+                "start": 673,
+                "end": 689,
+                "kind": "reference"
+              },
+              {
+                "start": 694,
+                "end": 705,
                 "kind": "reference"
               }
             ]
@@ -13222,6 +13387,10 @@
                   [
                     23.3,
                     46.7
+                  ],
+                  [
+                    25.2,
+                    50.4
                   ]
                 ]
               }
@@ -13473,7 +13642,8 @@
                 ],
                 "levels": [
                   74.4,
-                  77.9
+                  77.9,
+                  84
                 ]
               }
             ]
@@ -13834,7 +14004,8 @@
                 ],
                 "levels": [
                   0.077,
-                  0.081
+                  0.081,
+                  0.087
                 ]
               }
             ]
@@ -14253,6 +14424,10 @@
                   [
                     23.3,
                     46.7
+                  ],
+                  [
+                    25.2,
+                    50.4
                   ]
                 ]
               }
@@ -14539,6 +14714,10 @@
                   [
                     14.7,
                     29.5
+                  ],
+                  [
+                    15.9,
+                    31.7
                   ]
                 ]
               }
@@ -14702,17 +14881,431 @@
       ]
     },
     {
-      "name": "Song of Harmony",
+      "name": "Harmony Song",
       "tiers": [
-        [],
-        [],
-        [],
-        [],
-        [],
-        [],
         [
           {
-            "text": "Radiant Drum increases all Attack types by 12% and enhances Rippling Dew's empowered soundwaves. With Ripple: Jadebreaker, trigger 2 consecutive drumbeats and gain 10% Critical DMG. With Ripple: Dawnsun, grant nearby allies a Shield equal to 15% of their Max HP for 4s and 10% DMG Reduction; if you have Tailwind or Radiant Drum, also grant Radiant Drum for 4s. With Ripple: Flourishing Notes, create a sound field for 3s that slows enemies and deals DoT.",
+            "text": "While Rustling is active, casting Museflow Waist Drum Special Skill Rippling Dew grants you and nearby allies Radiant Drum for 4s. This increases all Attack types, including Physical Attack and all Attribute Attacks, by 6%, and Movement Speed by 10%.\nYou gain Tenacity while casting Rippling Dew.",
+            "colors": [
+              {
+                "start": 6,
+                "end": 14,
+                "kind": "highlight"
+              },
+              {
+                "start": 34,
+                "end": 53,
+                "kind": "reference"
+              },
+              {
+                "start": 68,
+                "end": 80,
+                "kind": "reference"
+              },
+              {
+                "start": 110,
+                "end": 122,
+                "kind": "highlight"
+              },
+              {
+                "start": 127,
+                "end": 128,
+                "kind": "highlight"
+              },
+              {
+                "start": 220,
+                "end": 222,
+                "kind": "highlight"
+              },
+              {
+                "start": 246,
+                "end": 249,
+                "kind": "highlight"
+              },
+              {
+                "start": 260,
+                "end": 268,
+                "kind": "highlight"
+              },
+              {
+                "start": 283,
+                "end": 295,
+                "kind": "highlight"
+              }
+            ]
+          }
+        ],
+        [
+          {
+            "text": "While Rustling is active, casting Museflow Waist Drum Special Skill Rippling Dew grants you and nearby allies Radiant Drum for 6s. This increases all Attack types, including Physical Attack and all Attribute Attacks, by 6%, and Movement Speed by 10%.\nYou gain Tenacity while casting Rippling Dew, and also gain 30% DMG Reduction outside Arena.",
+            "colors": [
+              {
+                "start": 6,
+                "end": 14,
+                "kind": "highlight"
+              },
+              {
+                "start": 34,
+                "end": 53,
+                "kind": "reference"
+              },
+              {
+                "start": 68,
+                "end": 80,
+                "kind": "reference"
+              },
+              {
+                "start": 110,
+                "end": 122,
+                "kind": "highlight"
+              },
+              {
+                "start": 127,
+                "end": 128,
+                "kind": "highlight"
+              },
+              {
+                "start": 220,
+                "end": 222,
+                "kind": "highlight"
+              },
+              {
+                "start": 246,
+                "end": 249,
+                "kind": "highlight"
+              },
+              {
+                "start": 260,
+                "end": 268,
+                "kind": "highlight"
+              },
+              {
+                "start": 283,
+                "end": 295,
+                "kind": "highlight"
+              },
+              {
+                "start": 311,
+                "end": 314,
+                "kind": "highlight"
+              }
+            ]
+          }
+        ],
+        [
+          {
+            "text": "Increases Min Physical Attack based on Solo Mode Level.",
+            "colors": [
+              {
+                "start": 10,
+                "end": 29,
+                "kind": "reference"
+              }
+            ],
+            "bullet": true,
+            "soloLevelValues": [
+              {
+                "startLevel": 16,
+                "stat": "Min Physical Attack",
+                "formats": [
+                  "1f"
+                ],
+                "levels": [
+                  74.4,
+                  77.9,
+                  84
+                ]
+              }
+            ]
+          }
+        ],
+        [
+          {
+            "text": "While Rustling is active, casting Museflow Waist Drum Special Skill Rippling Dew grants you and nearby allies Radiant Drum for 6s. This increases all Attack types, including Physical Attack and all Attribute Attacks, by 6%, and Movement Speed by 10%.\nYou gain Tenacity while casting Rippling Dew, and also gain 30% DMG Reduction outside Arena.",
+            "colors": [
+              {
+                "start": 6,
+                "end": 14,
+                "kind": "highlight"
+              },
+              {
+                "start": 34,
+                "end": 53,
+                "kind": "reference"
+              },
+              {
+                "start": 68,
+                "end": 80,
+                "kind": "reference"
+              },
+              {
+                "start": 110,
+                "end": 122,
+                "kind": "highlight"
+              },
+              {
+                "start": 127,
+                "end": 128,
+                "kind": "highlight"
+              },
+              {
+                "start": 220,
+                "end": 222,
+                "kind": "highlight"
+              },
+              {
+                "start": 246,
+                "end": 249,
+                "kind": "highlight"
+              },
+              {
+                "start": 260,
+                "end": 268,
+                "kind": "highlight"
+              },
+              {
+                "start": 283,
+                "end": 295,
+                "kind": "highlight"
+              },
+              {
+                "start": 311,
+                "end": 314,
+                "kind": "highlight"
+              }
+            ]
+          },
+          {
+            "text": "Radiant Drum enhances Rippling Dew's normal sound waves:\nUnder Ripple: Jadebreaker, sound waves deal an extra 10% Critical DMG;\nUnder Ripple: Dawnsun, they grant nearby allies a shield equal to 5% of their Max HP for 2s;\nUnder Ripple: Toneflux, hitting an enemy inflicts Silence for 1s, preventing them from using any Active Skills.",
+            "colors": [
+              {
+                "start": 0,
+                "end": 12,
+                "kind": "highlight"
+              },
+              {
+                "start": 37,
+                "end": 55,
+                "kind": "highlight"
+              },
+              {
+                "start": 63,
+                "end": 82,
+                "kind": "reference"
+              },
+              {
+                "start": 110,
+                "end": 113,
+                "kind": "highlight"
+              },
+              {
+                "start": 134,
+                "end": 149,
+                "kind": "reference"
+              },
+              {
+                "start": 194,
+                "end": 196,
+                "kind": "highlight"
+              },
+              {
+                "start": 217,
+                "end": 218,
+                "kind": "highlight"
+              },
+              {
+                "start": 227,
+                "end": 243,
+                "kind": "reference"
+              },
+              {
+                "start": 271,
+                "end": 278,
+                "kind": "highlight"
+              },
+              {
+                "start": 283,
+                "end": 284,
+                "kind": "highlight"
+              }
+            ],
+            "bullet": true
+          }
+        ],
+        [
+          {
+            "text": "While Rustling is active, casting Museflow Waist Drum Special Skill Rippling Dew grants you and nearby allies Radiant Drum for 6s. This increases all Attack types, including Physical Attack and all Attribute Attacks, by 6%, and Movement Speed by 10%.\nYou gain Tenacity while casting Rippling Dew, and also gain 30% DMG Reduction outside Arena.",
+            "colors": [
+              {
+                "start": 6,
+                "end": 14,
+                "kind": "highlight"
+              },
+              {
+                "start": 34,
+                "end": 53,
+                "kind": "reference"
+              },
+              {
+                "start": 68,
+                "end": 80,
+                "kind": "reference"
+              },
+              {
+                "start": 110,
+                "end": 122,
+                "kind": "highlight"
+              },
+              {
+                "start": 127,
+                "end": 128,
+                "kind": "highlight"
+              },
+              {
+                "start": 220,
+                "end": 222,
+                "kind": "highlight"
+              },
+              {
+                "start": 246,
+                "end": 249,
+                "kind": "highlight"
+              },
+              {
+                "start": 260,
+                "end": 268,
+                "kind": "highlight"
+              },
+              {
+                "start": 283,
+                "end": 295,
+                "kind": "highlight"
+              },
+              {
+                "start": 311,
+                "end": 314,
+                "kind": "highlight"
+              }
+            ]
+          },
+          {
+            "text": "When Rippling Dew is interrupted, returns 50 Noble Will and reduces its cooldown by 2s.\nRhythm of Accord or Crane's Cry deals damage to an Exhausted Online Mode Boss, Rippling Dew's cooldown is reset and Noble Will is fully restored. This effect can only trigger once every 60s.",
+            "colors": [
+              {
+                "start": 5,
+                "end": 17,
+                "kind": "highlight"
+              },
+              {
+                "start": 42,
+                "end": 44,
+                "kind": "highlight"
+              },
+              {
+                "start": 84,
+                "end": 85,
+                "kind": "highlight"
+              },
+              {
+                "start": 88,
+                "end": 104,
+                "kind": "reference"
+              },
+              {
+                "start": 108,
+                "end": 119,
+                "kind": "reference"
+              },
+              {
+                "start": 139,
+                "end": 148,
+                "kind": "highlight"
+              },
+              {
+                "start": 167,
+                "end": 179,
+                "kind": "highlight"
+              },
+              {
+                "start": 204,
+                "end": 214,
+                "kind": "highlight"
+              }
+            ],
+            "bullet": true
+          }
+        ],
+        [
+          {
+            "text": "Increases Direct Critical Rate by 4.6%.",
+            "colors": [
+              {
+                "start": 10,
+                "end": 30,
+                "kind": "reference"
+              }
+            ],
+            "bullet": true
+          }
+        ],
+        [
+          {
+            "text": "While Rustling is active, casting Museflow Waist Drum Special Skill Rippling Dew grants you and nearby allies Radiant Drum for 6s. This increases all Attack types, including Physical Attack and all Attribute Attacks, by 6%, and Movement Speed by 10%.\nYou gain Tenacity while casting Rippling Dew, and also gain 30% DMG Reduction outside Arena.",
+            "colors": [
+              {
+                "start": 6,
+                "end": 14,
+                "kind": "highlight"
+              },
+              {
+                "start": 34,
+                "end": 53,
+                "kind": "reference"
+              },
+              {
+                "start": 68,
+                "end": 80,
+                "kind": "reference"
+              },
+              {
+                "start": 110,
+                "end": 122,
+                "kind": "highlight"
+              },
+              {
+                "start": 127,
+                "end": 128,
+                "kind": "highlight"
+              },
+              {
+                "start": 220,
+                "end": 222,
+                "kind": "highlight"
+              },
+              {
+                "start": 246,
+                "end": 249,
+                "kind": "highlight"
+              },
+              {
+                "start": 260,
+                "end": 268,
+                "kind": "highlight"
+              },
+              {
+                "start": 283,
+                "end": 295,
+                "kind": "highlight"
+              },
+              {
+                "start": 311,
+                "end": 314,
+                "kind": "highlight"
+              }
+            ]
+          },
+          {
+            "text": "Radiant Drum increases all Attack types by 12% and boosts Rippling Dew's enhanced sound waves:\nUnder Ripple: Jadebreaker: Triggers 2 consecutive drumbeats and increases Critical DMG by 10%\nUnder Ripple: Dawnsun: Grants nearby allies a shield equal to 15% of their Max HP for 4s and 10% DMG Reduction for the duration. If you are under Rustling or Radiant Drum, grants Radiant Drum for 4s;\nUnder Ripple: Toneflux: Creates a sound field that lasts 3s. Enemies within it have reduced Movement Speed and take continuous damage.",
             "colors": [
               {
                 "start": 0,
@@ -14725,13 +15318,13 @@
                 "kind": "highlight"
               },
               {
-                "start": 75,
-                "end": 95,
+                "start": 73,
+                "end": 93,
                 "kind": "highlight"
               },
               {
-                "start": 102,
-                "end": 121,
+                "start": 101,
+                "end": 120,
                 "kind": "reference"
               },
               {
@@ -14740,53 +15333,1573 @@
                 "kind": "highlight"
               },
               {
-                "start": 164,
-                "end": 167,
+                "start": 185,
+                "end": 188,
                 "kind": "highlight"
               },
               {
-                "start": 187,
-                "end": 202,
+                "start": 195,
+                "end": 210,
                 "kind": "reference"
               },
               {
-                "start": 242,
-                "end": 245,
+                "start": 251,
+                "end": 254,
                 "kind": "highlight"
               },
               {
-                "start": 273,
-                "end": 276,
+                "start": 282,
+                "end": 285,
                 "kind": "highlight"
               },
               {
-                "start": 304,
-                "end": 312,
+                "start": 335,
+                "end": 343,
                 "kind": "highlight"
               },
               {
-                "start": 316,
-                "end": 328,
-                "kind": "highlight"
-              },
-              {
-                "start": 341,
-                "end": 353,
-                "kind": "highlight"
-              },
-              {
-                "start": 358,
+                "start": 347,
                 "end": 359,
                 "kind": "highlight"
               },
               {
-                "start": 367,
-                "end": 392,
+                "start": 368,
+                "end": 380,
+                "kind": "highlight"
+              },
+              {
+                "start": 385,
+                "end": 386,
+                "kind": "highlight"
+              },
+              {
+                "start": 395,
+                "end": 411,
                 "kind": "reference"
               },
               {
-                "start": 419,
-                "end": 420,
+                "start": 446,
+                "end": 447,
+                "kind": "highlight"
+              }
+            ],
+            "bullet": true
+          }
+        ]
+      ]
+    },
+    {
+      "name": "Zephyr Whispers",
+      "tiers": [
+        [
+          {
+            "text": "After Willowbend Fan's Martial Art Skills Verdant Gust and Boundless Bloom hit a target, the Heavy Attack Varied Combo End of Gale becomes available. While casting it, you gain Tenacity, rapidly dash between up to 4 targets, and strike, dealing moderate damage and knocking targets down.",
+            "colors": [
+              {
+                "start": 6,
+                "end": 20,
+                "kind": "reference"
+              },
+              {
+                "start": 42,
+                "end": 74,
+                "kind": "reference"
+              },
+              {
+                "start": 119,
+                "end": 130,
+                "kind": "reference"
+              },
+              {
+                "start": 177,
+                "end": 185,
+                "kind": "highlight"
+              },
+              {
+                "start": 214,
+                "end": 215,
+                "kind": "highlight"
+              }
+            ]
+          }
+        ],
+        [
+          {
+            "text": "After Willowbend Fan's enhanced Martial Art Skill Boundless Bloom hits a target, the Heavy Attack Varied Combo End of Gale becomes available. During the move, you gain Tenacity and rapidly dash between up to 4 targets, dealing moderate damage and knocking them down. When the closing strike hits, it inflicts Ink Rhythm on the target for 8s. Willowbend Fan and Drumbeat skills deal 5% more damage to targets affected by Ink Rhythm, while those targets deal 5% less damage.",
+            "colors": [
+              {
+                "start": 6,
+                "end": 20,
+                "kind": "reference"
+              },
+              {
+                "start": 50,
+                "end": 65,
+                "kind": "reference"
+              },
+              {
+                "start": 111,
+                "end": 122,
+                "kind": "reference"
+              },
+              {
+                "start": 168,
+                "end": 176,
+                "kind": "highlight"
+              },
+              {
+                "start": 208,
+                "end": 209,
+                "kind": "highlight"
+              },
+              {
+                "start": 309,
+                "end": 319,
+                "kind": "highlight"
+              },
+              {
+                "start": 338,
+                "end": 339,
+                "kind": "highlight"
+              },
+              {
+                "start": 342,
+                "end": 356,
+                "kind": "reference"
+              },
+              {
+                "start": 361,
+                "end": 376,
+                "kind": "highlight"
+              },
+              {
+                "start": 382,
+                "end": 384,
+                "kind": "highlight"
+              },
+              {
+                "start": 420,
+                "end": 430,
+                "kind": "highlight"
+              },
+              {
+                "start": 457,
+                "end": 459,
+                "kind": "highlight"
+              }
+            ]
+          }
+        ],
+        [
+          {
+            "text": "Increases Critical Rate based on Solo Mode Level.",
+            "colors": [
+              {
+                "start": 10,
+                "end": 23,
+                "kind": "reference"
+              }
+            ],
+            "bullet": true,
+            "soloLevelValues": [
+              {
+                "startLevel": 16,
+                "stat": "Critical Rate",
+                "formats": [
+                  "1%"
+                ],
+                "levels": [
+                  0.077,
+                  0.081,
+                  0.087
+                ]
+              }
+            ]
+          }
+        ],
+        [
+          {
+            "text": "After Willowbend Fan's enhanced Martial Art Skill Boundless Bloom hits a target, the Heavy Attack Varied Combo End of Gale becomes available. During the move, you gain Tenacity and rapidly dash between up to 4 targets, dealing moderate damage and knocking them down. When the closing strike hits, it inflicts Ink Rhythm on the target for 8s. Willowbend Fan and Drumbeat skills deal 5% more damage to targets affected by Ink Rhythm, while those targets deal 5% less damage.",
+            "colors": [
+              {
+                "start": 6,
+                "end": 20,
+                "kind": "reference"
+              },
+              {
+                "start": 50,
+                "end": 65,
+                "kind": "reference"
+              },
+              {
+                "start": 111,
+                "end": 122,
+                "kind": "reference"
+              },
+              {
+                "start": 168,
+                "end": 176,
+                "kind": "highlight"
+              },
+              {
+                "start": 208,
+                "end": 209,
+                "kind": "highlight"
+              },
+              {
+                "start": 309,
+                "end": 319,
+                "kind": "highlight"
+              },
+              {
+                "start": 338,
+                "end": 339,
+                "kind": "highlight"
+              },
+              {
+                "start": 342,
+                "end": 356,
+                "kind": "reference"
+              },
+              {
+                "start": 361,
+                "end": 376,
+                "kind": "highlight"
+              },
+              {
+                "start": 382,
+                "end": 384,
+                "kind": "highlight"
+              },
+              {
+                "start": 420,
+                "end": 430,
+                "kind": "highlight"
+              },
+              {
+                "start": 457,
+                "end": 459,
+                "kind": "highlight"
+              }
+            ]
+          },
+          {
+            "text": "Increases End of Gale damage by 20%. Also restores 30 Noble Will for each target hit. This recovery effect can trigger up to 2 times every 15s.\nIn non-Arena modes, casting End of Gale grants Driftbreeze.",
+            "colors": [
+              {
+                "start": 10,
+                "end": 21,
+                "kind": "highlight"
+              },
+              {
+                "start": 32,
+                "end": 35,
+                "kind": "highlight"
+              },
+              {
+                "start": 51,
+                "end": 53,
+                "kind": "highlight"
+              },
+              {
+                "start": 147,
+                "end": 162,
+                "kind": "highlight"
+              },
+              {
+                "start": 172,
+                "end": 183,
+                "kind": "highlight"
+              },
+              {
+                "start": 191,
+                "end": 202,
+                "kind": "highlight"
+              }
+            ],
+            "bullet": true
+          }
+        ],
+        [
+          {
+            "text": "After Willowbend Fan's enhanced Martial Art Skill Boundless Bloom hits a target, the Heavy Attack Varied Combo End of Gale becomes available. During the move, you gain Tenacity and rapidly dash between up to 4 targets, dealing moderate damage and knocking them down. When the closing strike hits, it inflicts Ink Rhythm on the target for 18s. Willowbend Fan and Drumbeat skills deal 5% more damage to targets affected by Ink Rhythm, while those targets deal 5% less damage. Against non-player units, both effects increase to 10%.",
+            "colors": [
+              {
+                "start": 6,
+                "end": 20,
+                "kind": "reference"
+              },
+              {
+                "start": 50,
+                "end": 65,
+                "kind": "reference"
+              },
+              {
+                "start": 111,
+                "end": 122,
+                "kind": "reference"
+              },
+              {
+                "start": 168,
+                "end": 176,
+                "kind": "highlight"
+              },
+              {
+                "start": 208,
+                "end": 209,
+                "kind": "highlight"
+              },
+              {
+                "start": 309,
+                "end": 319,
+                "kind": "highlight"
+              },
+              {
+                "start": 338,
+                "end": 340,
+                "kind": "highlight"
+              },
+              {
+                "start": 343,
+                "end": 357,
+                "kind": "reference"
+              },
+              {
+                "start": 362,
+                "end": 377,
+                "kind": "highlight"
+              },
+              {
+                "start": 383,
+                "end": 385,
+                "kind": "highlight"
+              },
+              {
+                "start": 421,
+                "end": 431,
+                "kind": "highlight"
+              },
+              {
+                "start": 458,
+                "end": 460,
+                "kind": "highlight"
+              },
+              {
+                "start": 525,
+                "end": 528,
+                "kind": "highlight"
+              }
+            ]
+          }
+        ],
+        [
+          {
+            "text": "Increases Critical DMG Bonus by 4.0%.",
+            "colors": [
+              {
+                "start": 10,
+                "end": 28,
+                "kind": "reference"
+              }
+            ],
+            "bullet": true
+          }
+        ],
+        [
+          {
+            "text": "After Willowbend Fan's enhanced Martial Art Skill Boundless Bloom hits a target, the Heavy Attack Varied Combo End of Gale becomes available. During the move, you gain Tenacity and rapidly dash between up to 4 targets, dealing moderate damage and knocking them down. When the closing strike hits, it inflicts Ink Rhythm on the target for 18s. Willowbend Fan and Drumbeat skills deal 5% more damage to targets affected by Ink Rhythm, while those targets deal 5% less damage. Against non-player units, both effects increase to 10%.",
+            "colors": [
+              {
+                "start": 6,
+                "end": 20,
+                "kind": "reference"
+              },
+              {
+                "start": 50,
+                "end": 65,
+                "kind": "reference"
+              },
+              {
+                "start": 111,
+                "end": 122,
+                "kind": "reference"
+              },
+              {
+                "start": 168,
+                "end": 176,
+                "kind": "highlight"
+              },
+              {
+                "start": 208,
+                "end": 209,
+                "kind": "highlight"
+              },
+              {
+                "start": 309,
+                "end": 319,
+                "kind": "highlight"
+              },
+              {
+                "start": 338,
+                "end": 340,
+                "kind": "highlight"
+              },
+              {
+                "start": 343,
+                "end": 357,
+                "kind": "reference"
+              },
+              {
+                "start": 362,
+                "end": 377,
+                "kind": "highlight"
+              },
+              {
+                "start": 383,
+                "end": 385,
+                "kind": "highlight"
+              },
+              {
+                "start": 421,
+                "end": 431,
+                "kind": "highlight"
+              },
+              {
+                "start": 458,
+                "end": 460,
+                "kind": "highlight"
+              },
+              {
+                "start": 525,
+                "end": 528,
+                "kind": "highlight"
+              }
+            ]
+          },
+          {
+            "text": "Attack Buff Effects from Silkbind - Wings grant additional bonuses to the user: Rustling grants an extra 6% Attribute Attack, while Radiant Drum grants an extra 6% to all Attack types.",
+            "colors": [
+              {
+                "start": 0,
+                "end": 19,
+                "kind": "highlight"
+              },
+              {
+                "start": 25,
+                "end": 41,
+                "kind": "highlight"
+              },
+              {
+                "start": 80,
+                "end": 88,
+                "kind": "highlight"
+              },
+              {
+                "start": 105,
+                "end": 107,
+                "kind": "highlight"
+              },
+              {
+                "start": 132,
+                "end": 144,
+                "kind": "highlight"
+              },
+              {
+                "start": 161,
+                "end": 163,
+                "kind": "highlight"
+              }
+            ],
+            "bullet": true
+          }
+        ]
+      ]
+    },
+    {
+      "name": "Ink and Strings",
+      "tiers": [
+        [
+          {
+            "text": "While an Attack Buff Effect is active, if your HP is above 50%, all types of Attribute Attack Penetration increase by 5 for damage and healing calculations. If your HP is below 50%, HP Drain is increased by 5%, up to a maximum of 2.5% of your max HP per second.\nApplicable Attack Buff Effects include: Museflow Waist Drum: Radiant, Willowbend Fan: Rustling, and Soulshade Umbrella: DMG Boost and DMG Boost: Deluge.",
+            "colors": [
+              {
+                "start": 9,
+                "end": 27,
+                "kind": "highlight"
+              },
+              {
+                "start": 53,
+                "end": 62,
+                "kind": "highlight"
+              },
+              {
+                "start": 77,
+                "end": 105,
+                "kind": "highlight"
+              },
+              {
+                "start": 118,
+                "end": 119,
+                "kind": "highlight"
+              },
+              {
+                "start": 171,
+                "end": 180,
+                "kind": "highlight"
+              },
+              {
+                "start": 207,
+                "end": 209,
+                "kind": "highlight"
+              },
+              {
+                "start": 230,
+                "end": 234,
+                "kind": "highlight"
+              },
+              {
+                "start": 273,
+                "end": 292,
+                "kind": "highlight"
+              },
+              {
+                "start": 302,
+                "end": 330,
+                "kind": "reference"
+              },
+              {
+                "start": 332,
+                "end": 356,
+                "kind": "reference"
+              },
+              {
+                "start": 362,
+                "end": 413,
+                "kind": "reference"
+              }
+            ]
+          }
+        ],
+        [
+          {
+            "text": "While an Attack Buff Effect is active, if your HP is above 50%, all types of Attribute Attack Penetration increase by 5 for damage and healing calculations. If your HP is below 50%, HP Drain is increased by 10%, up to a maximum of 2.5% of your max HP per second.\nApplicable Attack Buff Effects include: Museflow Waist Drum: Radiant, Willowbend Fan: Rustling, and Soulshade Umbrella: DMG Boost and DMG Boost: Deluge.",
+            "colors": [
+              {
+                "start": 9,
+                "end": 27,
+                "kind": "highlight"
+              },
+              {
+                "start": 53,
+                "end": 62,
+                "kind": "highlight"
+              },
+              {
+                "start": 77,
+                "end": 105,
+                "kind": "highlight"
+              },
+              {
+                "start": 118,
+                "end": 119,
+                "kind": "highlight"
+              },
+              {
+                "start": 171,
+                "end": 180,
+                "kind": "highlight"
+              },
+              {
+                "start": 207,
+                "end": 210,
+                "kind": "highlight"
+              },
+              {
+                "start": 231,
+                "end": 235,
+                "kind": "highlight"
+              },
+              {
+                "start": 274,
+                "end": 293,
+                "kind": "highlight"
+              },
+              {
+                "start": 303,
+                "end": 331,
+                "kind": "reference"
+              },
+              {
+                "start": 333,
+                "end": 357,
+                "kind": "reference"
+              },
+              {
+                "start": 363,
+                "end": 414,
+                "kind": "reference"
+              }
+            ]
+          }
+        ],
+        [
+          {
+            "text": "Increases Physical Attack based on Solo Mode Level.",
+            "colors": [
+              {
+                "start": 10,
+                "end": 25,
+                "kind": "reference"
+              }
+            ],
+            "bullet": true,
+            "soloLevelValues": [
+              {
+                "startLevel": 16,
+                "stat": "Physical Attack",
+                "formats": [
+                  "1f",
+                  "1f"
+                ],
+                "levels": [
+                  [
+                    22.3,
+                    44.7
+                  ],
+                  [
+                    23.3,
+                    46.7
+                  ],
+                  [
+                    25.2,
+                    50.4
+                  ]
+                ]
+              }
+            ]
+          }
+        ],
+        [
+          {
+            "text": "While an Attack Buff Effect is active, if your HP is above 50%, all types of Attribute Attack Penetration increase by 8 for damage and healing calculations. If your HP is below 50%, HP Drain is increased by 10%, up to a maximum of 2.5% of your max HP per second.\nApplicable Attack Buff Effects include: Museflow Waist Drum: Radiant, Willowbend Fan: Rustling, and Soulshade Umbrella: DMG Boost and DMG Boost: Deluge.",
+            "colors": [
+              {
+                "start": 9,
+                "end": 27,
+                "kind": "highlight"
+              },
+              {
+                "start": 53,
+                "end": 62,
+                "kind": "highlight"
+              },
+              {
+                "start": 77,
+                "end": 105,
+                "kind": "highlight"
+              },
+              {
+                "start": 118,
+                "end": 119,
+                "kind": "highlight"
+              },
+              {
+                "start": 171,
+                "end": 180,
+                "kind": "highlight"
+              },
+              {
+                "start": 207,
+                "end": 210,
+                "kind": "highlight"
+              },
+              {
+                "start": 231,
+                "end": 235,
+                "kind": "highlight"
+              },
+              {
+                "start": 274,
+                "end": 293,
+                "kind": "highlight"
+              },
+              {
+                "start": 303,
+                "end": 331,
+                "kind": "reference"
+              },
+              {
+                "start": 333,
+                "end": 357,
+                "kind": "reference"
+              },
+              {
+                "start": 363,
+                "end": 414,
+                "kind": "reference"
+              }
+            ]
+          }
+        ],
+        [
+          {
+            "text": "While an Attack Buff Effect is active, all types of Attribute Attack Penetration increase by 8 for damage and healing calculations. HP Drain is increased by 10%, up to a maximum of 2.5% of your max HP per second.\nApplicable Attack Buff Effects include: Museflow Waist Drum: Radiant, Willowbend Fan: Rustling, and Soulshade Umbrella: DMG Boost and DMG Boost: Deluge.",
+            "colors": [
+              {
+                "start": 9,
+                "end": 27,
+                "kind": "highlight"
+              },
+              {
+                "start": 52,
+                "end": 80,
+                "kind": "highlight"
+              },
+              {
+                "start": 93,
+                "end": 94,
+                "kind": "highlight"
+              },
+              {
+                "start": 157,
+                "end": 160,
+                "kind": "highlight"
+              },
+              {
+                "start": 181,
+                "end": 185,
+                "kind": "highlight"
+              },
+              {
+                "start": 224,
+                "end": 243,
+                "kind": "highlight"
+              },
+              {
+                "start": 253,
+                "end": 281,
+                "kind": "reference"
+              },
+              {
+                "start": 283,
+                "end": 307,
+                "kind": "reference"
+              },
+              {
+                "start": 313,
+                "end": 364,
+                "kind": "reference"
+              }
+            ]
+          },
+          {
+            "text": "While an Attack Buff Effect is active, the Penetration increase effect and HP Drain effect are no longer limited by HP.",
+            "colors": [
+              {
+                "start": 9,
+                "end": 27,
+                "kind": "highlight"
+              },
+              {
+                "start": 43,
+                "end": 70,
+                "kind": "highlight"
+              },
+              {
+                "start": 75,
+                "end": 90,
+                "kind": "highlight"
+              }
+            ],
+            "bullet": true
+          }
+        ],
+        [
+          {
+            "text": "Physical Damage Bonus +2.5%.",
+            "colors": [
+              {
+                "start": 0,
+                "end": 21,
+                "kind": "reference"
+              }
+            ],
+            "bullet": true
+          }
+        ],
+        [
+          {
+            "text": "While an Attack Buff Effect is active, all types of Attribute Attack Penetration increase by 8 for damage and healing calculations. HP Drain is increased by 10%, up to a maximum of 2.5% of your max HP per second. For Museflow Waist Drum's Drumbeat skills, Physical Penetration and all types of Attribute Attack Penetration increase by an additional 12 for calculations.\nApplicable Attack Buff Effects include: Museflow Waist Drum: Radiant, Willowbend Fan: Rustling, and Soulshade Umbrella: DMG Boost and DMG Boost: Deluge.",
+            "colors": [
+              {
+                "start": 9,
+                "end": 27,
+                "kind": "highlight"
+              },
+              {
+                "start": 52,
+                "end": 80,
+                "kind": "highlight"
+              },
+              {
+                "start": 93,
+                "end": 94,
+                "kind": "highlight"
+              },
+              {
+                "start": 157,
+                "end": 160,
+                "kind": "highlight"
+              },
+              {
+                "start": 181,
+                "end": 185,
+                "kind": "highlight"
+              },
+              {
+                "start": 239,
+                "end": 254,
+                "kind": "highlight"
+              },
+              {
+                "start": 256,
+                "end": 276,
+                "kind": "highlight"
+              },
+              {
+                "start": 294,
+                "end": 322,
+                "kind": "highlight"
+              },
+              {
+                "start": 349,
+                "end": 351,
+                "kind": "highlight"
+              },
+              {
+                "start": 381,
+                "end": 400,
+                "kind": "highlight"
+              },
+              {
+                "start": 410,
+                "end": 438,
+                "kind": "reference"
+              },
+              {
+                "start": 440,
+                "end": 464,
+                "kind": "reference"
+              },
+              {
+                "start": 470,
+                "end": 521,
+                "kind": "reference"
+              }
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "name": "Blade's Will",
+      "tiers": [
+        [
+          {
+            "text": "When Light/Heavy Attack: Varied Combo and Museflow Waist Drum Drumbeat skills hit at least 3 enemies simultaneously, apply 1 stack of Blade of Grass to them for 5s: player units' Endurance Cost increases by 1% and their damage dealt decreases by 1%; non-player units take 2% more damage from Light/Heavy Attack: Varied Combo and Drumbeat skills. Blade of Grass stacks up to 5 times.\n\nApplicable skills include: Thundercry Blade: Light Attack Varied Combo, Thundercry Blade: Heavy Attack Varied Combo, Moon Shatter Spring, Colorful Phoenix, Bamboo Breeze, Stygian Freeze, Snowbreak Spring, Rhythm of Accord, and End of Gale.",
+            "colors": [
+              {
+                "start": 5,
+                "end": 37,
+                "kind": "highlight"
+              },
+              {
+                "start": 42,
+                "end": 61,
+                "kind": "reference"
+              },
+              {
+                "start": 62,
+                "end": 77,
+                "kind": "highlight"
+              },
+              {
+                "start": 91,
+                "end": 92,
+                "kind": "highlight"
+              },
+              {
+                "start": 134,
+                "end": 148,
+                "kind": "highlight"
+              },
+              {
+                "start": 161,
+                "end": 162,
+                "kind": "highlight"
+              },
+              {
+                "start": 207,
+                "end": 209,
+                "kind": "highlight"
+              },
+              {
+                "start": 246,
+                "end": 248,
+                "kind": "highlight"
+              },
+              {
+                "start": 272,
+                "end": 274,
+                "kind": "highlight"
+              },
+              {
+                "start": 292,
+                "end": 324,
+                "kind": "highlight"
+              },
+              {
+                "start": 329,
+                "end": 344,
+                "kind": "highlight"
+              },
+              {
+                "start": 346,
+                "end": 360,
+                "kind": "highlight"
+              },
+              {
+                "start": 411,
+                "end": 454,
+                "kind": "reference"
+              },
+              {
+                "start": 456,
+                "end": 499,
+                "kind": "reference"
+              },
+              {
+                "start": 501,
+                "end": 520,
+                "kind": "reference"
+              },
+              {
+                "start": 522,
+                "end": 538,
+                "kind": "reference"
+              },
+              {
+                "start": 540,
+                "end": 553,
+                "kind": "reference"
+              },
+              {
+                "start": 555,
+                "end": 569,
+                "kind": "reference"
+              },
+              {
+                "start": 571,
+                "end": 587,
+                "kind": "reference"
+              },
+              {
+                "start": 589,
+                "end": 605,
+                "kind": "reference"
+              },
+              {
+                "start": 611,
+                "end": 622,
+                "kind": "reference"
+              }
+            ]
+          }
+        ],
+        [
+          {
+            "text": "When Light/Heavy Attack: Varied Combo and Museflow Waist Drum Drumbeat skills hit at least 3 enemies simultaneously, apply 1 stack of Blade of Grass to them for 8s: player units' Endurance Cost increases by 1% and their damage dealt decreases by 1%; non-player units take 2% more damage from Light/Heavy Attack: Varied Combo and Drumbeat skills. Blade of Grass stacks up to 5 times.\n\nApplicable skills include: Thundercry Blade: Light Attack Varied Combo, Thundercry Blade: Heavy Attack Varied Combo, Moon Shatter Spring, Colorful Phoenix, Bamboo Breeze, Stygian Freeze, Snowbreak Spring, Rhythm of Accord, and End of Gale.",
+            "colors": [
+              {
+                "start": 5,
+                "end": 37,
+                "kind": "highlight"
+              },
+              {
+                "start": 42,
+                "end": 61,
+                "kind": "reference"
+              },
+              {
+                "start": 62,
+                "end": 77,
+                "kind": "highlight"
+              },
+              {
+                "start": 91,
+                "end": 92,
+                "kind": "highlight"
+              },
+              {
+                "start": 134,
+                "end": 148,
+                "kind": "highlight"
+              },
+              {
+                "start": 161,
+                "end": 162,
+                "kind": "highlight"
+              },
+              {
+                "start": 207,
+                "end": 209,
+                "kind": "highlight"
+              },
+              {
+                "start": 246,
+                "end": 248,
+                "kind": "highlight"
+              },
+              {
+                "start": 272,
+                "end": 274,
+                "kind": "highlight"
+              },
+              {
+                "start": 292,
+                "end": 324,
+                "kind": "highlight"
+              },
+              {
+                "start": 329,
+                "end": 344,
+                "kind": "highlight"
+              },
+              {
+                "start": 346,
+                "end": 360,
+                "kind": "highlight"
+              },
+              {
+                "start": 411,
+                "end": 454,
+                "kind": "reference"
+              },
+              {
+                "start": 456,
+                "end": 499,
+                "kind": "reference"
+              },
+              {
+                "start": 501,
+                "end": 520,
+                "kind": "reference"
+              },
+              {
+                "start": 522,
+                "end": 538,
+                "kind": "reference"
+              },
+              {
+                "start": 540,
+                "end": 553,
+                "kind": "reference"
+              },
+              {
+                "start": 555,
+                "end": 569,
+                "kind": "reference"
+              },
+              {
+                "start": 571,
+                "end": 587,
+                "kind": "reference"
+              },
+              {
+                "start": 589,
+                "end": 605,
+                "kind": "reference"
+              },
+              {
+                "start": 611,
+                "end": 622,
+                "kind": "reference"
+              }
+            ]
+          }
+        ],
+        [
+          {
+            "text": "Increases Formless Attack based on Solo Mode Level.",
+            "colors": [
+              {
+                "start": 10,
+                "end": 25,
+                "kind": "reference"
+              }
+            ],
+            "bullet": true,
+            "soloLevelValues": [
+              {
+                "startLevel": 16,
+                "stat": "Formless Attack",
+                "formats": [
+                  "1f",
+                  "1f"
+                ],
+                "levels": [
+                  [
+                    14.1,
+                    28.1
+                  ],
+                  [
+                    14.7,
+                    29.5
+                  ],
+                  [
+                    15.9,
+                    31.7
+                  ]
+                ]
+              }
+            ]
+          }
+        ],
+        [
+          {
+            "text": "When Light/Heavy Attack: Varied Combo and Museflow Waist Drum Drumbeat skills hit at least 3 enemies simultaneously, apply 1 stack of Blade of Grass to them for 8s: player units' Endurance Cost increases by 2% and their damage dealt decreases by 1%; non-player units take 4% more damage from Light/Heavy Attack: Varied Combo and Drumbeat skills. Blade of Grass stacks up to 5 times.\n\nApplicable skills include: Thundercry Blade: Light Attack Varied Combo, Thundercry Blade: Heavy Attack Varied Combo, Moon Shatter Spring, Colorful Phoenix, Bamboo Breeze, Stygian Freeze, Snowbreak Spring, Rhythm of Accord, and End of Gale.",
+            "colors": [
+              {
+                "start": 5,
+                "end": 37,
+                "kind": "highlight"
+              },
+              {
+                "start": 42,
+                "end": 61,
+                "kind": "reference"
+              },
+              {
+                "start": 62,
+                "end": 77,
+                "kind": "highlight"
+              },
+              {
+                "start": 91,
+                "end": 92,
+                "kind": "highlight"
+              },
+              {
+                "start": 134,
+                "end": 148,
+                "kind": "highlight"
+              },
+              {
+                "start": 161,
+                "end": 162,
+                "kind": "highlight"
+              },
+              {
+                "start": 207,
+                "end": 209,
+                "kind": "highlight"
+              },
+              {
+                "start": 246,
+                "end": 248,
+                "kind": "highlight"
+              },
+              {
+                "start": 272,
+                "end": 274,
+                "kind": "highlight"
+              },
+              {
+                "start": 292,
+                "end": 324,
+                "kind": "highlight"
+              },
+              {
+                "start": 329,
+                "end": 344,
+                "kind": "highlight"
+              },
+              {
+                "start": 346,
+                "end": 360,
+                "kind": "highlight"
+              },
+              {
+                "start": 411,
+                "end": 454,
+                "kind": "reference"
+              },
+              {
+                "start": 456,
+                "end": 499,
+                "kind": "reference"
+              },
+              {
+                "start": 501,
+                "end": 520,
+                "kind": "reference"
+              },
+              {
+                "start": 522,
+                "end": 538,
+                "kind": "reference"
+              },
+              {
+                "start": 540,
+                "end": 553,
+                "kind": "reference"
+              },
+              {
+                "start": 555,
+                "end": 569,
+                "kind": "reference"
+              },
+              {
+                "start": 571,
+                "end": 587,
+                "kind": "reference"
+              },
+              {
+                "start": 589,
+                "end": 605,
+                "kind": "reference"
+              },
+              {
+                "start": 611,
+                "end": 622,
+                "kind": "reference"
+              }
+            ]
+          }
+        ],
+        [
+          {
+            "text": "When Light/Heavy Attack: Varied Combo and Museflow Waist Drum Drumbeat skills hit at least 2 enemies simultaneously, apply 1 stack of Blade of Grass to them for 8s: player units' Endurance Cost increases by 2% and their damage dealt decreases by 1%; non-player units take 4% more damage from Light/Heavy Attack: Varied Combo and Drumbeat skills. Blade of Grass stacks up to 5 times.\n\nApplicable skills include: Thundercry Blade: Light Attack Varied Combo, Thundercry Blade: Heavy Attack Varied Combo, Moon Shatter Spring, Colorful Phoenix, Bamboo Breeze, Stygian Freeze, Snowbreak Spring, Rhythm of Accord, and End of Gale.",
+            "colors": [
+              {
+                "start": 5,
+                "end": 37,
+                "kind": "highlight"
+              },
+              {
+                "start": 42,
+                "end": 61,
+                "kind": "reference"
+              },
+              {
+                "start": 62,
+                "end": 77,
+                "kind": "highlight"
+              },
+              {
+                "start": 91,
+                "end": 92,
+                "kind": "highlight"
+              },
+              {
+                "start": 134,
+                "end": 148,
+                "kind": "highlight"
+              },
+              {
+                "start": 161,
+                "end": 162,
+                "kind": "highlight"
+              },
+              {
+                "start": 207,
+                "end": 209,
+                "kind": "highlight"
+              },
+              {
+                "start": 246,
+                "end": 248,
+                "kind": "highlight"
+              },
+              {
+                "start": 272,
+                "end": 274,
+                "kind": "highlight"
+              },
+              {
+                "start": 292,
+                "end": 324,
+                "kind": "highlight"
+              },
+              {
+                "start": 329,
+                "end": 344,
+                "kind": "highlight"
+              },
+              {
+                "start": 346,
+                "end": 360,
+                "kind": "highlight"
+              },
+              {
+                "start": 411,
+                "end": 454,
+                "kind": "reference"
+              },
+              {
+                "start": 456,
+                "end": 499,
+                "kind": "reference"
+              },
+              {
+                "start": 501,
+                "end": 520,
+                "kind": "reference"
+              },
+              {
+                "start": 522,
+                "end": 538,
+                "kind": "reference"
+              },
+              {
+                "start": 540,
+                "end": 553,
+                "kind": "reference"
+              },
+              {
+                "start": 555,
+                "end": 569,
+                "kind": "reference"
+              },
+              {
+                "start": 571,
+                "end": 587,
+                "kind": "reference"
+              },
+              {
+                "start": 589,
+                "end": 605,
+                "kind": "reference"
+              },
+              {
+                "start": 611,
+                "end": 622,
+                "kind": "reference"
+              }
+            ]
+          },
+          {
+            "text": "When you hit at least 2 enemies at once, apply Blade of Grass. If you hit at least 3 enemies at once, apply 2 stacks instead.",
+            "colors": [
+              {
+                "start": 22,
+                "end": 23,
+                "kind": "highlight"
+              },
+              {
+                "start": 47,
+                "end": 61,
+                "kind": "highlight"
+              },
+              {
+                "start": 83,
+                "end": 84,
+                "kind": "highlight"
+              }
+            ],
+            "bullet": true
+          }
+        ],
+        [
+          {
+            "text": "Increases Formless Penetration by 6.",
+            "colors": [
+              {
+                "start": 10,
+                "end": 30,
+                "kind": "reference"
+              }
+            ],
+            "bullet": true
+          }
+        ],
+        [
+          {
+            "text": "When Light/Heavy Attack: Varied Combo and Museflow Waist Drum Drumbeat skills hit at least 2 enemies simultaneously, apply 1 stack of Blade of Grass to them for 8s: player units' Endurance Cost increases by 2% and their damage dealt decreases by 1%; non-player units take 4% more damage from Light/Heavy Attack: Varied Combo and Drumbeat skills. Blade of Grass stacks up to 5 times.\n\nApplicable skills include: Thundercry Blade: Light Attack Varied Combo, Thundercry Blade: Heavy Attack Varied Combo, Moon Shatter Spring, Colorful Phoenix, Bamboo Breeze, Stygian Freeze, Snowbreak Spring, Rhythm of Accord, and End of Gale.",
+            "colors": [
+              {
+                "start": 5,
+                "end": 37,
+                "kind": "highlight"
+              },
+              {
+                "start": 42,
+                "end": 61,
+                "kind": "reference"
+              },
+              {
+                "start": 62,
+                "end": 77,
+                "kind": "highlight"
+              },
+              {
+                "start": 91,
+                "end": 92,
+                "kind": "highlight"
+              },
+              {
+                "start": 134,
+                "end": 148,
+                "kind": "highlight"
+              },
+              {
+                "start": 161,
+                "end": 162,
+                "kind": "highlight"
+              },
+              {
+                "start": 207,
+                "end": 209,
+                "kind": "highlight"
+              },
+              {
+                "start": 246,
+                "end": 248,
+                "kind": "highlight"
+              },
+              {
+                "start": 272,
+                "end": 274,
+                "kind": "highlight"
+              },
+              {
+                "start": 292,
+                "end": 324,
+                "kind": "highlight"
+              },
+              {
+                "start": 329,
+                "end": 344,
+                "kind": "highlight"
+              },
+              {
+                "start": 346,
+                "end": 360,
+                "kind": "highlight"
+              },
+              {
+                "start": 411,
+                "end": 454,
+                "kind": "reference"
+              },
+              {
+                "start": 456,
+                "end": 499,
+                "kind": "reference"
+              },
+              {
+                "start": 501,
+                "end": 520,
+                "kind": "reference"
+              },
+              {
+                "start": 522,
+                "end": 538,
+                "kind": "reference"
+              },
+              {
+                "start": 540,
+                "end": 553,
+                "kind": "reference"
+              },
+              {
+                "start": 555,
+                "end": 569,
+                "kind": "reference"
+              },
+              {
+                "start": 571,
+                "end": 587,
+                "kind": "reference"
+              },
+              {
+                "start": 589,
+                "end": 605,
+                "kind": "reference"
+              },
+              {
+                "start": 611,
+                "end": 622,
+                "kind": "reference"
+              }
+            ]
+          },
+          {
+            "text": "When Light/Heavy Attack: Varied Combos or Drumbeat skills hit a player unit with 5 stacks of Blade of Grass, all stacks are removed and Root is applied for 4s, preventing dodging, sprinting, and jumping. A target can be rooted by Blade of Grass from any source at most once every 20s.\nNon-player units with 5 stacks of Blade of Grass take an additional 5% damage from Light/Heavy Attack: Varied Combos and Drumbeat skills.",
+            "colors": [
+              {
+                "start": 5,
+                "end": 38,
+                "kind": "highlight"
+              },
+              {
+                "start": 42,
+                "end": 57,
+                "kind": "highlight"
+              },
+              {
+                "start": 81,
+                "end": 82,
+                "kind": "highlight"
+              },
+              {
+                "start": 93,
+                "end": 107,
+                "kind": "highlight"
+              },
+              {
+                "start": 136,
+                "end": 140,
+                "kind": "highlight"
+              },
+              {
+                "start": 156,
+                "end": 157,
+                "kind": "highlight"
+              },
+              {
+                "start": 230,
+                "end": 244,
+                "kind": "highlight"
+              },
+              {
+                "start": 280,
+                "end": 282,
+                "kind": "highlight"
+              },
+              {
+                "start": 307,
+                "end": 308,
+                "kind": "highlight"
+              },
+              {
+                "start": 319,
+                "end": 333,
+                "kind": "highlight"
+              },
+              {
+                "start": 353,
+                "end": 355,
+                "kind": "highlight"
+              },
+              {
+                "start": 368,
+                "end": 401,
+                "kind": "highlight"
+              },
+              {
+                "start": 406,
+                "end": 421,
                 "kind": "highlight"
               }
             ],
@@ -14932,7 +17045,8 @@
                 ],
                 "levels": [
                   74.4,
-                  77.9
+                  77.9,
+                  84
                 ]
               }
             ]
@@ -15251,7 +17365,7 @@
       "tiers": [
         [
           {
-            "text": "In the Inebriate - Deepdaze state, Riven Twinblades can trigger Hero's Blood - Inebriate. Build momentum with drunken steps, then dash forward at extreme speed and launch enemies upward. While airborne, unleash multiple arcing Blade Energy slashes that deal heavy damage to surrounding enemies. Gain Tenacity during the skill and refresh Carouse.",
+            "text": "In the Inebriate - Deepdaze state, Riven Twinblades can trigger Hero's Blood - Inebriate. Build momentum with drunken steps, then dash forward at extreme speed and launch enemies upward. While airborne, unleash multiple arcing Blade Energy slashes that deal massive damage to surrounding enemies. Gain Tenacity during the skill (and gain Invincibility during aerial combo slash when outside the Arena mode) and refresh Carouse.",
             "colors": [
               {
                 "start": 7,
@@ -15269,13 +17383,23 @@
                 "kind": "reference"
               },
               {
-                "start": 300,
-                "end": 308,
+                "start": 302,
+                "end": 310,
                 "kind": "highlight"
               },
               {
                 "start": 338,
-                "end": 345,
+                "end": 351,
+                "kind": "highlight"
+              },
+              {
+                "start": 383,
+                "end": 405,
+                "kind": "highlight"
+              },
+              {
+                "start": 419,
+                "end": 426,
                 "kind": "highlight"
               }
             ]
@@ -15283,7 +17407,7 @@
         ],
         [
           {
-            "text": "In the Inebriate - Deepdaze state, Riven Twinblades can trigger Hero's Blood - Inebriate. Build momentum with drunken steps, then dash forward at extreme speed and launch enemies upward. While airborne, unleash multiple arcing Blade Energy slashes that deal heavy damage to surrounding enemies. Gain Tenacity during the skill and refresh Carouse.",
+            "text": "In the Inebriate - Deepdaze state, Riven Twinblades can trigger Hero's Blood - Inebriate. Build momentum with drunken steps, then dash forward at extreme speed and launch enemies upward. While airborne, unleash multiple arcing Blade Energy slashes that deal massive damage to surrounding enemies. Gain Tenacity during the skill (and gain Invincibility during aerial combo slash when outside the Arena mode) and refresh Carouse.",
             "colors": [
               {
                 "start": 7,
@@ -15301,13 +17425,23 @@
                 "kind": "reference"
               },
               {
-                "start": 300,
-                "end": 308,
+                "start": 302,
+                "end": 310,
                 "kind": "highlight"
               },
               {
                 "start": 338,
-                "end": 345,
+                "end": 351,
+                "kind": "highlight"
+              },
+              {
+                "start": 383,
+                "end": 405,
+                "kind": "highlight"
+              },
+              {
+                "start": 419,
+                "end": 426,
                 "kind": "highlight"
               }
             ]
@@ -15349,7 +17483,8 @@
                 ],
                 "levels": [
                   0.077,
-                  0.081
+                  0.081,
+                  0.087
                 ]
               }
             ]
@@ -15357,7 +17492,7 @@
         ],
         [
           {
-            "text": "In the Inebriate - Deepdaze state, Riven Twinblades can trigger Hero's Blood - Inebriate. Build momentum with drunken steps, then dash forward at extreme speed and launch enemies upward. While airborne, unleash multiple arcing Blade Energy slashes that deal heavy damage to surrounding enemies. Gain Tenacity during the skill and refresh Carouse.",
+            "text": "In the Inebriate - Deepdaze state, Riven Twinblades can trigger Hero's Blood - Inebriate. Build momentum with drunken steps, then dash forward at extreme speed and launch enemies upward. While airborne, unleash multiple arcing Blade Energy slashes that deal massive damage to surrounding enemies. Gain Tenacity during the skill (and gain Invincibility during aerial combo slash when outside the Arena mode) and refresh Carouse.",
             "colors": [
               {
                 "start": 7,
@@ -15375,13 +17510,23 @@
                 "kind": "reference"
               },
               {
-                "start": 300,
-                "end": 308,
+                "start": 302,
+                "end": 310,
                 "kind": "highlight"
               },
               {
                 "start": 338,
-                "end": 345,
+                "end": 351,
+                "kind": "highlight"
+              },
+              {
+                "start": 383,
+                "end": 405,
+                "kind": "highlight"
+              },
+              {
+                "start": 419,
+                "end": 426,
                 "kind": "highlight"
               }
             ]
@@ -15405,7 +17550,7 @@
         ],
         [
           {
-            "text": "In the Inebriate - Deepdaze state, Riven Twinblades can trigger Hero's Blood - Inebriate. Build momentum with drunken steps, then dash forward at extreme speed and launch enemies upward. While airborne, unleash multiple arcing Blade Energy slashes that deal heavy damage to surrounding enemies. Gain Tenacity during the skill and refresh Carouse.",
+            "text": "In the Inebriate - Deepdaze state, Riven Twinblades can trigger Hero's Blood - Inebriate. Build momentum with drunken steps, then dash forward at extreme speed and launch enemies upward. While airborne, unleash multiple arcing Blade Energy slashes that deal massive damage to surrounding enemies. Gain Tenacity during the skill (and gain Invincibility during aerial combo slash when outside the Arena mode) and refresh Carouse.",
             "colors": [
               {
                 "start": 7,
@@ -15423,13 +17568,23 @@
                 "kind": "reference"
               },
               {
-                "start": 300,
-                "end": 308,
+                "start": 302,
+                "end": 310,
                 "kind": "highlight"
               },
               {
                 "start": 338,
-                "end": 345,
+                "end": 351,
+                "kind": "highlight"
+              },
+              {
+                "start": 383,
+                "end": 405,
+                "kind": "highlight"
+              },
+              {
+                "start": 419,
+                "end": 426,
                 "kind": "highlight"
               }
             ]
@@ -15476,7 +17631,7 @@
         ],
         [
           {
-            "text": "In the Inebriate - Deepdaze state, Riven Twinblades can trigger Hero's Blood - Inebriate. Build momentum with drunken steps, then dash forward at extreme speed and launch enemies upward. While airborne, unleash multiple arcing Blade Energy slashes that deal heavy damage to surrounding enemies. Gain Tenacity during the skill and refresh Carouse.",
+            "text": "In the Inebriate - Deepdaze state, Riven Twinblades can trigger Hero's Blood - Inebriate. Build momentum with drunken steps, then dash forward at extreme speed and launch enemies upward. While airborne, unleash multiple arcing Blade Energy slashes that deal massive damage to surrounding enemies. Gain Tenacity during the skill (and gain Invincibility during aerial combo slash when outside the Arena mode) and refresh Carouse.",
             "colors": [
               {
                 "start": 7,
@@ -15494,13 +17649,23 @@
                 "kind": "reference"
               },
               {
-                "start": 300,
-                "end": 308,
+                "start": 302,
+                "end": 310,
                 "kind": "highlight"
               },
               {
                 "start": 338,
-                "end": 345,
+                "end": 351,
+                "kind": "highlight"
+              },
+              {
+                "start": 383,
+                "end": 405,
+                "kind": "highlight"
+              },
+              {
+                "start": 419,
+                "end": 426,
                 "kind": "highlight"
               }
             ]
@@ -15638,6 +17803,10 @@
                   [
                     23.3,
                     46.7
+                  ],
+                  [
+                    25.2,
+                    50.4
                   ]
                 ]
               }
@@ -15934,6 +18103,10 @@
                   [
                     14.7,
                     29.5
+                  ],
+                  [
+                    15.9,
+                    31.7
                   ]
                 ]
               }
